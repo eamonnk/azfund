@@ -1,0 +1,55 @@
+1
+00:00:00,000 --> 00:00:02,070
+>> The Microsoft privacy statement
+
+2
+00:00:02,070 --> 00:00:05,055
+explains what personal data
+Microsoft processes,
+
+3
+00:00:05,055 --> 00:00:06,735
+how Microsoft processes it,
+
+4
+00:00:06,735 --> 00:00:08,305
+and for what purposes.
+
+5
+00:00:08,305 --> 00:00:11,180
+Statement applies to
+the interactions Microsoft has
+
+6
+00:00:11,180 --> 00:00:13,850
+with you and Microsoft products
+such as Microsoft services,
+
+7
+00:00:13,850 --> 00:00:16,990
+websites, apps, software,
+servers, and devices.
+
+8
+00:00:16,990 --> 00:00:19,790
+It is intended to provide
+openness and honesty about
+
+9
+00:00:19,790 --> 00:00:20,880
+how Microsoft deals with
+
+10
+00:00:20,880 --> 00:00:23,755
+personal data in
+its products and services.
+
+11
+00:00:23,755 --> 00:00:26,745
+You can read the entire
+Microsoft Privacy Statements
+
+12
+00:00:26,745 --> 00:00:29,600
+on the website privacy.microsoft.com.
+

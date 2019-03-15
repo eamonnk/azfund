@@ -1,0 +1,190 @@
+1
+00:00:00,000 --> 00:00:01,740
+>> Now, working on Azure
+
+2
+00:00:01,740 --> 00:00:03,720
+allows you to connect
+cloud and on-premises
+
+3
+00:00:03,720 --> 00:00:05,580
+infrastructure and
+services to provide
+
+4
+00:00:05,580 --> 00:00:08,385
+your customers and users with
+the best possible experience.
+
+5
+00:00:08,385 --> 00:00:10,590
+Once your resources moved to Azure,
+
+6
+00:00:10,590 --> 00:00:12,524
+they require the same
+networking functionality
+
+7
+00:00:12,524 --> 00:00:14,220
+as an on-premises deployment.
+
+8
+00:00:14,220 --> 00:00:16,530
+Some of the most common
+networking service types in
+
+9
+00:00:16,530 --> 00:00:19,200
+Azure, Azure Virtual Network.
+
+10
+00:00:19,200 --> 00:00:20,730
+Azure Virtual Network enables
+
+11
+00:00:20,730 --> 00:00:22,680
+many types of Azure resources such as
+
+12
+00:00:22,680 --> 00:00:24,690
+Azure VMs to securely
+communicate with
+
+13
+00:00:24,690 --> 00:00:27,450
+each other the internet
+and on-premises networks.
+
+14
+00:00:27,450 --> 00:00:29,010
+With Azure Virtual Network,
+
+15
+00:00:29,010 --> 00:00:31,245
+you can provide
+isolation, segmentation,
+
+16
+00:00:31,245 --> 00:00:33,720
+communication when on-premises
+and cloud resources,
+
+17
+00:00:33,720 --> 00:00:36,945
+routing and filtering
+of networking traffic.
+
+18
+00:00:36,945 --> 00:00:40,280
+Azure Load Balancer.
+Azure Load Balancer can provide
+
+19
+00:00:40,280 --> 00:00:41,900
+scale for applications and create
+
+20
+00:00:41,900 --> 00:00:43,940
+high availability for your services.
+
+21
+00:00:43,940 --> 00:00:46,715
+You can use load balancer with
+incoming internet traffic,
+
+22
+00:00:46,715 --> 00:00:49,040
+internal traffic
+across Azure services,
+
+23
+00:00:49,040 --> 00:00:51,305
+port forwarding for
+specific traffic or
+
+24
+00:00:51,305 --> 00:00:54,605
+outbound connectivity for
+VMs in your virtual network.
+
+25
+00:00:54,605 --> 00:00:57,650
+VPN gateway. A VPN gateway can
+
+26
+00:00:57,650 --> 00:00:58,800
+also be referred to as a Virtual
+
+27
+00:00:58,800 --> 00:01:00,260
+Network Gateway that is used to send
+
+28
+00:01:00,260 --> 00:01:02,570
+encrypted traffic between
+an Azure Virtual Network
+
+29
+00:01:02,570 --> 00:01:05,555
+and an on-premises location
+over the public internet.
+
+30
+00:01:05,555 --> 00:01:08,000
+Provides a more secure
+connection from
+
+31
+00:01:08,000 --> 00:01:10,520
+on-premises to Azure
+over the Internet.
+
+32
+00:01:10,520 --> 00:01:12,380
+Azure Application Gateway.
+
+33
+00:01:12,380 --> 00:01:14,900
+Azure Application Gateway is
+a web traffic load balancer
+
+34
+00:01:14,900 --> 00:01:18,310
+that enables you to manage
+traffic to your web applications,
+
+35
+00:01:18,310 --> 00:01:20,180
+and it's a connection
+through its users
+
+36
+00:01:20,180 --> 00:01:22,020
+connect to your application.
+
+37
+00:01:22,020 --> 00:01:24,385
+Content Delivery Network.
+
+38
+00:01:24,385 --> 00:01:27,380
+A Content Delivery Network
+is a distributed network of
+
+39
+00:01:27,380 --> 00:01:31,240
+servers that can efficiently
+deliver web content to users.
+
+40
+00:01:31,240 --> 00:01:33,500
+It is a way to get
+content to users in
+
+41
+00:01:33,500 --> 00:01:36,470
+their local region
+to minimize latency.
+

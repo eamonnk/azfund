@@ -1,0 +1,265 @@
+1
+00:00:01,000 --> 00:00:03,630
+>> So let's log into the Azure portal
+
+2
+00:00:03,630 --> 00:00:06,190
+and have a look at how
+we can customize it.
+
+3
+00:00:07,040 --> 00:00:10,870
+So we signed into the Azure Portal
+by portal.azure.com.
+
+4
+00:00:10,870 --> 00:00:14,200
+Their default view is
+onto the homepage.
+
+5
+00:00:17,870 --> 00:00:20,675
+Here we have a list of useful links,
+
+6
+00:00:20,675 --> 00:00:24,135
+categories, services that
+you may want to use.
+
+7
+00:00:24,135 --> 00:00:26,475
+You can change your default view.
+
+8
+00:00:26,475 --> 00:00:31,050
+You click on settings, we
+access to portal settings,
+
+9
+00:00:31,050 --> 00:00:33,335
+and we can choose our default view
+
+10
+00:00:33,335 --> 00:00:35,810
+to be either the home
+or the dashboard.
+
+11
+00:00:35,810 --> 00:00:38,225
+We can change the color contrast,
+
+12
+00:00:38,225 --> 00:00:40,955
+notifications, and the language
+that the UI appears,
+
+13
+00:00:40,955 --> 00:00:42,200
+as well as the regional formats.
+
+14
+00:00:42,200 --> 00:00:43,820
+So if we select to
+have the dashboard as
+
+15
+00:00:43,820 --> 00:00:46,520
+our default view of me login
+to the portal and click Apply,
+
+16
+00:00:46,520 --> 00:00:47,780
+the next time you
+log into the portal,
+
+17
+00:00:47,780 --> 00:00:49,865
+the dashboard will appear
+first as the default view.
+
+18
+00:00:49,865 --> 00:00:53,360
+If we click on dashboard, we
+see we have a series of tiles.
+
+19
+00:00:53,360 --> 00:00:57,370
+We can customize and modify
+our dashboard view by clicking Edit,
+
+20
+00:00:57,370 --> 00:01:01,950
+we can rearrange and
+resize our tiles.
+
+21
+00:01:10,850 --> 00:01:13,490
+We can remove items,
+drag them around,
+
+22
+00:01:13,490 --> 00:01:15,110
+resize them, reorder them.
+
+23
+00:01:15,110 --> 00:01:19,070
+We can also bring in tiles for
+specific service or products
+
+24
+00:01:19,070 --> 00:01:21,420
+in the tile gallery.
+
+25
+00:01:22,480 --> 00:01:25,460
+We see for virtual machines we have
+
+26
+00:01:25,460 --> 00:01:28,550
+21 different tiles
+available around CPU Usage,
+
+27
+00:01:28,550 --> 00:01:30,895
+Memory Usage, Disk Writes and more.
+
+28
+00:01:30,895 --> 00:01:32,580
+We can drag these and use them.
+
+29
+00:01:32,580 --> 00:01:35,140
+If we had an application and we
+wanted to keep a close eye on it,
+
+30
+00:01:35,140 --> 00:01:37,400
+we could drag into
+critical resources into
+
+31
+00:01:37,400 --> 00:01:40,520
+our dashboard and have them
+display in almost real-time.
+
+32
+00:01:40,520 --> 00:01:42,530
+So we can see disk writes,
+
+33
+00:01:42,530 --> 00:01:45,430
+memory, CPU performance,
+and our dashboard view.
+
+34
+00:01:45,430 --> 00:01:47,190
+And when we're finished,
+click Done Customizing.
+
+35
+00:01:47,190 --> 00:01:48,810
+You can also have
+multiple dashboards,
+
+36
+00:01:48,810 --> 00:01:50,890
+you can create a new dashboard.
+
+37
+00:01:59,660 --> 00:02:02,675
+Drag in some tiles,
+
+38
+00:02:02,675 --> 00:02:06,530
+and I can then choose
+which dashboard I wish to view.
+
+39
+00:02:19,990 --> 00:02:22,970
+You can download and export
+the dashboard as well,
+
+40
+00:02:22,970 --> 00:02:25,505
+and then load it as a JSON file,
+
+41
+00:02:25,505 --> 00:02:27,725
+and you can save that and share it.
+
+42
+00:02:27,725 --> 00:02:30,690
+You can also access All Services,
+
+43
+00:02:30,690 --> 00:02:33,860
+if you're looking for
+a particular service.
+
+44
+00:02:36,330 --> 00:02:41,400
+That's the Advisor, type
+in to All Services box,
+
+45
+00:02:41,400 --> 00:02:43,910
+or virtual machines,
+type in a keyword
+
+46
+00:02:43,910 --> 00:02:45,380
+and you get all the related services
+
+47
+00:02:45,380 --> 00:02:47,170
+appearing which we can then chose.
+
+48
+00:02:47,170 --> 00:02:49,360
+Likewise, we can click
+Create a Resource,
+
+49
+00:02:49,360 --> 00:02:52,405
+type in the object that
+we're looking for,
+
+50
+00:02:52,405 --> 00:02:54,410
+and everything related to storage in
+
+51
+00:02:54,410 --> 00:02:56,545
+this instance appears in the pane.
+
+52
+00:02:56,545 --> 00:02:59,520
+Accessing the icons in the top right,
+
+53
+00:02:59,520 --> 00:03:02,085
+you can also provide feedback,
+
+54
+00:03:02,085 --> 00:03:06,100
+obtain help, configure a settings
+as we've already seen,
+
+55
+00:03:06,100 --> 00:03:07,995
+view our notifications,
+
+56
+00:03:07,995 --> 00:03:10,305
+view our directory and
+subscription detail,
+
+57
+00:03:10,305 --> 00:03:13,000
+and also access the Cloud Shell,
+
+58
+00:03:13,640 --> 00:03:17,290
+which is a browser-based
+management tool.
+

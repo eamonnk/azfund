@@ -1,0 +1,90 @@
+1
+00:00:00,000 --> 00:00:02,640
+>> When selecting your cloud
+provider to host your solutions,
+
+2
+00:00:02,640 --> 00:00:04,350
+you should understand
+how the provider can
+
+3
+00:00:04,350 --> 00:00:06,480
+help you comply with
+regulations and standards.
+
+4
+00:00:06,480 --> 00:00:09,150
+Some questions to ask about
+a potential provider include,
+
+5
+00:00:09,150 --> 00:00:10,845
+how compliant is the cloud provider
+
+6
+00:00:10,845 --> 00:00:13,035
+when it comes to
+handling sensitive data?
+
+7
+00:00:13,035 --> 00:00:16,100
+How compliant is the services
+offered by the cloud provider?
+
+8
+00:00:16,100 --> 00:00:18,390
+How can I deploy
+my own cloud-based solutions to
+
+9
+00:00:18,390 --> 00:00:21,870
+scenarios that have accreditation
+or compliance requirements?
+
+10
+00:00:21,870 --> 00:00:24,330
+Microsoft invests heavily
+in the development of
+
+11
+00:00:24,330 --> 00:00:27,600
+robust and innovative
+compliance processes.
+
+12
+00:00:27,600 --> 00:00:29,970
+Microsoft provides
+the most comprehensive set
+
+13
+00:00:29,970 --> 00:00:31,155
+of compliance offerings,
+
+14
+00:00:31,155 --> 00:00:33,405
+including certifications
+and attestations,
+
+15
+00:00:33,405 --> 00:00:35,040
+of any cloud service provider.
+
+16
+00:00:35,040 --> 00:00:36,150
+Well, the following list is not
+
+17
+00:00:36,150 --> 00:00:37,500
+a full list of compliance offerings,
+
+18
+00:00:37,500 --> 00:00:39,480
+it will provide you with
+an idea of the level of
+
+19
+00:00:39,480 --> 00:00:42,000
+compliance offerings that
+are available within Azure.
+

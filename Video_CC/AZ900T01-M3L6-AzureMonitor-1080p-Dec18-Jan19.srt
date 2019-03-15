@@ -1,0 +1,120 @@
+1
+00:00:00,000 --> 00:00:03,150
+>> Azure Monitor maximize
+the availability and performance of
+
+2
+00:00:03,150 --> 00:00:04,620
+your applications by delivering
+
+3
+00:00:04,620 --> 00:00:06,360
+a comprehensive solution
+for collecting,
+
+4
+00:00:06,360 --> 00:00:08,280
+analyzing, and acting on telemetry
+
+5
+00:00:08,280 --> 00:00:10,905
+from your Cloud and
+on-premises environments.
+
+6
+00:00:10,905 --> 00:00:12,480
+It helps you understand how
+
+7
+00:00:12,480 --> 00:00:14,280
+your applications are
+performing and proactively
+
+8
+00:00:14,280 --> 00:00:18,315
+identifies issues affecting them
+on the resources they depend on.
+
+9
+00:00:18,315 --> 00:00:21,450
+As soon as you create an Azure
+subscription and start adding
+
+10
+00:00:21,450 --> 00:00:23,900
+resources such as
+virtual machines and web apps,
+
+11
+00:00:23,900 --> 00:00:26,565
+Azure Monitor starts collecting data.
+
+12
+00:00:26,565 --> 00:00:30,525
+Activity Logs record when
+resources are created or modified,
+
+13
+00:00:30,525 --> 00:00:33,315
+and Metrics tell you how
+the resource is performing,
+
+14
+00:00:33,315 --> 00:00:35,910
+and the resources
+that it's consuming.
+
+15
+00:00:35,910 --> 00:00:38,520
+You can extend the data
+you're collecting into
+
+16
+00:00:38,520 --> 00:00:40,500
+the actual operation
+of the resources by
+
+17
+00:00:40,500 --> 00:00:44,915
+enabling diagnostics and adding
+an agent to compute resources.
+
+18
+00:00:44,915 --> 00:00:46,605
+Under the Resource Settings,
+
+19
+00:00:46,605 --> 00:00:48,220
+you can enable diagnostics,
+
+20
+00:00:48,220 --> 00:00:51,225
+and you can enable
+guest-level monitoring,
+
+21
+00:00:51,225 --> 00:00:54,560
+collect performance data
+using performance counters,
+
+22
+00:00:54,560 --> 00:00:56,960
+enable various Event Logs,
+
+23
+00:00:56,960 --> 00:00:59,350
+enable or disable Crash Dumps,
+
+24
+00:00:59,350 --> 00:01:01,310
+send your diagnostic data to
+
+25
+00:01:01,310 --> 00:01:03,750
+other services for
+more analysis using Sinks,
+
+26
+00:01:03,750 --> 00:01:05,800
+and configure your Agent Settings
+

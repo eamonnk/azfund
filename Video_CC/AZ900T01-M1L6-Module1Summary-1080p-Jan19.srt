@@ -1,0 +1,116 @@
+1
+00:00:00,000 --> 00:00:02,280
+>> In this module, you've
+learned about Cloud computing,
+
+2
+00:00:02,280 --> 00:00:05,310
+what it is, a moderate
+key characteristics.
+
+3
+00:00:05,310 --> 00:00:07,380
+You've learned what are
+some of the key terms
+
+4
+00:00:07,380 --> 00:00:08,670
+and concepts of Cloud computing,
+
+5
+00:00:08,670 --> 00:00:12,165
+such as high availability,
+agility, elasticity,
+
+6
+00:00:12,165 --> 00:00:14,460
+global reach, capital expenditure
+
+7
+00:00:14,460 --> 00:00:17,295
+versus operational expenditure in
+the context of Cloud computing,
+
+8
+00:00:17,295 --> 00:00:20,820
+economies of scale, and
+the consumption-based cost model.
+
+9
+00:00:20,820 --> 00:00:22,860
+You then learned about
+the public Cloud,
+
+10
+00:00:22,860 --> 00:00:25,185
+the Private cloud, and
+the Hybrid cloud models.
+
+11
+00:00:25,185 --> 00:00:27,855
+You learned what of the key
+characteristics of each model,
+
+12
+00:00:27,855 --> 00:00:29,820
+and also what are the considerations
+
+13
+00:00:29,820 --> 00:00:31,710
+you need to take account
+of when using them,
+
+14
+00:00:31,710 --> 00:00:34,785
+as well as how they compare
+and when they might be used.
+
+15
+00:00:34,785 --> 00:00:36,650
+Finally, you learned about
+
+16
+00:00:36,650 --> 00:00:38,719
+the different types of
+Cloud services available;
+
+17
+00:00:38,719 --> 00:00:40,025
+infrastructure as a service,
+
+18
+00:00:40,025 --> 00:00:41,225
+platform as a service,
+
+19
+00:00:41,225 --> 00:00:42,700
+and software as a service.
+
+20
+00:00:42,700 --> 00:00:45,500
+You learned about the key
+characteristics of each service,
+
+21
+00:00:45,500 --> 00:00:46,700
+what are the
+considerations you need to
+
+22
+00:00:46,700 --> 00:00:48,290
+take account of when using them,
+
+23
+00:00:48,290 --> 00:00:50,990
+how they compare, and
+when they might be used.
+
+24
+00:00:50,990 --> 00:00:53,750
+You also learned about the different
+management responsibilities
+
+25
+00:00:53,750 --> 00:00:55,860
+onto each service type.
+

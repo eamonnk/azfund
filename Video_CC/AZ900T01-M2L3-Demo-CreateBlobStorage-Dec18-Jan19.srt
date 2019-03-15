@@ -1,0 +1,180 @@
+1
+00:00:00,820 --> 00:00:03,990
+>> So, let's go ahead and
+create some blob storage.
+
+2
+00:00:03,990 --> 00:00:05,685
+So, we're logged in
+to the Azure portal,
+
+3
+00:00:05,685 --> 00:00:10,755
+a portal.azure.com.
+Run the "Home" page.
+
+4
+00:00:10,755 --> 00:00:13,110
+We get down the list of
+services on the left.
+
+5
+00:00:13,110 --> 00:00:15,790
+We look for "Storage Accounts",
+
+6
+00:00:17,810 --> 00:00:20,130
+and into "Storage Accounts" pane,
+
+7
+00:00:20,130 --> 00:00:22,960
+we click "Create Storage Account".
+
+8
+00:00:26,330 --> 00:00:28,530
+With the series of tabs you need to
+
+9
+00:00:28,530 --> 00:00:30,960
+configure into "Create
+Storage Account" pane.
+
+10
+00:00:30,960 --> 00:00:32,355
+Subscription is free trial.
+
+11
+00:00:32,355 --> 00:00:34,690
+We create a new "Resource Group",
+
+12
+00:00:38,210 --> 00:00:41,970
+we call it blobrg1.
+
+13
+00:00:41,970 --> 00:00:44,330
+We need a storage account name,
+
+14
+00:00:44,330 --> 00:00:47,050
+and it needs to be
+a unique name across Azure.
+
+15
+00:00:47,050 --> 00:00:50,620
+If you append your initials or
+something like that to the name,
+
+16
+00:00:50,620 --> 00:00:52,310
+that may help to make it unique.
+
+17
+00:00:52,310 --> 00:00:55,740
+Blobstrek03, we'll take
+the default location,
+
+18
+00:00:55,740 --> 00:00:57,750
+"Standard" performance, and for
+
+19
+00:00:57,750 --> 00:01:00,090
+"Account kind'' we'll
+select "BlobStorage".
+
+20
+00:01:00,090 --> 00:01:02,200
+Take the defaults, let it complete
+
+21
+00:01:02,200 --> 00:01:04,680
+the validation which
+will run successfully,
+
+22
+00:01:04,680 --> 00:01:07,090
+and then click ''Create''.
+
+23
+00:01:18,650 --> 00:01:21,540
+That deployment has succeeded.
+
+24
+00:01:21,540 --> 00:01:24,285
+We'll go to a ''Resource Group'',
+
+25
+00:01:24,285 --> 00:01:27,310
+open our storage account.
+
+26
+00:01:30,530 --> 00:01:34,810
+Let's scroll down to "Blob
+Service" and then "Blobs".
+
+27
+00:01:38,900 --> 00:01:43,380
+Next, we need to create a
+container when in blob storage.
+
+28
+00:01:49,810 --> 00:01:53,190
+We've got a blob container.
+
+29
+00:01:55,010 --> 00:01:57,435
+For public access level,
+
+30
+00:01:57,435 --> 00:02:02,290
+we'll select ''Anonymous Read
+Access for Containers and Blobs''.
+
+31
+00:02:04,970 --> 00:02:15,910
+Click ''OK''. So, if we
+open up blob container now,
+
+32
+00:02:22,700 --> 00:02:27,315
+you want to upload some files
+to it, click ''Upload''.
+
+33
+00:02:27,315 --> 00:02:39,600
+Browse some file startup,
+click ''Upload''.
+
+34
+00:02:40,870 --> 00:02:45,100
+We can see the file we uploaded at
+blob storage is available here.
+
+35
+00:02:45,100 --> 00:02:47,370
+Click on the ''... ''.
+
+36
+00:02:47,370 --> 00:02:50,430
+We can open up an access to
+content in the blob file.
+
+37
+00:02:50,430 --> 00:02:53,530
+If you go to ''Blob Properties'',
+
+38
+00:02:55,880 --> 00:03:00,640
+copy the "URL", drop
+it into a browser.
+
+39
+00:03:03,740 --> 00:03:06,200
+So, that blob storage content
+
+40
+00:03:06,200 --> 00:03:09,150
+is now available
+globally via that URL.
+

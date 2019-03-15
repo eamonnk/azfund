@@ -1,0 +1,62 @@
+1
+00:00:00,000 --> 00:00:02,850
+>> Azure Resource Manager is
+a management layer in which
+
+2
+00:00:02,850 --> 00:00:05,850
+resource groups and all the
+resources within it are created,
+
+3
+00:00:05,850 --> 00:00:08,955
+configured, managed, and deleted.
+
+4
+00:00:08,955 --> 00:00:11,595
+It provides a consistent
+management layer
+
+5
+00:00:11,595 --> 00:00:13,380
+which allows you to
+automate the deployment and
+
+6
+00:00:13,380 --> 00:00:16,290
+configuration resources using
+different automation tools
+
+7
+00:00:16,290 --> 00:00:19,050
+and scripting tools such
+as Azure Powershell,
+
+8
+00:00:19,050 --> 00:00:22,110
+Azure Command-Line
+Interface, Azure Portal,
+
+9
+00:00:22,110 --> 00:00:25,240
+REST APIs, and Client SDKs.
+
+10
+00:00:25,430 --> 00:00:27,480
+With Azure Resource Manager,
+
+11
+00:00:27,480 --> 00:00:29,610
+you can deploy application
+resources, update,
+
+12
+00:00:29,610 --> 00:00:31,380
+manage and delete
+all the resources for
+
+13
+00:00:31,380 --> 00:00:34,730
+your solution in
+a single coordinated operation.
+

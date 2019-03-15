@@ -1,0 +1,164 @@
+1
+00:00:00,000 --> 00:00:02,790
+>> Azure Database Services
+are fully managed
+
+2
+00:00:02,790 --> 00:00:04,590
+PaaS database services that free up
+
+3
+00:00:04,590 --> 00:00:07,350
+valuable time you'd otherwise
+spend managing your database.
+
+4
+00:00:07,350 --> 00:00:09,180
+Enterprise grade performance with
+
+5
+00:00:09,180 --> 00:00:11,100
+built-in high availability
+means you can
+
+6
+00:00:11,100 --> 00:00:12,360
+scale quickly and reach
+
+7
+00:00:12,360 --> 00:00:15,225
+global distribution without
+worrying about costly downtime.
+
+8
+00:00:15,225 --> 00:00:18,480
+Developers can take advantage of
+industry leading innovations such
+
+9
+00:00:18,480 --> 00:00:19,770
+as built-in security with
+
+10
+00:00:19,770 --> 00:00:21,735
+automatic monitoring
+and threat detection.
+
+11
+00:00:21,735 --> 00:00:23,940
+Automatic tuning for
+improved performance
+
+12
+00:00:23,940 --> 00:00:26,580
+on turnkey global distribution.
+
+13
+00:00:26,580 --> 00:00:30,540
+Some of the most common data
+service types in Azure are;
+
+14
+00:00:30,540 --> 00:00:33,920
+Azure Cosmos DB:
+Microsoft Azure Cosmos DB
+
+15
+00:00:33,920 --> 00:00:36,260
+is a globally distributed
+database service that
+
+16
+00:00:36,260 --> 00:00:38,915
+enables you to elastically
+and independently scale
+
+17
+00:00:38,915 --> 00:00:40,550
+throughput and storage across
+
+18
+00:00:40,550 --> 00:00:43,115
+any number of Azure's
+geographic regions.
+
+19
+00:00:43,115 --> 00:00:45,710
+You can use Cosmos DB to store data
+
+20
+00:00:45,710 --> 00:00:48,500
+that is updated and maintained
+by users around the world.
+
+21
+00:00:48,500 --> 00:00:50,660
+It makes it easy to
+build scalable highly
+
+22
+00:00:50,660 --> 00:00:53,840
+responsive applications
+at global scale.
+
+23
+00:00:53,840 --> 00:00:58,190
+Azure SQL Database: Azure SQL
+Database is a relational database as
+
+24
+00:00:58,190 --> 00:00:59,360
+a service based on
+
+25
+00:00:59,360 --> 00:01:03,280
+the latest stable version of
+Microsoft SQL Server database engine.
+
+26
+00:01:03,280 --> 00:01:06,015
+SQL database is
+a high-performance, reliable,
+
+27
+00:01:06,015 --> 00:01:07,190
+fully managed and secure
+
+28
+00:01:07,190 --> 00:01:09,470
+database that you can
+use to build data driven
+
+29
+00:01:09,470 --> 00:01:11,930
+applications and websites in
+the programming language of
+
+30
+00:01:11,930 --> 00:01:15,515
+your choice without needing
+to manage infrastructure.
+
+31
+00:01:15,515 --> 00:01:19,685
+Azure Database Migration:
+The Azure Database Migration Service
+
+32
+00:01:19,685 --> 00:01:21,530
+is a fully managed
+service designed to
+
+33
+00:01:21,530 --> 00:01:23,240
+enable seamless migrations from
+
+34
+00:01:23,240 --> 00:01:24,980
+multiple database sources to
+
+35
+00:01:24,980 --> 00:01:28,000
+Azure data platforms
+with minimal downtime.
+

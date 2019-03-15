@@ -1,0 +1,182 @@
+1
+00:00:00,000 --> 00:00:02,610
+>> There are three main customer
+types on which the available
+
+2
+00:00:02,610 --> 00:00:05,775
+purchasing options for Azure
+products and services contingent.
+
+3
+00:00:05,775 --> 00:00:08,460
+Enterprise. Enterprise customers sign
+
+4
+00:00:08,460 --> 00:00:09,900
+an enterprise agreement with Azure,
+
+5
+00:00:09,900 --> 00:00:12,240
+that commits them to spending
+and negotiated amount on
+
+6
+00:00:12,240 --> 00:00:15,090
+Azure services which they
+typically pay annually.
+
+7
+00:00:15,090 --> 00:00:19,290
+Enterprise customers also have
+access to customized Azure pricing.
+
+8
+00:00:19,290 --> 00:00:21,810
+Web direct. Web direct customers
+
+9
+00:00:21,810 --> 00:00:23,970
+sign up for Azure through
+the Azure website.
+
+10
+00:00:23,970 --> 00:00:26,280
+Web direct customers pay
+the same prices that
+
+11
+00:00:26,280 --> 00:00:28,620
+the general public pay
+for Azure resources,
+
+12
+00:00:28,620 --> 00:00:30,810
+and their monthly billing
+and payments occur through
+
+13
+00:00:30,810 --> 00:00:34,365
+the Azure website.
+Cloud service provider.
+
+14
+00:00:34,365 --> 00:00:36,795
+Cloud service providers (CSP)
+
+15
+00:00:36,795 --> 00:00:39,030
+typically are Microsoft
+partner companies,
+
+16
+00:00:39,030 --> 00:00:41,940
+that a customer hires to build
+solutions on top of Azure.
+
+17
+00:00:41,940 --> 00:00:43,685
+Payment and billing for Azure usage
+
+18
+00:00:43,685 --> 00:00:46,360
+occurs through the Customer CSP.
+
+19
+00:00:47,050 --> 00:00:50,520
+Products and services and Azure
+are arranged by category,
+
+20
+00:00:50,520 --> 00:00:52,775
+which have various resources
+that you can provision.
+
+21
+00:00:52,775 --> 00:00:54,290
+You select the Azure products and
+
+22
+00:00:54,290 --> 00:00:55,955
+services that fit your requirements,
+
+23
+00:00:55,955 --> 00:00:57,710
+and your account is billed according
+
+24
+00:00:57,710 --> 00:01:00,420
+to the Azure consumption-based model.
+
+25
+00:01:01,340 --> 00:01:03,945
+When you provision an Azure resource,
+
+26
+00:01:03,945 --> 00:01:07,145
+Azure creates one more meter
+instances for that resource.
+
+27
+00:01:07,145 --> 00:01:09,335
+The meters track the resources usage,
+
+28
+00:01:09,335 --> 00:01:10,550
+and each meter generates
+
+29
+00:01:10,550 --> 00:01:13,430
+a usage record that is used
+to calculate your bill.
+
+30
+00:01:13,430 --> 00:01:17,180
+For example, a single virtual
+machine that you provision in Azure
+
+31
+00:01:17,180 --> 00:01:19,010
+might have some of
+the following meters tracking
+
+32
+00:01:19,010 --> 00:01:21,225
+its usage: Compute hours,
+
+33
+00:01:21,225 --> 00:01:24,275
+IP Address Hours,
+Data Transferred In,
+
+34
+00:01:24,275 --> 00:01:27,225
+Data Transferred Out and others.
+
+35
+00:01:27,225 --> 00:01:29,150
+An Azure free accounts provide
+
+36
+00:01:29,150 --> 00:01:31,760
+subscribers would a $200 Azure credit
+
+37
+00:01:31,760 --> 00:01:33,290
+that they can use for Azure paid
+
+38
+00:01:33,290 --> 00:01:35,585
+products during
+a 30-day trial period.
+
+39
+00:01:35,585 --> 00:01:39,170
+Once you use that $200 credit
+or reach your trials end,
+
+40
+00:01:39,170 --> 00:01:42,470
+Azure suspends your account unless
+you sign up for a paid account.
+

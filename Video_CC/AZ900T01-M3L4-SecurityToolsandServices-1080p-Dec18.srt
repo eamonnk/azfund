@@ -1,0 +1,232 @@
+1
+00:00:00,000 --> 00:00:02,680
+>> Azure Key Vault is
+a centralized cloud service
+
+2
+00:00:02,680 --> 00:00:04,510
+for storing application secrets.
+
+3
+00:00:04,510 --> 00:00:07,690
+Key Vault helps you control
+your application secrets by keeping
+
+4
+00:00:07,690 --> 00:00:10,825
+them in a single central location
+and providing secure access,
+
+5
+00:00:10,825 --> 00:00:13,535
+permission control,
+and access logging.
+
+6
+00:00:13,535 --> 00:00:16,795
+Usage scenarios include:
+Secrets management.
+
+7
+00:00:16,795 --> 00:00:18,280
+You can use Key Vault to securely
+
+8
+00:00:18,280 --> 00:00:20,320
+store and tightly control
+access to tokens,
+
+9
+00:00:20,320 --> 00:00:23,815
+passwords, certificates,
+API Keys and other secrets.
+
+10
+00:00:23,815 --> 00:00:26,020
+Key management: You also
+
+11
+00:00:26,020 --> 00:00:27,730
+can use Key Vault as
+a management solution.
+
+12
+00:00:27,730 --> 00:00:29,610
+Key Vault makes it easier
+to create and control
+
+13
+00:00:29,610 --> 00:00:32,770
+the encryption keys used
+to encrypt your data.
+
+14
+00:00:32,770 --> 00:00:35,230
+Certificate management: Key Vault is
+
+15
+00:00:35,230 --> 00:00:37,210
+a service that lets you
+more easily provision,
+
+16
+00:00:37,210 --> 00:00:39,805
+manage and deploy
+public and private certificates
+
+17
+00:00:39,805 --> 00:00:43,225
+for use with Azure on
+your internal connected resources.
+
+18
+00:00:43,225 --> 00:00:46,705
+We store secrets backed by
+hardware security modules.
+
+19
+00:00:46,705 --> 00:00:48,580
+The secrets and keys
+can be protected by
+
+20
+00:00:48,580 --> 00:00:51,730
+software or hardware
+security modules.
+
+21
+00:00:51,730 --> 00:00:54,685
+Microsoft Azure
+Information Protection
+
+22
+00:00:54,685 --> 00:00:56,740
+is a cloud-based solution that helps
+
+23
+00:00:56,740 --> 00:00:58,630
+organizations classify and optionally
+
+24
+00:00:58,630 --> 00:01:01,570
+protects documents and
+emails by applying labels.
+
+25
+00:01:01,570 --> 00:01:04,240
+Labels can be applied
+automatically by administrators to
+
+26
+00:01:04,240 --> 00:01:07,060
+define rules and conditions
+or manually by users,
+
+27
+00:01:07,060 --> 00:01:10,985
+or a combination of both whereby
+users are given recommendations.
+
+28
+00:01:10,985 --> 00:01:14,945
+After your content is classified
+and optionally protected,
+
+29
+00:01:14,945 --> 00:01:17,915
+you can then track and control
+how the content is used.
+
+30
+00:01:17,915 --> 00:01:20,565
+Azure Advanced Threat
+Protection, Azure ATP,
+
+31
+00:01:20,565 --> 00:01:22,860
+is a cloud-based security
+solution that identifies,
+
+32
+00:01:22,860 --> 00:01:25,160
+detects and helps you
+investigate advanced threats,
+
+33
+00:01:25,160 --> 00:01:27,770
+compromise identities and
+malicious insider actions
+
+34
+00:01:27,770 --> 00:01:29,375
+directed at your organization.
+
+35
+00:01:29,375 --> 00:01:31,550
+Azure ATP is capable of detecting
+
+36
+00:01:31,550 --> 00:01:33,470
+known malicious attacks
+and techniques,
+
+37
+00:01:33,470 --> 00:01:36,260
+security issues, and risks
+against your network.
+
+38
+00:01:36,260 --> 00:01:40,230
+Azure ATP consists of the following
+components: The Azure ATP
+
+39
+00:01:40,230 --> 00:01:42,030
+portal: Azure ATP has
+
+40
+00:01:42,030 --> 00:01:43,100
+its own portal to which you
+
+41
+00:01:43,100 --> 00:01:45,215
+monitor and respond to
+suspicious activity.
+
+42
+00:01:45,215 --> 00:01:48,050
+As portal.atp.azure.com.
+
+43
+00:01:48,050 --> 00:01:50,870
+Azure ATP sensor: Azure ATP sensors
+
+44
+00:01:50,870 --> 00:01:52,780
+are installed directly on
+your domain controllers.
+
+45
+00:01:52,780 --> 00:01:55,430
+The sensors that monitor
+domain controller traffic without
+
+46
+00:01:55,430 --> 00:01:58,520
+requiring a dedicated server
+or configuring port mirroring,
+
+47
+00:01:58,520 --> 00:02:00,530
+and Azure ATP Cloud Service.
+
+48
+00:02:00,530 --> 00:02:02,990
+Azure ATP cloud service runs
+on Azure infrastructure
+
+49
+00:02:02,990 --> 00:02:05,730
+and is connected to Microsoft's
+Intelligent Security Graph.
+

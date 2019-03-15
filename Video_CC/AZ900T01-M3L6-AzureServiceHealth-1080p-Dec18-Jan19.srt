@@ -1,0 +1,131 @@
+1
+00:00:00,000 --> 00:00:03,060
+>> Azure Service Health is a suite
+of experiences that provide
+
+2
+00:00:03,060 --> 00:00:04,620
+personalized guidance and support
+
+3
+00:00:04,620 --> 00:00:06,705
+when issues with Azure
+services effect through.
+
+4
+00:00:06,705 --> 00:00:09,840
+It can notify you, help you
+understand the impact of issues,
+
+5
+00:00:09,840 --> 00:00:12,300
+keep you updated as
+the issue is resolved.
+
+6
+00:00:12,300 --> 00:00:13,890
+Azure Service Health can
+
+7
+00:00:13,890 --> 00:00:15,480
+also help you prepare
+for planned maintenance,
+
+8
+00:00:15,480 --> 00:00:18,765
+and changes that could affect
+the availability of your resources.
+
+9
+00:00:18,765 --> 00:00:22,185
+Azure Service Health is
+composed of Azure status.
+
+10
+00:00:22,185 --> 00:00:23,940
+Azure status provides
+a global view of
+
+11
+00:00:23,940 --> 00:00:26,670
+the health status of Azure services.
+
+12
+00:00:26,670 --> 00:00:29,610
+With Azure status, you can get
+up to the minute information on
+
+13
+00:00:29,610 --> 00:00:32,520
+service availability. Service health.
+
+14
+00:00:32,520 --> 00:00:35,310
+Service health provides you with
+a customizable dashboard that
+
+15
+00:00:35,310 --> 00:00:36,960
+tracks the state of
+your Azure services
+
+16
+00:00:36,960 --> 00:00:38,790
+in the regions where you use them.
+
+17
+00:00:38,790 --> 00:00:40,355
+In this dashboard, you can track
+
+18
+00:00:40,355 --> 00:00:42,950
+active events such as
+ongoing service issues,
+
+19
+00:00:42,950 --> 00:00:44,570
+upcoming planned maintenance or
+
+20
+00:00:44,570 --> 00:00:48,410
+relevant health advisories.
+Azure Resource Health.
+
+21
+00:00:48,410 --> 00:00:50,840
+Resource Health helps you
+diagnose and obtain support,
+
+22
+00:00:50,840 --> 00:00:53,270
+when an Azure service issue
+affects your resources.
+
+23
+00:00:53,270 --> 00:00:54,710
+Provides your details about
+
+24
+00:00:54,710 --> 00:00:56,495
+the current and past state
+of your resources
+
+25
+00:00:56,495 --> 00:01:00,140
+and also provides technical support
+to help you mitigate problems.
+
+26
+00:01:00,140 --> 00:01:02,570
+Together, these experiences
+provides you with
+
+27
+00:01:02,570 --> 00:01:05,960
+a comprehensive view into the health
+of Azure at the granularity,
+
+28
+00:01:05,960 --> 00:01:07,400
+that is most relevant to you.
+

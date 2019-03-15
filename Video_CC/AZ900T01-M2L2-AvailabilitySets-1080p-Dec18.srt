@@ -1,0 +1,103 @@
+1
+00:00:00,000 --> 00:00:01,860
+>> Availability sets are a way
+
+2
+00:00:01,860 --> 00:00:03,750
+for you to ensure
+your application remains
+
+3
+00:00:03,750 --> 00:00:06,000
+online if a high-impact
+maintenance event
+
+4
+00:00:06,000 --> 00:00:08,730
+is required or
+a hardware failure occurs.
+
+5
+00:00:08,730 --> 00:00:14,110
+Availability sets are made up of
+update domains and fault domains.
+
+6
+00:00:16,400 --> 00:00:18,750
+When a maintenance event occurs,
+
+7
+00:00:18,750 --> 00:00:20,430
+such as a performance update or
+
+8
+00:00:20,430 --> 00:00:22,410
+a critical security patch
+applied to a host,
+
+9
+00:00:22,410 --> 00:00:25,500
+the update is sequenced
+through update domains.
+
+10
+00:00:25,500 --> 00:00:28,320
+Sequencing updates using
+update domains ensures that
+
+11
+00:00:28,320 --> 00:00:29,400
+the entire datacenter is not
+
+12
+00:00:29,400 --> 00:00:32,505
+unavailable during
+platform updates and patching.
+
+13
+00:00:32,505 --> 00:00:35,010
+Update domains are
+a logical section of
+
+14
+00:00:35,010 --> 00:00:38,825
+the datacenter and they are
+implemented with software and logic.
+
+15
+00:00:38,825 --> 00:00:41,780
+Fault domains provide for
+the physical separation of
+
+16
+00:00:41,780 --> 00:00:44,240
+your workload across different
+hardware in the datacenter.
+
+17
+00:00:44,240 --> 00:00:46,655
+This includes power, cooling,
+
+18
+00:00:46,655 --> 00:00:48,320
+network hardware that supports
+
+19
+00:00:48,320 --> 00:00:50,785
+the physical servers
+located in the server rack.
+
+20
+00:00:50,785 --> 00:00:52,530
+In the event that
+the hardware supporting
+
+21
+00:00:52,530 --> 00:00:53,985
+the server rack becomes unavailable,
+
+22
+00:00:53,985 --> 00:00:57,400
+only that rack of servers will
+be affected by the outage.
+

@@ -1,0 +1,306 @@
+1
+00:00:00,110 --> 00:00:04,230
+>> So, let's go and create
+an Azure free account.
+
+2
+00:00:04,230 --> 00:00:06,420
+We launch a browser
+session with Edge,
+
+3
+00:00:06,420 --> 00:00:07,950
+it's in private session to make sure
+
+4
+00:00:07,950 --> 00:00:09,225
+it doesn't sign in
+with another account,
+
+5
+00:00:09,225 --> 00:00:10,920
+we want this to be a new account.
+
+6
+00:00:10,920 --> 00:00:16,540
+We go to azure.microsoft.com.
+
+7
+00:00:16,910 --> 00:00:20,580
+This will bring us to the homepage
+for Azure and you can see
+
+8
+00:00:20,580 --> 00:00:24,670
+there's an option here to go
+to their free account section.
+
+9
+00:00:24,800 --> 00:00:27,390
+Or if we scroll down,
+
+10
+00:00:27,390 --> 00:00:30,030
+we have another option here to
+sign up for a free account.
+
+11
+00:00:30,030 --> 00:00:34,210
+We click on that "Create
+your free account"
+
+12
+00:00:34,310 --> 00:00:41,355
+and that brings us to
+azure.microsoft.com free
+
+13
+00:00:41,355 --> 00:00:44,030
+under create your free
+account today page.
+
+14
+00:00:44,030 --> 00:00:46,115
+Before we go ahead and
+create the account,
+
+15
+00:00:46,115 --> 00:00:48,440
+we just scroll down to
+see some more details
+
+16
+00:00:48,440 --> 00:00:50,305
+around the Azure free account.
+
+17
+00:00:50,305 --> 00:00:52,260
+We can see the free account,
+
+18
+00:00:52,260 --> 00:00:53,929
+we got 12 months services
+
+19
+00:00:53,929 --> 00:00:55,910
+$200 free credit over 30 days
+
+20
+00:00:55,910 --> 00:00:58,890
+and there are some services
+which are always free.
+
+21
+00:01:01,070 --> 00:01:03,540
+If you continue to scroll down,
+
+22
+00:01:03,540 --> 00:01:05,270
+you'll see some more details around
+
+23
+00:01:05,270 --> 00:01:07,100
+what products are free for 12 months.
+
+24
+00:01:07,100 --> 00:01:10,060
+There's Windows and Linux
+virtual machines, disk storage,
+
+25
+00:01:10,060 --> 00:01:14,120
+some database services and
+if we keep going down,
+
+26
+00:01:14,120 --> 00:01:16,795
+we'll see some details around
+more products that are always free.
+
+27
+00:01:16,795 --> 00:01:22,865
+Active Directory,
+Functions, Up services.
+
+28
+00:01:22,865 --> 00:01:25,940
+Then we also have a section
+which provides us with
+
+29
+00:01:25,940 --> 00:01:30,610
+some more details and ask us
+if we have to pay anything,
+
+30
+00:01:30,610 --> 00:01:33,325
+no and there's no charge
+with the free account.
+
+31
+00:01:33,325 --> 00:01:36,015
+You're not charged anything for it.
+
+32
+00:01:36,015 --> 00:01:37,850
+What happens after you use
+
+33
+00:01:37,850 --> 00:01:40,640
+your $200 free credit or
+your 30 days are over.
+
+34
+00:01:40,640 --> 00:01:42,110
+You can upgrade to a pay-as-you-go
+
+35
+00:01:42,110 --> 00:01:44,465
+subscription to get continued access.
+
+36
+00:01:44,465 --> 00:01:47,290
+What happens at the end of
+the 12 months free products.
+
+37
+00:01:47,290 --> 00:01:48,920
+Again, you can upgrade
+to a pay-as-you-go
+
+38
+00:01:48,920 --> 00:01:51,625
+subscription and what
+do I need to sign up?
+
+39
+00:01:51,625 --> 00:01:53,360
+You need a phone number, credit card,
+
+40
+00:01:53,360 --> 00:01:55,760
+debit card, and
+a Microsoft account username.
+
+41
+00:01:55,760 --> 00:01:59,000
+If you click on the FAQ.
+there's more answers in here
+
+42
+00:01:59,000 --> 00:02:01,865
+around questions for
+the free account.
+
+43
+00:02:01,865 --> 00:02:03,680
+You can scroll through
+and have a look
+
+44
+00:02:03,680 --> 00:02:05,700
+at some of them if you need.
+
+45
+00:02:07,160 --> 00:02:14,170
+So we return to the free account
+page and click "Start free".
+
+46
+00:02:17,360 --> 00:02:21,315
+We get prompted to sign in with
+a Microsoft account details.
+
+47
+00:02:21,315 --> 00:02:23,510
+If we don't have one,
+we can create one here
+
+48
+00:02:23,510 --> 00:02:25,930
+clicking on the "Create one
+link" and following the prompts,
+
+49
+00:02:25,930 --> 00:02:28,370
+otherwise, enter your details.
+
+50
+00:02:42,830 --> 00:02:46,390
+Fill in the details as
+you're prompted here.
+
+51
+00:02:51,950 --> 00:02:54,250
+You log in a valid phone
+number and connect the
+
+52
+00:02:54,250 --> 00:02:57,580
+multi-factor authentication
+requiring you to enter a code or
+
+53
+00:02:57,580 --> 00:03:04,120
+receive and enter a code.
+
+54
+00:03:04,280 --> 00:03:07,630
+Enter your preferences as you go.
+
+55
+00:03:27,620 --> 00:03:31,570
+You need to enter your credit
+or debit card number,
+
+56
+00:03:32,620 --> 00:03:35,210
+you have to check
+the checkbox to agree
+
+57
+00:03:35,210 --> 00:03:38,870
+to the terms and conditions
+and then click "Sign up"
+
+58
+00:03:38,870 --> 00:03:44,375
+and that was successful
+and we're ready to go.
+
+59
+00:03:44,375 --> 00:03:47,560
+If we click on "Go to the portal",
+
+60
+00:03:49,130 --> 00:03:51,925
+that brings us to the Azure portal,
+
+61
+00:03:51,925 --> 00:03:55,340
+with a new account and
+your all new Azure subscription.
+
+62
+00:03:55,340 --> 00:03:57,905
+We get prompted
+how much credit we have left.
+
+63
+00:03:57,905 --> 00:04:00,780
+We get prompted to start a tour.
+
+64
+00:04:04,460 --> 00:04:08,050
+Which we can do and follow around.
+
+65
+00:04:25,700 --> 00:04:32,360
+We click on "Home" and
+you can click around
+
+66
+00:04:32,360 --> 00:04:34,740
+some services and see
+we're ready to go.
+

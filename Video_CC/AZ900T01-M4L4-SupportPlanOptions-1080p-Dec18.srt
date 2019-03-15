@@ -1,0 +1,249 @@
+1
+00:00:00,000 --> 00:00:02,730
+>> Every Azure subscription
+includes free access to
+
+2
+00:00:02,730 --> 00:00:04,800
+the following basic support services:
+
+3
+00:00:04,800 --> 00:00:06,840
+Billing and subscription support,
+
+4
+00:00:06,840 --> 00:00:09,435
+Azure products and
+services documentation,
+
+5
+00:00:09,435 --> 00:00:12,825
+online self-help
+documentation, white papers,
+
+6
+00:00:12,825 --> 00:00:14,970
+and community support forums.
+
+7
+00:00:14,970 --> 00:00:18,150
+Microsoft offers four paid
+Azure support plans
+
+8
+00:00:18,150 --> 00:00:21,385
+for customers who require
+technical and operational support.
+
+9
+00:00:21,385 --> 00:00:24,355
+Providing different Azure
+support options allows
+
+10
+00:00:24,355 --> 00:00:28,110
+customers to choose a plan
+that best fits their needs.
+
+11
+00:00:28,190 --> 00:00:32,370
+Available to support
+plans are, developer.
+
+12
+00:00:32,370 --> 00:00:35,350
+Developer support is appropriate
+for Azure use in trial and
+
+13
+00:00:35,350 --> 00:00:37,550
+non-production
+environments and includes
+
+14
+00:00:37,550 --> 00:00:40,285
+business areas access to
+support engineers via email,
+
+15
+00:00:40,285 --> 00:00:43,465
+less than eight business hours
+for initial response time.
+
+16
+00:00:43,465 --> 00:00:45,530
+Standards support is appropriate for
+
+17
+00:00:45,530 --> 00:00:47,570
+Azure use in production
+environments and
+
+18
+00:00:47,570 --> 00:00:53,155
+includes access to support engineers
+via email and phone, 24-7.
+
+19
+00:00:53,155 --> 00:00:56,390
+Critical business impacts
+incident submission and
+
+20
+00:00:56,390 --> 00:01:00,185
+less than one hour initial response
+time for severity A accidents.
+
+21
+00:01:00,185 --> 00:01:02,960
+Professional direct
+is appropriate for
+
+22
+00:01:02,960 --> 00:01:06,115
+organizations with business-critical
+dependence on Azure.
+
+23
+00:01:06,115 --> 00:01:09,260
+This option includes all features
+of the standard option as well
+
+24
+00:01:09,260 --> 00:01:12,140
+as escalation management
+for priority issues,
+
+25
+00:01:12,140 --> 00:01:13,550
+proactive guidance from a team of
+
+26
+00:01:13,550 --> 00:01:17,000
+professional direct delivery
+managers, onboarding services,
+
+27
+00:01:17,000 --> 00:01:20,195
+service reviews, and
+Azure Advisor consultations,
+
+28
+00:01:20,195 --> 00:01:22,790
+architectural guidance
+based on best practices.
+
+29
+00:01:22,790 --> 00:01:25,670
+Premier. This is ideal
+for organizations with
+
+30
+00:01:25,670 --> 00:01:29,330
+substantial dependence on
+Microsoft products including Azure.
+
+31
+00:01:29,330 --> 00:01:31,220
+Dissolution includes
+all the features of
+
+32
+00:01:31,220 --> 00:01:33,950
+professional direct as
+well as support assistance
+
+33
+00:01:33,950 --> 00:01:35,990
+for all Microsoft products
+and services,
+
+34
+00:01:35,990 --> 00:01:37,010
+less than 15 minutes
+
+35
+00:01:37,010 --> 00:01:39,815
+initial response time with
+Azure Rapid Response.
+
+36
+00:01:39,815 --> 00:01:41,960
+Service reviews and
+reporting delivered by
+
+37
+00:01:41,960 --> 00:01:44,225
+a designated Technical
+Account Manager.
+
+38
+00:01:44,225 --> 00:01:47,210
+Customers specific architect would
+support such as design reviews,
+
+39
+00:01:47,210 --> 00:01:49,740
+performance tuning,
+and configuration.
+
+40
+00:01:50,560 --> 00:01:52,880
+The support plans you can
+
+41
+00:01:52,880 --> 00:01:54,890
+select and how you are
+billed for support
+
+42
+00:01:54,890 --> 00:01:56,750
+depends on the type of
+Azure customer you are
+
+43
+00:01:56,750 --> 00:01:59,045
+and the type of
+Azure subscription you have.
+
+44
+00:01:59,045 --> 00:02:01,550
+For example, developer support
+
+45
+00:02:01,550 --> 00:02:03,785
+is not available to
+enterprise customers.
+
+46
+00:02:03,785 --> 00:02:07,235
+Enterprise customers can purchase
+Standard, Professional Direct,
+
+47
+00:02:07,235 --> 00:02:09,320
+and Premier Support
+plans and be billed for
+
+48
+00:02:09,320 --> 00:02:11,555
+support as part of
+their enterprise agreement.
+
+49
+00:02:11,555 --> 00:02:13,130
+Conversely, if your purchase is
+
+50
+00:02:13,130 --> 00:02:15,410
+support plan when a
+pay-as-you-go subscription,
+
+51
+00:02:15,410 --> 00:02:16,820
+your support plan is charged to
+
+52
+00:02:16,820 --> 00:02:18,670
+your monthly Azure subscription bill.
+

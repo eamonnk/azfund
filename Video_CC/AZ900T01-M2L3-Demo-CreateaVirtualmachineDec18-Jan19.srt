@@ -1,0 +1,362 @@
+1
+00:00:00,530 --> 00:00:05,320
+>> So, let's go ahead and create
+a Virtual Machine in Azure.
+
+2
+00:00:05,870 --> 00:00:08,265
+First, we log in to the portal,
+
+3
+00:00:08,265 --> 00:00:13,485
+portal.azure.com,
+we're on the homepage.
+
+4
+00:00:13,485 --> 00:00:16,425
+I'm going to go down to the list
+of services on the left,
+
+5
+00:00:16,425 --> 00:00:24,520
+locate "Virtual Machines" and then
+click "Create Virtual Machine."
+
+6
+00:00:30,530 --> 00:00:32,985
+Then, to create
+a virtual machine pane,
+
+7
+00:00:32,985 --> 00:00:35,510
+there's a series of tabs we
+need to go through to fill in
+
+8
+00:00:35,510 --> 00:00:36,710
+for the configuration that you
+
+9
+00:00:36,710 --> 00:00:38,270
+wish to deploy and a virtual machine.
+
+10
+00:00:38,270 --> 00:00:40,130
+The subscription is Free Trial.
+
+11
+00:00:40,130 --> 00:00:41,600
+We wish to create
+a new resource group,
+
+12
+00:00:41,600 --> 00:00:43,520
+into which we will have
+all the resources placed in
+
+13
+00:00:43,520 --> 00:00:47,100
+a single location so we can
+manage them as a single entity.
+
+14
+00:00:48,370 --> 00:00:57,450
+We'll name it VM1
+our virtual machine name,
+
+15
+00:00:57,450 --> 00:01:00,220
+we'll call it virtualmachin1.
+
+16
+00:01:00,710 --> 00:01:03,865
+We'll take to the fourth
+region of East US.
+
+17
+00:01:03,865 --> 00:01:06,350
+You won't configure
+any availability options.
+
+18
+00:01:06,350 --> 00:01:10,060
+For an image, we'll go to
+"Browse all images and disks".
+
+19
+00:01:13,660 --> 00:01:16,860
+I may look for Windows image.
+
+20
+00:01:18,250 --> 00:01:21,630
+We'll select Windows 10 Pro.
+
+21
+00:01:23,570 --> 00:01:26,060
+Accept the default disk size,
+
+22
+00:01:26,060 --> 00:01:28,120
+we need to put in
+a username and password.
+
+23
+00:01:28,120 --> 00:01:31,010
+We use username azureuser.
+
+24
+00:01:31,620 --> 00:01:35,290
+Your password needs to meet
+the minimum complexity requirements
+
+25
+00:01:35,290 --> 00:01:36,790
+for Azure and make sure you
+
+26
+00:01:36,790 --> 00:01:38,590
+take note of it as well
+because we'll be using
+
+27
+00:01:38,590 --> 00:01:39,820
+this password to
+connect to the virtual
+
+28
+00:01:39,820 --> 00:01:42,260
+machine after it's deployed.
+
+29
+00:01:46,640 --> 00:01:49,425
+For "Inbound Port Rules",
+
+30
+00:01:49,425 --> 00:01:52,620
+we need to allow selected ports.
+
+31
+00:01:52,620 --> 00:01:54,570
+This is to allow us to connect to
+
+32
+00:01:54,570 --> 00:01:56,970
+the virtual machine
+after it's deployed,
+
+33
+00:01:58,520 --> 00:02:01,990
+and we'll select all
+of these ports here.
+
+34
+00:02:03,260 --> 00:02:06,290
+We'll only be connected
+over the RDP port,
+
+35
+00:02:06,290 --> 00:02:11,760
+but we'll enable them all here
+now. You can click "Next."
+
+36
+00:02:12,830 --> 00:02:18,120
+Accept the defaults for
+"Disks" and the defaults for
+
+37
+00:02:18,120 --> 00:02:24,025
+"Networking" and continue to
+accepting that all the defaults,
+
+38
+00:02:24,025 --> 00:02:28,350
+and then Azure is going to validate
+the deployment configuration.
+
+39
+00:02:28,350 --> 00:02:33,120
+The validation was successful,
+and we click "Create".
+
+40
+00:02:34,910 --> 00:02:38,080
+The deployment has now started.
+
+41
+00:02:47,840 --> 00:02:50,750
+So, we can see all the resources
+as they're being
+
+42
+00:02:50,750 --> 00:02:53,850
+created and we go to
+the resource group.
+
+43
+00:02:54,380 --> 00:02:58,590
+You can do that directly
+from this deployment pane.
+
+44
+00:02:58,610 --> 00:03:02,160
+Or we can locate "Resource Groups" on
+
+45
+00:03:02,160 --> 00:03:10,110
+the left-hand side and open up
+the resource group we just created.
+
+46
+00:03:14,720 --> 00:03:17,300
+In here, we can see
+all the resources that
+
+47
+00:03:17,300 --> 00:03:19,920
+are currently under deployment.
+
+48
+00:03:29,120 --> 00:03:32,380
+That has successfully deployed.
+
+49
+00:03:36,470 --> 00:03:39,230
+We can see all the resources
+that have been deployed
+
+50
+00:03:39,230 --> 00:03:42,770
+with the virtual machine
+itself, the disk,
+
+51
+00:03:42,770 --> 00:03:45,560
+the Network Interface,
+the public IP address,
+
+52
+00:03:45,560 --> 00:03:46,985
+the Network Security Group,
+
+53
+00:03:46,985 --> 00:03:50,160
+the Storage Account and
+the Virtual Network.
+
+54
+00:03:50,210 --> 00:03:52,730
+All of these resources
+are required to make
+
+55
+00:03:52,730 --> 00:03:55,055
+that virtual machine
+fully functional.
+
+56
+00:03:55,055 --> 00:03:57,170
+We can access to
+virtual machine by opening up
+
+57
+00:03:57,170 --> 00:04:06,900
+the virtual machine and
+clicking "Connect".
+
+58
+00:04:09,620 --> 00:04:12,750
+In the "Connect to a
+Virtual Machine" pane,
+
+59
+00:04:12,750 --> 00:04:15,730
+click "Download RDP File",
+
+60
+00:04:16,820 --> 00:04:19,870
+and click "OK" to open.
+
+61
+00:04:26,870 --> 00:04:29,190
+In the RDP connection dialog,
+
+62
+00:04:29,190 --> 00:04:33,620
+click "Connect", enter your username
+
+63
+00:04:33,620 --> 00:04:34,880
+and password which is specified
+
+64
+00:04:34,880 --> 00:04:36,470
+when you're configuring
+the virtual machine.
+
+65
+00:04:36,470 --> 00:04:38,990
+In our case it was azureuser.
+
+66
+00:04:42,540 --> 00:04:46,950
+I'm going to use dot backslash to
+indicate it's a local account.
+
+67
+00:04:49,340 --> 00:04:52,390
+Click "Yes" to connect,
+
+68
+00:04:56,090 --> 00:04:59,740
+and that's now logging in
+to the virtual machine.
+
+69
+00:05:00,250 --> 00:05:04,080
+You can see that's
+a fully functioning virtual machine.
+
+70
+00:05:21,530 --> 00:05:24,060
+Our virtual machine is now deployed
+
+71
+00:05:24,060 --> 00:05:25,685
+and available to run our workloads.
+
+72
+00:05:25,685 --> 00:05:27,815
+Remember that running
+virtual machines
+
+73
+00:05:27,815 --> 00:05:29,905
+are costing money
+while they're running,
+
+74
+00:05:29,905 --> 00:05:32,495
+and you should shut down and
+delete the virtual machine.
+
+75
+00:05:32,495 --> 00:05:35,330
+The quickest way to delete
+a virtual machine will be to
+
+76
+00:05:35,330 --> 00:05:38,150
+delete "the resource group" and
+all the resources within it.
+
+77
+00:05:38,150 --> 00:05:39,725
+If you're not going to
+use the virtual machine,
+
+78
+00:05:39,725 --> 00:05:42,470
+it would be advisable to
+delete a resource group now.
+

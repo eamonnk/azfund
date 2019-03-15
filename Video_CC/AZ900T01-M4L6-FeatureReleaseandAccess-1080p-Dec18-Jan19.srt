@@ -1,0 +1,237 @@
+1
+00:00:00,000 --> 00:00:02,115
+>> Microsoft offers previews
+
+2
+00:00:02,115 --> 00:00:04,050
+of Azure features for
+evaluation purposes.
+
+3
+00:00:04,050 --> 00:00:05,910
+With Azure previews, you can
+
+4
+00:00:05,910 --> 00:00:09,400
+test pre-release features,
+products and services.
+
+5
+00:00:09,710 --> 00:00:12,780
+Azure previews are available
+under certain terms and
+
+6
+00:00:12,780 --> 00:00:15,645
+conditions that are specific to
+each particular Azure preview.
+
+7
+00:00:15,645 --> 00:00:17,220
+All preview specific terms and
+
+8
+00:00:17,220 --> 00:00:19,635
+conditions supplement
+your existing service agreement,
+
+9
+00:00:19,635 --> 00:00:21,675
+which governs your use of Azure.
+
+10
+00:00:21,675 --> 00:00:25,830
+Some previews are not
+covered by customer support.
+
+11
+00:00:26,170 --> 00:00:29,135
+There are different
+preview categories.
+
+12
+00:00:29,135 --> 00:00:31,880
+Private preview means that
+an Azure feature is made
+
+13
+00:00:31,880 --> 00:00:35,180
+available to certain Azure
+customers for evaluation purposes.
+
+14
+00:00:35,180 --> 00:00:38,330
+Public preview means that
+an Azure feature is available
+
+15
+00:00:38,330 --> 00:00:41,585
+publicly to all Azure customers
+for evaluation purposes.
+
+16
+00:00:41,585 --> 00:00:44,120
+You can access preview
+features by going to
+
+17
+00:00:44,120 --> 00:00:45,500
+the Azure Preview page
+
+18
+00:00:45,500 --> 00:00:48,790
+on
+azure.microsoft.com/en-us/services/preview.
+
+19
+00:00:48,790 --> 00:00:50,460
+To preview a feature, select
+
+20
+00:00:50,460 --> 00:00:53,110
+the "Try It" button for
+the applicable feature.
+
+21
+00:00:54,520 --> 00:00:56,990
+You can access preview
+features that are
+
+22
+00:00:56,990 --> 00:00:58,730
+specific to the Azure portal from
+
+23
+00:00:58,730 --> 00:01:03,880
+the portal preview features
+page, preview.portal.azure.com.
+
+24
+00:01:04,870 --> 00:01:07,750
+Typical part of preview
+features provide
+
+25
+00:01:07,750 --> 00:01:10,360
+performance navigation on
+accessibility improvements
+
+26
+00:01:10,360 --> 00:01:12,115
+to the Azure part in interface.
+
+27
+00:01:12,115 --> 00:01:14,380
+Azure customers can
+provide feedback in
+
+28
+00:01:14,380 --> 00:01:15,610
+the portal preview features they've
+
+29
+00:01:15,610 --> 00:01:17,860
+tested by sending
+a smile in the portal,
+
+30
+00:01:17,860 --> 00:01:19,480
+or posting ideas and suggestions
+
+31
+00:01:19,480 --> 00:01:21,175
+on the Azure Portal feedback forum.
+
+32
+00:01:21,175 --> 00:01:23,770
+You can revert back to
+the default Azure portal by going
+
+33
+00:01:23,770 --> 00:01:26,755
+to the standard portal page,
+at portal.azure.com.
+
+34
+00:01:26,755 --> 00:01:29,650
+Once a feature is evaluated
+and tested successfully,
+
+35
+00:01:29,650 --> 00:01:32,620
+it may be released to customers
+as part of Azure's product,
+
+36
+00:01:32,620 --> 00:01:34,225
+service, or feature set.
+
+37
+00:01:34,225 --> 00:01:36,490
+In other words, a feature maybe made
+
+38
+00:01:36,490 --> 00:01:39,170
+generally available for
+all Azure customers.
+
+39
+00:01:39,170 --> 00:01:40,740
+To get the latest updates,
+
+40
+00:01:40,740 --> 00:01:42,750
+via Azure products,
+services, and features,
+
+41
+00:01:42,750 --> 00:01:45,210
+as well as product roadmaps
+and announcements,
+
+42
+00:01:45,210 --> 00:01:49,825
+go to the Azure updates page at
+azure.microsoft.com work updates.
+
+43
+00:01:49,825 --> 00:01:51,250
+From the Azure updates page,
+
+44
+00:01:51,250 --> 00:01:53,860
+you can view details
+with all Azure updates.
+
+45
+00:01:53,860 --> 00:01:55,130
+See which updates are in
+
+46
+00:01:55,130 --> 00:01:57,760
+general availability,
+preview or development.
+
+47
+00:01:57,760 --> 00:02:00,140
+Browse updates by
+product category or update
+
+48
+00:02:00,140 --> 00:02:03,415
+type, search for updates,
+
+49
+00:02:03,415 --> 00:02:07,830
+subscribe to get Azure update
+notifications via RSS,
+
+50
+00:02:07,830 --> 00:02:10,220
+and access to Microsoft
+Connect page to read
+
+51
+00:02:10,220 --> 00:02:12,600
+Azure product news and announcements.
+

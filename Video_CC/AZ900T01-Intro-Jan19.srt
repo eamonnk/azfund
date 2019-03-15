@@ -1,0 +1,129 @@
+1
+00:00:00,000 --> 00:00:03,030
+>> Welcome to the course,
+Microsoft Azure Fundamentals.
+
+2
+00:00:03,030 --> 00:00:05,565
+This course will provide
+
+3
+00:00:05,565 --> 00:00:08,100
+foundational level knowledge
+of cloud services
+
+4
+00:00:08,100 --> 00:00:11,190
+and how those services are
+provided with Microsoft Azure.
+
+5
+00:00:11,190 --> 00:00:13,890
+The course can be taken
+as an optional first step
+
+6
+00:00:13,890 --> 00:00:16,845
+and learning about cloud
+services and Microsoft Azure.
+
+7
+00:00:16,845 --> 00:00:20,520
+The course will cover
+general cloud computing concepts as
+
+8
+00:00:20,520 --> 00:00:22,050
+well as general cloud
+computing models
+
+9
+00:00:22,050 --> 00:00:23,835
+and services such as public,
+
+10
+00:00:23,835 --> 00:00:25,455
+private, an hybrid clouds,
+
+11
+00:00:25,455 --> 00:00:29,355
+an infrastructure, platform,
+and software as a service.
+
+12
+00:00:29,355 --> 00:00:33,540
+It will also cover some core
+Azure services and solutions,
+
+13
+00:00:33,540 --> 00:00:36,750
+such as compute, networking,
+storage and others,
+
+14
+00:00:36,750 --> 00:00:40,680
+and solutions such as Internet of
+Things, artificial intelligence,
+
+15
+00:00:40,680 --> 00:00:42,770
+and data analytics as well as
+
+16
+00:00:42,770 --> 00:00:45,245
+key Azure pillar services
+concerning security,
+
+17
+00:00:45,245 --> 00:00:48,065
+privacy, compliance and trust.
+
+18
+00:00:48,065 --> 00:00:50,360
+It will finally cover
+pricing and support
+
+19
+00:00:50,360 --> 00:00:53,575
+services that are available
+with Microsoft Azure.
+
+20
+00:00:53,575 --> 00:00:56,820
+There are no prescribed Hands
+on components to the course.
+
+21
+00:00:56,820 --> 00:00:59,330
+There are no labs, but we
+would encourage you to sign
+
+22
+00:00:59,330 --> 00:01:01,760
+up for a free Microsoft
+Azure account on
+
+23
+00:01:01,760 --> 00:01:06,110
+azure.microsoft.com/free
+and to identify
+
+24
+00:01:06,110 --> 00:01:08,090
+and try out somebody areas as they're
+
+25
+00:01:08,090 --> 00:01:11,015
+discussed during the course
+if you have time.
+
+26
+00:01:11,015 --> 00:01:13,550
+Thank you for signing up
+and taking this course.
+
+27
+00:01:13,550 --> 00:01:17,000
+We hope it is of some benefit
+to you and that you enjoy.
+

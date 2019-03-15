@@ -1,0 +1,319 @@
+1
+00:00:00,000 --> 00:00:02,820
+>> Azure Compute is
+an on-demand computing service
+
+2
+00:00:02,820 --> 00:00:04,650
+for running Cloud-based applications.
+
+3
+00:00:04,650 --> 00:00:07,005
+Provides computing
+resources such as disks,
+
+4
+00:00:07,005 --> 00:00:10,395
+processors, memory, networking,
+and operating systems.
+
+5
+00:00:10,395 --> 00:00:12,190
+The resources are
+available on demand,
+
+6
+00:00:12,190 --> 00:00:15,030
+and can typically be made available
+in minutes or even seconds.
+
+7
+00:00:15,030 --> 00:00:16,680
+You pay only for the resources you
+
+8
+00:00:16,680 --> 00:00:19,685
+use and only for as long
+as you're using them.
+
+9
+00:00:19,685 --> 00:00:22,580
+There are two common service types
+for performing compute in
+
+10
+00:00:22,580 --> 00:00:25,450
+Azure: virtual machines
+and containers.
+
+11
+00:00:25,450 --> 00:00:27,585
+Let's look at virtual machines first.
+
+12
+00:00:27,585 --> 00:00:29,565
+So, what is the virtual machine?
+
+13
+00:00:29,565 --> 00:00:31,925
+Virtual machines or VMs
+
+14
+00:00:31,925 --> 00:00:34,700
+are software emulations
+of physical computers.
+
+15
+00:00:34,700 --> 00:00:36,515
+They include a virtual processor,
+
+16
+00:00:36,515 --> 00:00:39,035
+memory storage, and
+networking resources.
+
+17
+00:00:39,035 --> 00:00:41,270
+They host an operating system
+and you're able to
+
+18
+00:00:41,270 --> 00:00:44,210
+install and run software just
+like a physical computer.
+
+19
+00:00:44,210 --> 00:00:46,100
+Azure supports a wide range of
+
+20
+00:00:46,100 --> 00:00:48,200
+computing solutions including Linux,
+
+21
+00:00:48,200 --> 00:00:50,300
+Windows Server, Microsoft SQL Server,
+
+22
+00:00:50,300 --> 00:00:53,030
+Oracle, IBM and SAP.
+
+23
+00:00:53,030 --> 00:00:56,060
+Examples of some core
+Azure Compute services for
+
+24
+00:00:56,060 --> 00:00:59,535
+virtual machines would be
+Azure Virtual Machines.
+
+25
+00:00:59,535 --> 00:01:03,130
+Azure VMs lets you create and use
+virtual machines in the Cloud,
+
+26
+00:01:03,130 --> 00:01:04,840
+provides infrastructure as a service
+
+27
+00:01:04,840 --> 00:01:07,165
+and can be used in a variety
+of different ways.
+
+28
+00:01:07,165 --> 00:01:08,710
+When you need total control over
+
+29
+00:01:08,710 --> 00:01:10,300
+an operating system and environment,
+
+30
+00:01:10,300 --> 00:01:12,400
+Azure VMs are an ideal choice.
+
+31
+00:01:12,400 --> 00:01:14,140
+Just like a physical computer,
+
+32
+00:01:14,140 --> 00:01:17,240
+you're able to customize all of
+the software running on the VM.
+
+33
+00:01:17,240 --> 00:01:19,095
+VM Scale Sets.
+
+34
+00:01:19,095 --> 00:01:20,790
+Virtual Machines Scale Sets are
+
+35
+00:01:20,790 --> 00:01:22,810
+an Azure Compute resource
+that you can use to
+
+36
+00:01:22,810 --> 00:01:25,210
+deploy and manage a set
+of identical VMs.
+
+37
+00:01:25,210 --> 00:01:27,100
+With all VMs configured the same,
+
+38
+00:01:27,100 --> 00:01:30,110
+VM Scale Sets are designed
+to support true autoscale,
+
+39
+00:01:30,110 --> 00:01:32,545
+and makes it easier to
+build large scale services
+
+40
+00:01:32,545 --> 00:01:34,735
+targeting big compute and big data.
+
+41
+00:01:34,735 --> 00:01:37,660
+As demand goes up, more
+virtual machine instances
+
+42
+00:01:37,660 --> 00:01:39,850
+can be added and as
+the demand goes down,
+
+43
+00:01:39,850 --> 00:01:42,980
+virtual machine instances
+can be removed.
+
+44
+00:01:43,070 --> 00:01:45,970
+Now, let's look at
+the second common service type when
+
+45
+00:01:45,970 --> 00:01:48,880
+dealing with Azure Compute,
+namely containers.
+
+46
+00:01:48,880 --> 00:01:50,980
+So, what are containers?
+
+47
+00:01:50,980 --> 00:01:53,365
+Containers are a
+virtualization environment.
+
+48
+00:01:53,365 --> 00:01:55,050
+However, unlike virtual machines,
+
+49
+00:01:55,050 --> 00:01:57,095
+they do not include
+an operating system.
+
+50
+00:01:57,095 --> 00:01:59,380
+Instead, they reference
+the operating system
+
+51
+00:01:59,380 --> 00:02:01,465
+of the host environment
+that runs the container.
+
+52
+00:02:01,465 --> 00:02:03,250
+Containers are meant
+to be lightweight
+
+53
+00:02:03,250 --> 00:02:04,525
+and are designed to be created,
+
+54
+00:02:04,525 --> 00:02:06,595
+scaled out, and stopped dynamically.
+
+55
+00:02:06,595 --> 00:02:09,190
+This allows you to respond
+to changes on demand and
+
+56
+00:02:09,190 --> 00:02:12,475
+quickly restart in case of
+a crash or hardware interruption.
+
+57
+00:02:12,475 --> 00:02:15,130
+Examples of some core
+Azure Compute Services
+
+58
+00:02:15,130 --> 00:02:16,555
+for containers would be.
+
+59
+00:02:16,555 --> 00:02:18,660
+Azure Container Instances,
+
+60
+00:02:18,660 --> 00:02:22,060
+Azure Container Instances offers
+the fastest and simplest way
+
+61
+00:02:22,060 --> 00:02:24,340
+to run a container in Azure
+without having to manage
+
+62
+00:02:24,340 --> 00:02:27,665
+any virtual machines or adopt
+any additional services.
+
+63
+00:02:27,665 --> 00:02:30,830
+It is a PaaS offering that allows
+you to upload your containers,
+
+64
+00:02:30,830 --> 00:02:35,075
+which you're going to run for
+you. Azure Kubernetes Service.
+
+65
+00:02:35,075 --> 00:02:37,880
+A task of automating and
+managing a large number of
+
+66
+00:02:37,880 --> 00:02:41,725
+containers on how do you interact
+is known as Orchestration.
+
+67
+00:02:41,725 --> 00:02:43,850
+Azure Kubernetes Service is
+
+68
+00:02:43,850 --> 00:02:46,100
+a complete orchestration
+service for containers,
+
+69
+00:02:46,100 --> 00:02:49,800
+with distributed architectures
+and large volumes of containers.
+

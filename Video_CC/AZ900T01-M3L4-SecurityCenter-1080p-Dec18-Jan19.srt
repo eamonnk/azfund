@@ -1,0 +1,294 @@
+1
+00:00:00,000 --> 00:00:02,960
+>> Azure Security Center is
+a monitoring service that provides
+
+2
+00:00:02,960 --> 00:00:04,240
+threat protection across all of
+
+3
+00:00:04,240 --> 00:00:06,685
+your services both in
+Azure and on-premises.
+
+4
+00:00:06,685 --> 00:00:08,940
+Security center can provide
+
+5
+00:00:08,940 --> 00:00:10,230
+security recommendations based on
+
+6
+00:00:10,230 --> 00:00:12,615
+your configurations,
+resources and networks.
+
+7
+00:00:12,615 --> 00:00:15,390
+Monitor security settings
+across on-premises and
+
+8
+00:00:15,390 --> 00:00:17,340
+cloud workloads and
+automatically apply
+
+9
+00:00:17,340 --> 00:00:20,190
+required security to new
+services as they come online.
+
+10
+00:00:20,190 --> 00:00:22,850
+Continuously monitor all your
+services and perform
+
+11
+00:00:22,850 --> 00:00:24,660
+automatic security
+assessments to identify
+
+12
+00:00:24,660 --> 00:00:27,720
+potential vulnerabilities
+before they can be exploited.
+
+13
+00:00:27,720 --> 00:00:30,630
+Use Machine learning to
+detect and block malware
+
+14
+00:00:30,630 --> 00:00:33,615
+from being installed on
+your virtual machines and services.
+
+15
+00:00:33,615 --> 00:00:37,190
+Analyze and identify
+potential inbound attacks,
+
+16
+00:00:37,190 --> 00:00:38,630
+and help to investigate threats and
+
+17
+00:00:38,630 --> 00:00:41,525
+any post reach activity
+that might have occurred.
+
+18
+00:00:41,525 --> 00:00:44,629
+Provide just-in-time
+access control for ports,
+
+19
+00:00:44,629 --> 00:00:46,340
+reducing your attack
+surface by ensuring
+
+20
+00:00:46,340 --> 00:00:49,435
+the network only allows
+traffic that you require.
+
+21
+00:00:49,435 --> 00:00:51,740
+You can integrate
+security center into
+
+22
+00:00:51,740 --> 00:00:54,095
+your workflows and
+use it in many ways.
+
+23
+00:00:54,095 --> 00:00:57,620
+Here are two examples; Firstly,
+
+24
+00:00:57,620 --> 00:01:00,605
+use security center for
+an incident response.
+
+25
+00:01:00,605 --> 00:01:02,780
+Many organizations
+learn how to respond to
+
+26
+00:01:02,780 --> 00:01:05,075
+security incidents only
+after suffering an attack.
+
+27
+00:01:05,075 --> 00:01:07,370
+To reduce costs and damage
+it's important to have
+
+28
+00:01:07,370 --> 00:01:10,985
+an incident response plan in place
+before an attack takes place.
+
+29
+00:01:10,985 --> 00:01:13,130
+You can use Azure security center in
+
+30
+00:01:13,130 --> 00:01:14,870
+different stages of
+an instant response.
+
+31
+00:01:14,870 --> 00:01:16,940
+You can use security
+center during to detect,
+
+32
+00:01:16,940 --> 00:01:18,950
+assess, and diagnose stages.
+
+33
+00:01:18,950 --> 00:01:22,775
+Detect: Review the first indication
+of an event investigation.
+
+34
+00:01:22,775 --> 00:01:24,920
+Use security center
+dashboard to review
+
+35
+00:01:24,920 --> 00:01:26,030
+the initial verification that
+
+36
+00:01:26,030 --> 00:01:28,205
+a high priority security
+alert was raised.
+
+37
+00:01:28,205 --> 00:01:30,875
+Assess: Perform
+the initial assessment
+
+38
+00:01:30,875 --> 00:01:33,365
+to obtain more information
+about the suspicious activity.
+
+39
+00:01:33,365 --> 00:01:35,585
+Obtain more information
+about the security alert.
+
+40
+00:01:35,585 --> 00:01:38,329
+Diagnose: Conduct
+a technical investigation
+
+41
+00:01:38,329 --> 00:01:41,885
+and identify containment, mitigation
+and workaround strategies.
+
+42
+00:01:41,885 --> 00:01:44,060
+You can follow the remediation
+steps described by
+
+43
+00:01:44,060 --> 00:01:46,675
+security center in
+that particular security alert.
+
+44
+00:01:46,675 --> 00:01:48,720
+The second example, use
+
+45
+00:01:48,720 --> 00:01:51,110
+security center recommendations
+to enhance security.
+
+46
+00:01:51,110 --> 00:01:52,520
+You can reduce the chances of
+
+47
+00:01:52,520 --> 00:01:54,260
+a significant security event
+by configuring
+
+48
+00:01:54,260 --> 00:01:56,090
+a security policy and
+then implementing
+
+49
+00:01:56,090 --> 00:01:58,490
+the recommendations provided
+by Azure security center.
+
+50
+00:01:58,490 --> 00:02:00,830
+A security policy defines
+a set of controls that are
+
+51
+00:02:00,830 --> 00:02:02,510
+recommended for resources but did
+
+52
+00:02:02,510 --> 00:02:05,080
+not specify subscription
+or resource group.
+
+53
+00:02:05,080 --> 00:02:07,580
+In security center
+you define policies
+
+54
+00:02:07,580 --> 00:02:10,100
+according to your company's
+security requirements.
+
+55
+00:02:10,100 --> 00:02:11,750
+Security center analyzes
+
+56
+00:02:11,750 --> 00:02:13,445
+the security state of
+your Azure resources,
+
+57
+00:02:13,445 --> 00:02:14,810
+when security center identifies
+
+58
+00:02:14,810 --> 00:02:16,460
+potential security vulnerabilities,
+
+59
+00:02:16,460 --> 00:02:17,840
+it creates recommendations based on
+
+60
+00:02:17,840 --> 00:02:19,865
+the control set into security policy.
+
+61
+00:02:19,865 --> 00:02:21,890
+The recommendations guide
+you to the process of
+
+62
+00:02:21,890 --> 00:02:24,400
+configuring the needed
+security controls.
+

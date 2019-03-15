@@ -1,0 +1,32 @@
+1
+00:00:00,000 --> 00:00:01,680
+>> Thank you for taking this course,
+
+2
+00:00:01,680 --> 00:00:04,230
+and congratulations on
+successfully completing it.
+
+3
+00:00:04,230 --> 00:00:05,550
+We hope you enjoyed it,
+
+4
+00:00:05,550 --> 00:00:07,530
+and were able to take away some
+of the key learnings about
+
+5
+00:00:07,530 --> 00:00:09,540
+cloud services on Microsoft Azure
+
+6
+00:00:09,540 --> 00:00:11,595
+and that it was of
+some benefit to you.
+
+7
+00:00:11,595 --> 00:00:14,530
+We wish you the best of luck
+with your future endeavors.
+

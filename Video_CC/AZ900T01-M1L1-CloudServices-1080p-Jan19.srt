@@ -1,0 +1,255 @@
+1
+00:00:00,350 --> 00:00:02,820
+>> Cloud Computing is the delivery of
+
+2
+00:00:02,820 --> 00:00:04,170
+various computing services over
+
+3
+00:00:04,170 --> 00:00:06,225
+the internet to offer
+faster innovation,
+
+4
+00:00:06,225 --> 00:00:08,985
+flexible resources, and
+economies of scale,
+
+5
+00:00:08,985 --> 00:00:12,390
+you typically only pay for the
+services that you consume.
+
+6
+00:00:12,390 --> 00:00:14,910
+Cloud Computing helps you
+run your business more
+
+7
+00:00:14,910 --> 00:00:17,310
+efficiently and to scale
+up and down as you need,
+
+8
+00:00:17,310 --> 00:00:19,620
+and grow as your business changes.
+
+9
+00:00:19,620 --> 00:00:22,020
+Cloud services is a big shift from
+
+10
+00:00:22,020 --> 00:00:25,290
+the traditional way businesses
+think about IT resources.
+
+11
+00:00:25,290 --> 00:00:29,399
+Some of the main characteristics
+include; high availability,
+
+12
+00:00:29,399 --> 00:00:31,830
+which is the ability to keep
+services up and running for
+
+13
+00:00:31,830 --> 00:00:35,490
+long periods of time with very
+little, if any, downtime.
+
+14
+00:00:35,490 --> 00:00:37,980
+Scalability. The ability to increase
+
+15
+00:00:37,980 --> 00:00:40,665
+our decrease resources
+for any given workload.
+
+16
+00:00:40,665 --> 00:00:43,220
+Elasticity. The ability to
+
+17
+00:00:43,220 --> 00:00:46,325
+increase or decrease resources
+as needed automatically.
+
+18
+00:00:46,325 --> 00:00:50,660
+Agility. The ability to react
+quickly. Disaster recovery.
+
+19
+00:00:50,660 --> 00:00:52,415
+The ability to recover from an event
+
+20
+00:00:52,415 --> 00:00:54,590
+which is taken down
+a product or a service.
+
+21
+00:00:54,590 --> 00:00:58,310
+Global reach. The ability to
+reach audiences around the globe.
+
+22
+00:00:58,310 --> 00:01:01,340
+Security. Many
+Cloud providers can provide
+
+23
+00:01:01,340 --> 00:01:02,990
+better security services than
+
+24
+00:01:02,990 --> 00:01:05,310
+you could otherwise achieve yourself.
+
+25
+00:01:06,320 --> 00:01:09,050
+There are two important factors
+to consider when
+
+26
+00:01:09,050 --> 00:01:11,570
+considering the costs
+of Cloud services.
+
+27
+00:01:11,570 --> 00:01:14,195
+Firstly, economies of scale.
+
+28
+00:01:14,195 --> 00:01:17,300
+The concept of economies of scale
+is the ability to do things more
+
+29
+00:01:17,300 --> 00:01:20,635
+cheaply and efficiently by
+operating at a large scale.
+
+30
+00:01:20,635 --> 00:01:23,280
+Cloud providers such
+as Microsoft, Google,
+
+31
+00:01:23,280 --> 00:01:25,745
+and Amazon are working
+on a huge scale,
+
+32
+00:01:25,745 --> 00:01:28,310
+and are able to leverage
+the benefits of economies of
+
+33
+00:01:28,310 --> 00:01:30,815
+scale and pass those benefits
+on that our customers.
+
+34
+00:01:30,815 --> 00:01:33,820
+Is it apparent to end
+uses in a number of ways?
+
+35
+00:01:33,820 --> 00:01:36,470
+One of which is their ability
+to acquire hardware more
+
+36
+00:01:36,470 --> 00:01:39,335
+cheaply than if a single user
+or smaller business,
+
+37
+00:01:39,335 --> 00:01:41,790
+or purchasing it themselves.
+
+38
+00:01:41,870 --> 00:01:45,800
+Secondly, does capital expenditure
+on operational expenditure.
+
+39
+00:01:45,800 --> 00:01:47,990
+Capital expenditure
+is the spending of
+
+40
+00:01:47,990 --> 00:01:50,105
+money on physical
+infrastructure upfront.
+
+41
+00:01:50,105 --> 00:01:53,165
+That's how new businesses would
+have traditionally operated.
+
+42
+00:01:53,165 --> 00:01:56,000
+Operational expenditure is
+the spending of money on
+
+43
+00:01:56,000 --> 00:01:59,970
+services or products and being
+billed for them as you use them.
+
+44
+00:01:59,970 --> 00:02:02,150
+Getting access to money up front
+
+45
+00:02:02,150 --> 00:02:03,560
+can be a severe limiting factor for
+
+46
+00:02:03,560 --> 00:02:05,360
+businesses and prevent
+new companies or
+
+47
+00:02:05,360 --> 00:02:08,360
+new services and products
+ever getting off the ground.
+
+48
+00:02:08,360 --> 00:02:11,000
+The fact that you can
+start up a new service
+
+49
+00:02:11,000 --> 00:02:13,010
+and pay only for what you use with
+
+50
+00:02:13,010 --> 00:02:15,170
+no need for big upfront capital costs
+
+51
+00:02:15,170 --> 00:02:17,220
+has dramatically changed
+the business landscape,
+
+52
+00:02:17,220 --> 00:02:21,245
+and allows new companies to get up
+and running relatively quickly.
+
+53
+00:02:21,245 --> 00:02:24,860
+Cloud services operate on
+a consumption-based model,
+
+54
+00:02:24,860 --> 00:02:29,730
+which means that users only pay
+for the resources that they use.
+

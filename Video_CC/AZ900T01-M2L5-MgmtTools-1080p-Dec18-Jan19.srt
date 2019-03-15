@@ -1,0 +1,153 @@
+1
+00:00:00,000 --> 00:00:01,950
+>> You can configure and manage Azure
+
+2
+00:00:01,950 --> 00:00:04,335
+using a broad range of
+tools and platforms.
+
+3
+00:00:04,335 --> 00:00:06,480
+There are tools available
+for the command-line,
+
+4
+00:00:06,480 --> 00:00:08,430
+language specific software
+development kits,
+
+5
+00:00:08,430 --> 00:00:10,725
+or SDKs, developer tools,
+
+6
+00:00:10,725 --> 00:00:13,050
+tools for migration, and many others.
+
+7
+00:00:13,050 --> 00:00:15,690
+Some of them are common tools
+that can be relevant for
+
+8
+00:00:15,690 --> 00:00:19,260
+day-to-day managing and
+interaction include, Azure Portal.
+
+9
+00:00:19,260 --> 00:00:22,500
+Azure Portal is a website accessed
+via a web browser and going
+
+10
+00:00:22,500 --> 00:00:26,100
+to the URL https://portal.azure.com.
+
+11
+00:00:26,100 --> 00:00:29,115
+From here, you can interact manually
+with all the Azure Services.
+
+12
+00:00:29,115 --> 00:00:31,185
+You can identify a service
+you're looking for,
+
+13
+00:00:31,185 --> 00:00:33,030
+obtain links for help and more,
+
+14
+00:00:33,030 --> 00:00:35,340
+learn particular topics, and
+
+15
+00:00:35,340 --> 00:00:38,220
+you can deploy and manage
+and delete resources.
+
+16
+00:00:38,220 --> 00:00:41,930
+Azure PowerShell. Azure PowerShell
+is a module that you add to
+
+17
+00:00:41,930 --> 00:00:44,330
+Windows PowerShell or PowerShell
+core that enables you
+
+18
+00:00:44,330 --> 00:00:47,600
+to connect to your Azure
+subscription and manage resources.
+
+19
+00:00:47,600 --> 00:00:49,850
+PowerShell provide services such as
+
+20
+00:00:49,850 --> 00:00:51,440
+the Shell window and
+the command parsing.
+
+21
+00:00:51,440 --> 00:00:52,790
+An Azure PowerShell then adds
+
+22
+00:00:52,790 --> 00:00:56,265
+the Azure specific
+commands. Azure CLI.
+
+23
+00:00:56,265 --> 00:00:57,900
+Azure CLI is a cross platform
+
+24
+00:00:57,900 --> 00:00:59,330
+command-line program that connects to
+
+25
+00:00:59,330 --> 00:01:02,780
+Azure and executes administrative
+commands on Azure resources.
+
+26
+00:01:02,780 --> 00:01:05,855
+Cross-platform means that
+it can be run on Windows,
+
+27
+00:01:05,855 --> 00:01:10,010
+Linux, or Mac OS. Azure Cloud Shell.
+
+28
+00:01:10,010 --> 00:01:11,300
+Azure Cloud Shell is a
+
+29
+00:01:11,300 --> 00:01:13,460
+browser-based scripting
+environment in your portal.
+
+30
+00:01:13,460 --> 00:01:15,305
+It provides the
+flexibility of choosing
+
+31
+00:01:15,305 --> 00:01:17,765
+the Shell experience that
+best suits the way you work.
+
+32
+00:01:17,765 --> 00:01:20,195
+Linux users can opt
+for a bash experience
+
+33
+00:01:20,195 --> 00:01:22,930
+while Windows users can
+opt for PowerShell.
+

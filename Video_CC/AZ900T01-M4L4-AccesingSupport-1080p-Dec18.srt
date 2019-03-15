@@ -1,0 +1,162 @@
+1
+00:00:00,050 --> 00:00:02,145
+>> If you have an issue in Azure,
+
+2
+00:00:02,145 --> 00:00:03,480
+you can request assistance from
+
+3
+00:00:03,480 --> 00:00:06,315
+the Azure support team by
+creating a new support ticket.
+
+4
+00:00:06,315 --> 00:00:09,645
+You can create a support
+ticket by the Azure portal.
+
+5
+00:00:09,645 --> 00:00:12,510
+You can choose "Help and Support"
+from the left navigation menu in
+
+6
+00:00:12,510 --> 00:00:14,370
+the portal and open
+the "Help and Support
+
+7
+00:00:14,370 --> 00:00:16,545
+Blade" and select "View
+support requests".
+
+8
+00:00:16,545 --> 00:00:19,290
+You can check the status and
+details of your support request
+
+9
+00:00:19,290 --> 00:00:22,150
+in the Azure portal again from
+the Help and Support Blade.
+
+10
+00:00:22,150 --> 00:00:24,060
+There are several additional
+support channels that are
+
+11
+00:00:24,060 --> 00:00:26,400
+available inside of Azure
+as official support plans.
+
+12
+00:00:26,400 --> 00:00:28,190
+Microsoft Developer Network Forums,
+
+13
+00:00:28,190 --> 00:00:30,870
+get support by reading responses
+to Azure technical questions from
+
+14
+00:00:30,870 --> 00:00:32,670
+Microsoft's developers and testers on
+
+15
+00:00:32,670 --> 00:00:35,370
+the MSDN Azure discussion forums.
+
+16
+00:00:35,370 --> 00:00:37,950
+Stack Overflow: You
+can view answers to
+
+17
+00:00:37,950 --> 00:00:40,740
+the questions from the development
+community on Stack Overflow.
+
+18
+00:00:40,740 --> 00:00:44,030
+Server Fault: See
+community responses to questions
+
+19
+00:00:44,030 --> 00:00:47,735
+about system and network administration
+in Azure on Server Fault.
+
+20
+00:00:47,735 --> 00:00:51,620
+Azure feedback forums: Read ideas
+and suggestions for improving
+
+21
+00:00:51,620 --> 00:00:53,150
+Azure made by Azure users and
+
+22
+00:00:53,150 --> 00:00:55,480
+customers on the Azure
+feedback forums.
+
+23
+00:00:55,480 --> 00:00:58,310
+Twitter: Tweet @AzureSupport
+to get answers
+
+24
+00:00:58,310 --> 00:01:00,995
+and support from the official
+Microsoft Azure Twitter channel.
+
+25
+00:01:00,995 --> 00:01:02,390
+The Azure Knowledge Center is
+
+26
+00:01:02,390 --> 00:01:03,830
+a searchable database that contains
+
+27
+00:01:03,830 --> 00:01:05,495
+answers to common support questions,
+
+28
+00:01:05,495 --> 00:01:07,145
+from a community of Azure experts,
+
+29
+00:01:07,145 --> 00:01:09,500
+developers, customers and users.
+
+30
+00:01:09,500 --> 00:01:11,450
+You can browse through
+all the answers
+
+31
+00:01:11,450 --> 00:01:12,930
+within the Azure Knowledge Center,
+
+32
+00:01:12,930 --> 00:01:14,510
+find specific solutions by entering
+
+33
+00:01:14,510 --> 00:01:16,925
+keywords search terms into
+the text entry field,
+
+34
+00:01:16,925 --> 00:01:19,430
+and further refine your search
+results by selecting products or
+
+35
+00:01:19,430 --> 00:01:22,600
+tags from the list provided
+from the drop-down list.
+

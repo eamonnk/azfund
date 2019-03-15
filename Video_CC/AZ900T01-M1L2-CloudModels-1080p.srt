@@ -1,0 +1,258 @@
+1
+00:00:00,000 --> 00:00:01,800
+>> A public cloud is owned and
+
+2
+00:00:01,800 --> 00:00:03,720
+operated by a cloud service provider.
+
+3
+00:00:03,720 --> 00:00:05,640
+They provide resources
+and services to
+
+4
+00:00:05,640 --> 00:00:07,530
+multiple organizations
+and users which
+
+5
+00:00:07,530 --> 00:00:09,090
+connect to the Cloud service via
+
+6
+00:00:09,090 --> 00:00:12,250
+secure narrow connection,
+typically over the internet.
+
+7
+00:00:12,410 --> 00:00:15,555
+Public cloud characteristics
+would include;
+
+8
+00:00:15,555 --> 00:00:17,370
+resources such as storage,
+
+9
+00:00:17,370 --> 00:00:18,690
+processing, power, et cetera,
+
+10
+00:00:18,690 --> 00:00:20,030
+do not belong to the organisation
+
+11
+00:00:20,030 --> 00:00:21,545
+or users that is using the resource,
+
+12
+00:00:21,545 --> 00:00:25,090
+rather they are owned and operated
+by the cloud service provider.
+
+13
+00:00:25,090 --> 00:00:26,790
+The Cloud service provider is
+
+14
+00:00:26,790 --> 00:00:28,260
+entirely responsible
+for the purchase,
+
+15
+00:00:28,260 --> 00:00:30,930
+maintenance, and management
+of the Cloud hardware.
+
+16
+00:00:30,930 --> 00:00:32,840
+Resources would be made available to
+
+17
+00:00:32,840 --> 00:00:35,515
+multiple organizations and end-users.
+
+18
+00:00:35,515 --> 00:00:38,210
+Typically, it's connected to security
+
+19
+00:00:38,210 --> 00:00:40,760
+over the internet
+using a web browser.
+
+20
+00:00:40,760 --> 00:00:43,455
+It is accessible to the public.
+
+21
+00:00:43,455 --> 00:00:45,890
+It does not require
+deep tech knowledge
+
+22
+00:00:45,890 --> 00:00:48,180
+to start using public cloud.
+
+23
+00:00:48,350 --> 00:00:51,200
+A private cloud is
+owned and operated by
+
+24
+00:00:51,200 --> 00:00:54,125
+the organization that uses
+the resources from the cloud.
+
+25
+00:00:54,125 --> 00:00:55,730
+An organization that creates
+
+26
+00:00:55,730 --> 00:00:58,130
+a private cloud in
+it's own data center,
+
+27
+00:00:58,130 --> 00:00:59,570
+it's completely responsible for
+
+28
+00:00:59,570 --> 00:01:01,960
+the operation of
+the services they provide.
+
+29
+00:01:01,960 --> 00:01:04,695
+Private cloud characteristics
+would include;
+
+30
+00:01:04,695 --> 00:01:07,710
+the owner and user of
+the cloud services are the same,
+
+31
+00:01:07,710 --> 00:01:10,430
+the owner is entirely
+responsible for the purchase,
+
+32
+00:01:10,430 --> 00:01:12,940
+maintenance, and management
+of the Cloud hardware.
+
+33
+00:01:12,940 --> 00:01:15,330
+A private cloud operates only within
+
+34
+00:01:15,330 --> 00:01:16,970
+mono organization and resources are
+
+35
+00:01:16,970 --> 00:01:19,885
+typically used by
+a single business or organization.
+
+36
+00:01:19,885 --> 00:01:22,430
+An action to it is typically by
+
+37
+00:01:22,430 --> 00:01:24,925
+a private network and
+is highly secure.
+
+38
+00:01:24,925 --> 00:01:27,435
+It is not accessible to the public.
+
+39
+00:01:27,435 --> 00:01:30,005
+It requires deep technical
+knowledge to setup,
+
+40
+00:01:30,005 --> 00:01:32,135
+manage, and maintain a private cloud.
+
+41
+00:01:32,135 --> 00:01:34,460
+A Hybrid Cloud combines the use of
+
+42
+00:01:34,460 --> 00:01:37,130
+both public and private
+clouds allowing
+
+43
+00:01:37,130 --> 00:01:40,825
+you to run your application in
+the most appropriate location.
+
+44
+00:01:40,825 --> 00:01:45,660
+Hybrid cloud characteristics
+include; ownership is split.
+
+45
+00:01:45,660 --> 00:01:47,450
+The cloud provider being responsible
+
+46
+00:01:47,450 --> 00:01:49,115
+for the public cloud resources
+
+47
+00:01:49,115 --> 00:01:50,480
+and private cloud organization
+
+48
+00:01:50,480 --> 00:01:53,380
+responsibly for the operation
+of the private cloud.
+
+49
+00:01:53,380 --> 00:01:56,610
+Specific resources are
+run in are used in
+
+50
+00:01:56,610 --> 00:01:58,260
+a public cloud and other resources
+
+51
+00:01:58,260 --> 00:02:00,870
+are run in are used
+in a private cloud.
+
+52
+00:02:00,870 --> 00:02:04,370
+Allows an organization to leverage
+some of the benefits of cost,
+
+53
+00:02:04,370 --> 00:02:08,605
+efficiency, and scale available
+with a public cloud model.
+
+54
+00:02:08,605 --> 00:02:10,820
+Retains and management control
+
+55
+00:02:10,820 --> 00:02:13,140
+that comes at a private cloud model.
+
+56
+00:02:13,240 --> 00:02:17,405
+Technical skills are still required
+to maintain your private cloud
+
+57
+00:02:17,405 --> 00:02:21,840
+and ensure both cloud models
+can inter-operate successfully.
+

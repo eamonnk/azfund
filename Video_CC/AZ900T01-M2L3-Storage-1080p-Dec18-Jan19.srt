@@ -1,0 +1,308 @@
+1
+00:00:00,000 --> 00:00:03,530
+>> Azure Storage is a service
+that you can use to store files,
+
+2
+00:00:03,530 --> 00:00:06,120
+messages, tables, and
+other types of information.
+
+3
+00:00:06,120 --> 00:00:08,040
+You can use Azure Storage on its own,
+
+4
+00:00:08,040 --> 00:00:09,555
+for example, as a file share.
+
+5
+00:00:09,555 --> 00:00:13,110
+But developers also often use
+it as a store for working data.
+
+6
+00:00:13,110 --> 00:00:16,065
+Such stores can be used
+by websites, mobile apps,
+
+7
+00:00:16,065 --> 00:00:19,425
+desktop applications, and many
+other types of custom solutions.
+
+8
+00:00:19,425 --> 00:00:21,570
+Azure Storage is also used by IaaS
+
+9
+00:00:21,570 --> 00:00:24,495
+virtual machines and
+PaaS cloud services.
+
+10
+00:00:24,495 --> 00:00:28,425
+You can generally think of
+Azure Storage in categories.
+
+11
+00:00:28,425 --> 00:00:30,840
+First, in the structured data.
+
+12
+00:00:30,840 --> 00:00:33,075
+Structured data adheres to a schema,
+
+13
+00:00:33,075 --> 00:00:35,670
+so all of the data has
+the same fields or properties.
+
+14
+00:00:35,670 --> 00:00:37,230
+Structured data can be stored in
+
+15
+00:00:37,230 --> 00:00:40,220
+a database table with
+rows and columns.
+
+16
+00:00:40,220 --> 00:00:42,895
+Secondly, semi-structured data.
+
+17
+00:00:42,895 --> 00:00:45,150
+Semi-structured data
+is less organized than
+
+18
+00:00:45,150 --> 00:00:47,850
+structured data and is not
+stored in a relational format,
+
+19
+00:00:47,850 --> 00:00:49,580
+meaning the fields do not need to fit
+
+20
+00:00:49,580 --> 00:00:51,845
+into tables, rows, and columns.
+
+21
+00:00:51,845 --> 00:00:54,110
+Semi-structured data
+is also referred to as
+
+22
+00:00:54,110 --> 00:00:57,090
+non-relational or NoSQL data.
+
+23
+00:00:57,200 --> 00:00:59,940
+Thirdly, unstructured data.
+
+24
+00:00:59,940 --> 00:01:01,920
+Unstructured data encompasses data
+
+25
+00:01:01,920 --> 00:01:03,665
+that has no designated
+structure to it.
+
+26
+00:01:03,665 --> 00:01:04,910
+This also means that there are
+
+27
+00:01:04,910 --> 00:01:07,055
+no restrictions in the kinds
+of data it can hold.
+
+28
+00:01:07,055 --> 00:01:09,715
+For example, a blob can
+hold a PDF document,
+
+29
+00:01:09,715 --> 00:01:13,350
+a JPEG image, a JSON file,
+or video content.
+
+30
+00:01:13,350 --> 00:01:16,280
+As such, unstructured data
+is becoming more prominent
+
+31
+00:01:16,280 --> 00:01:19,520
+as businesses try to tap
+into new data sources.
+
+32
+00:01:19,520 --> 00:01:21,860
+Some of the most common
+storage service types in
+
+33
+00:01:21,860 --> 00:01:24,435
+Azure are: Blob Storage.
+
+34
+00:01:24,435 --> 00:01:26,355
+Azure Blob Storage is unstructured,
+
+35
+00:01:26,355 --> 00:01:29,510
+meaning that there are no
+restrictions in the data it can hold.
+
+36
+00:01:29,510 --> 00:01:30,890
+Blobs are highly scalable
+
+37
+00:01:30,890 --> 00:01:32,600
+an absorber blobs in
+much the same way as
+
+38
+00:01:32,600 --> 00:01:33,740
+they would work with files on
+
+39
+00:01:33,740 --> 00:01:35,780
+a disc such as reading
+and writing data.
+
+40
+00:01:35,780 --> 00:01:38,985
+Blob storage can manage thousands
+of simultaneous uploads,
+
+41
+00:01:38,985 --> 00:01:40,590
+massive amounts of video data,
+
+42
+00:01:40,590 --> 00:01:42,500
+constantly growing log files and
+
+43
+00:01:42,500 --> 00:01:45,320
+can be reached from anywhere
+with an Internet connection.
+
+44
+00:01:45,320 --> 00:01:48,150
+Disk storage. Disk storage provides
+
+45
+00:01:48,150 --> 00:01:50,180
+disk for virtual machines,
+applications,
+
+46
+00:01:50,180 --> 00:01:52,490
+and other services to
+access and use they need,
+
+47
+00:01:52,490 --> 00:01:55,835
+similar to how they would
+in an on-premises scenario.
+
+48
+00:01:55,835 --> 00:01:58,400
+Disk storage allows
+data to be persistently
+
+49
+00:01:58,400 --> 00:02:01,010
+stored and accessed from
+unattached virtual hard disks.
+
+50
+00:02:01,010 --> 00:02:04,055
+Disks come in many different sizes
+and performance levels,
+
+51
+00:02:04,055 --> 00:02:05,585
+from solid-state drives to
+
+52
+00:02:05,585 --> 00:02:07,610
+traditional spinning hard disk drives
+
+53
+00:02:07,610 --> 00:02:10,150
+with varying performance abilities.
+
+54
+00:02:10,150 --> 00:02:14,220
+File storage. Azure files offer
+fully managed file shares in
+
+55
+00:02:14,220 --> 00:02:15,560
+the cloud that are accessible via
+
+56
+00:02:15,560 --> 00:02:18,790
+the Industry Standard Server
+message Block SMB protocol.
+
+57
+00:02:18,790 --> 00:02:21,200
+Azure files shares can
+be mounted concurrently
+
+58
+00:02:21,200 --> 00:02:23,480
+by Cloud or on-premises
+deployments of Windows,
+
+59
+00:02:23,480 --> 00:02:28,835
+Linux, or MacOS. Archive storage.
+
+60
+00:02:28,835 --> 00:02:31,070
+Archive storage provides
+a storage facility
+
+61
+00:02:31,070 --> 00:02:32,660
+for data that is rarely accessed.
+
+62
+00:02:32,660 --> 00:02:34,840
+It allows you to archive
+legacy data at low cost,
+
+63
+00:02:34,840 --> 00:02:36,080
+to what would
+traditionally have costed,
+
+64
+00:02:36,080 --> 00:02:38,000
+to create and maintain archives.
+
+65
+00:02:38,000 --> 00:02:40,860
+It is stored offline and offers
+the lowest storage costs.
+
+66
+00:02:40,860 --> 00:02:43,335
+However, it is also
+the highest access cost,
+
+67
+00:02:43,335 --> 00:02:47,200
+hence it is suited for archival data
+that is rarely accessed.
+

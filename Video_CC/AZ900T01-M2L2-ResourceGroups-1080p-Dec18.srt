@@ -1,0 +1,121 @@
+1
+00:00:00,000 --> 00:00:01,770
+>> A resource group is a unit
+
+2
+00:00:01,770 --> 00:00:04,200
+of management for your
+resources in Azure.
+
+3
+00:00:04,200 --> 00:00:06,120
+You can think of
+your resource group as
+
+4
+00:00:06,120 --> 00:00:08,310
+a container that allows
+you to aggregate and
+
+5
+00:00:08,310 --> 00:00:10,020
+manage all the resources required for
+
+6
+00:00:10,020 --> 00:00:13,080
+your application into
+a single manageable units.
+
+7
+00:00:13,080 --> 00:00:15,270
+This allows you to
+manage the application
+
+8
+00:00:15,270 --> 00:00:17,115
+collectively over its life cycle,
+
+9
+00:00:17,115 --> 00:00:19,425
+rather than manage
+components individually.
+
+10
+00:00:19,425 --> 00:00:21,570
+You can manage and
+apply to following at
+
+11
+00:00:21,570 --> 00:00:24,330
+the resource group level:
+metering and billing,
+
+12
+00:00:24,330 --> 00:00:27,000
+policies, monitoring and alerts,
+
+13
+00:00:27,000 --> 00:00:29,370
+quotas, and access control.
+
+14
+00:00:29,370 --> 00:00:30,865
+When you delete a resource group,
+
+15
+00:00:30,865 --> 00:00:33,600
+you delete all the
+resources within it.
+
+16
+00:00:34,060 --> 00:00:37,820
+When creating and placing
+resources within resource groups,
+
+17
+00:00:37,820 --> 00:00:40,370
+there are a few considerations
+to take into account.
+
+18
+00:00:40,370 --> 00:00:45,590
+Each Azure resource must exist in
+one and only one resource group.
+
+19
+00:00:45,590 --> 00:00:47,870
+A resource group can contain resorts
+
+20
+00:00:47,870 --> 00:00:50,340
+that reside in different regions.
+
+21
+00:00:50,780 --> 00:00:55,630
+You can add or remove a resource
+to a resource group at anytime.
+
+22
+00:00:55,630 --> 00:00:59,900
+You can move a resource from
+one resource group to another.
+
+23
+00:00:59,900 --> 00:01:02,150
+Resources for an application do not
+
+24
+00:01:02,150 --> 00:01:03,955
+need to exist in
+the same resource group,
+
+25
+00:01:03,955 --> 00:01:06,020
+however, it is recommended
+that you keep them
+
+26
+00:01:06,020 --> 00:01:08,730
+in the same resource group
+for ease of management.
+

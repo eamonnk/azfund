@@ -1,0 +1,106 @@
+1
+00:00:00,440 --> 00:00:02,520
+>> Availability Zones
+are physically separate
+
+2
+00:00:02,520 --> 00:00:04,230
+locations within an Azure region.
+
+3
+00:00:04,230 --> 00:00:06,000
+Each Availability Zone is made up of
+
+4
+00:00:06,000 --> 00:00:07,800
+one or more data centers
+equipped with
+
+5
+00:00:07,800 --> 00:00:10,500
+independent power,
+cooling, and networking.
+
+6
+00:00:10,500 --> 00:00:12,825
+It is set up to be
+an isolation boundary.
+
+7
+00:00:12,825 --> 00:00:14,835
+If one Availability Zone goes down,
+
+8
+00:00:14,835 --> 00:00:16,290
+the owner continues working.
+
+9
+00:00:16,290 --> 00:00:17,970
+The Availability Zones are typically
+
+10
+00:00:17,970 --> 00:00:19,695
+connected to each other to very fast,
+
+11
+00:00:19,695 --> 00:00:21,825
+private fiber optic networks.
+
+12
+00:00:21,825 --> 00:00:24,330
+Availability Zones allow
+customers to run mission
+
+13
+00:00:24,330 --> 00:00:26,534
+critical applications
+with high availability
+
+14
+00:00:26,534 --> 00:00:28,695
+and low latency replication.
+
+15
+00:00:28,695 --> 00:00:32,235
+An Availability Zones are offered
+as a service within Azure.
+
+16
+00:00:32,235 --> 00:00:34,580
+To ensure resiliency,
+there's a minimum of
+
+17
+00:00:34,580 --> 00:00:37,950
+three separate zones in
+all enabled regions.
+
+18
+00:00:37,950 --> 00:00:41,000
+To achieve comprehensive
+business continuity on Azure,
+
+19
+00:00:41,000 --> 00:00:43,280
+build your application architecture
+using the combination of
+
+20
+00:00:43,280 --> 00:00:47,100
+Availability Zones with
+Azure Region Pairs.
+
+21
+00:00:47,470 --> 00:00:50,570
+Regions that support
+Availability Zones are listed
+
+22
+00:00:50,570 --> 00:00:56,270
+here: The Azure services
+
+23
+00:00:56,270 --> 00:00:59,040
+that support Availability Zones
+are listed here.
+

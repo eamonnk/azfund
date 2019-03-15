@@ -1,0 +1,399 @@
+1
+00:00:00,000 --> 00:00:02,430
+>> So, what are some of
+the advantages and disadvantages
+
+2
+00:00:02,430 --> 00:00:04,920
+as you compare the different
+types of cloud model?
+
+3
+00:00:04,920 --> 00:00:09,960
+Now for Public Cloud, some advantages
+are: no capital expenditure.
+
+4
+00:00:09,960 --> 00:00:13,050
+You don't have to buy a new server
+up and running north to scale.
+
+5
+00:00:13,050 --> 00:00:16,020
+Agility, Applications can
+be up and running and
+
+6
+00:00:16,020 --> 00:00:19,410
+accessible very quickly and deep
+provisioned whenever needed.
+
+7
+00:00:19,410 --> 00:00:22,290
+Consumption-based model,
+pay only for what you
+
+8
+00:00:22,290 --> 00:00:26,595
+use and it operates under
+an operational expenditure model.
+
+9
+00:00:26,595 --> 00:00:29,460
+Maintenance, there
+is no responsibility
+
+10
+00:00:29,460 --> 00:00:32,505
+for maintenance or updates
+for any of the hardware.
+
+11
+00:00:32,505 --> 00:00:36,030
+Skills, there's no
+deep technical skills
+
+12
+00:00:36,030 --> 00:00:37,379
+needed to be able to deploy,
+
+13
+00:00:37,379 --> 00:00:39,765
+use and gain the benefits
+of Public Cloud.
+
+14
+00:00:39,765 --> 00:00:42,120
+You can leverage the skills
+and expertise of
+
+15
+00:00:42,120 --> 00:00:44,760
+the Cloud provider to ensure
+your workloads are secure,
+
+16
+00:00:44,760 --> 00:00:48,130
+safe, and made highly
+available in full part of.
+
+17
+00:00:48,680 --> 00:00:53,190
+Some disadvantages down for
+Public Cloud are: Security,
+
+18
+00:00:53,190 --> 00:00:56,270
+it maybe specific security
+requirements that cannot be met by
+
+19
+00:00:56,270 --> 00:00:59,590
+using Public Clouds depending on
+your industry or your workload.
+
+20
+00:00:59,590 --> 00:01:02,490
+Compliance, that maybe
+government policies,
+
+21
+00:01:02,490 --> 00:01:05,145
+industry standards or
+legal requirements with
+
+22
+00:01:05,145 --> 00:01:08,340
+Public Clouds can not meet.
+
+23
+00:01:08,340 --> 00:01:11,215
+Ownership, you don't own
+the hardware services,
+
+24
+00:01:11,215 --> 00:01:13,825
+you can not manage them as you wish.
+
+25
+00:01:13,825 --> 00:01:17,455
+Specific scenarios, if you
+have a specific scenario,
+
+26
+00:01:17,455 --> 00:01:20,270
+unique business requirements
+such as having to maintain
+
+27
+00:01:20,270 --> 00:01:21,920
+a legacy application that may be
+
+28
+00:01:21,920 --> 00:01:24,495
+difficult to meet that requirement
+with Public Cloud.
+
+29
+00:01:24,495 --> 00:01:26,350
+Let's move on and take a look at
+
+30
+00:01:26,350 --> 00:01:28,850
+some of the advantages
+for Private Cloud.
+
+31
+00:01:29,420 --> 00:01:32,860
+Control, you have total control over
+
+32
+00:01:32,860 --> 00:01:36,245
+the resources and can configure
+them anyway you wish.
+
+33
+00:01:36,245 --> 00:01:40,310
+Security, you have
+total control over security.
+
+34
+00:01:40,310 --> 00:01:42,670
+Compliance, if you have
+
+35
+00:01:42,670 --> 00:01:45,505
+very strict security compliance
+or legal requirements,
+
+36
+00:01:45,505 --> 00:01:48,350
+Private Cloud maybe the
+only viable option.
+
+37
+00:01:48,350 --> 00:01:50,260
+Specific scenarios, if you have
+
+38
+00:01:50,260 --> 00:01:51,670
+a specific scenario and not supported
+
+39
+00:01:51,670 --> 00:01:53,230
+mainly by Public Cloud provider,
+
+40
+00:01:53,230 --> 00:01:55,645
+such as having to maintain
+a legacy application,
+
+41
+00:01:55,645 --> 00:01:58,570
+it may be a preferable scenario
+to run your application
+
+42
+00:01:58,570 --> 00:02:02,070
+locally and have
+total control over it.
+
+43
+00:02:02,070 --> 00:02:03,600
+Some disadvantages of Private Cloud
+
+44
+00:02:03,600 --> 00:02:06,270
+are: Upfront capital expenditure,
+
+45
+00:02:06,270 --> 00:02:10,150
+you need to purchase the hardware
+for startup and maintenance.
+
+46
+00:02:10,910 --> 00:02:15,165
+Agility, not as agile
+as Public Cloud,
+
+47
+00:02:15,165 --> 00:02:16,760
+as you need to purchase and setup
+
+48
+00:02:16,760 --> 00:02:19,915
+all the underlying infrastructure
+before you can leverage them.
+
+49
+00:02:19,915 --> 00:02:22,640
+Maintenance, you have responsibility
+
+50
+00:02:22,640 --> 00:02:25,255
+for the maintenance and
+updates of the hardware.
+
+51
+00:02:25,255 --> 00:02:28,910
+Skills, it requires IT skills and
+
+52
+00:02:28,910 --> 00:02:32,910
+expertise that may be
+hard or costly to access.
+
+53
+00:02:33,410 --> 00:02:37,950
+Find the, let's take a look at
+the advantages for Hybrid Cloud.
+
+54
+00:02:39,680 --> 00:02:42,255
+Flexibility and agility,
+
+55
+00:02:42,255 --> 00:02:44,810
+most flexible and agile
+scenario allowing for
+
+56
+00:02:44,810 --> 00:02:46,430
+decisions through on
+either locally in
+
+57
+00:02:46,430 --> 00:02:49,765
+Private Cloud or in Public Cloud
+depending on your need.
+
+58
+00:02:49,765 --> 00:02:51,970
+Costs, can take advantage of
+
+59
+00:02:51,970 --> 00:02:54,250
+economies of scale that
+comes with Public Cloud.
+
+60
+00:02:54,250 --> 00:02:57,550
+Control, you can still
+maintain total control over
+
+61
+00:02:57,550 --> 00:02:59,350
+application on data if
+
+62
+00:02:59,350 --> 00:03:01,610
+you need by using
+your Private Cloud option.
+
+63
+00:03:01,610 --> 00:03:03,490
+Security, you can have
+
+64
+00:03:03,490 --> 00:03:06,110
+total control over security
+in your Private Cloud.
+
+65
+00:03:06,110 --> 00:03:09,340
+Compliance, maintain
+the ability to support
+
+66
+00:03:09,340 --> 00:03:13,430
+very strict security, compliance
+or legal requirements if needed.
+
+67
+00:03:13,430 --> 00:03:17,230
+Specific scenarios, you can
+maintain the ability to support
+
+68
+00:03:17,230 --> 00:03:18,700
+specific scenarios not supported
+
+69
+00:03:18,700 --> 00:03:20,395
+easily by a public cloud provider,
+
+70
+00:03:20,395 --> 00:03:22,445
+such as running legacy applications.
+
+71
+00:03:22,445 --> 00:03:24,610
+In this case, you could keep
+
+72
+00:03:24,610 --> 00:03:26,560
+an old system running
+locally and connect it to
+
+73
+00:03:26,560 --> 00:03:30,370
+the public cloud for authorization
+or storage or you could host
+
+74
+00:03:30,370 --> 00:03:31,930
+a website into Public Cloud
+and link it to
+
+75
+00:03:31,930 --> 00:03:35,750
+a highly secure database hosted in
+your Private Cloud for example.
+
+76
+00:03:36,900 --> 00:03:40,195
+There are so many disadvantages
+for Hybrid Cloud.
+
+77
+00:03:40,195 --> 00:03:42,855
+Upfront capital expenditure.
+
+78
+00:03:42,855 --> 00:03:44,870
+Upfront CapEX is still
+
+79
+00:03:44,870 --> 00:03:47,515
+required before you can
+leverage your Private Cloud.
+
+80
+00:03:47,515 --> 00:03:50,540
+Costs, wanting
+two deployment models can be
+
+81
+00:03:50,540 --> 00:03:53,725
+more expensive than selecting
+one deployment model.
+
+82
+00:03:53,725 --> 00:03:56,630
+Skills, deep technical skills are
+
+83
+00:03:56,630 --> 00:04:00,175
+still required to be able
+to set up a Private Cloud.
+
+84
+00:04:00,175 --> 00:04:03,320
+Ease of management, you
+need to make sure there are
+
+85
+00:04:03,320 --> 00:04:07,550
+clear guidelines to avoid any
+confusion, complications, or misuse.
+

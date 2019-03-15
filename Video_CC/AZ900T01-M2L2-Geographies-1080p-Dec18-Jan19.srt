@@ -1,0 +1,67 @@
+1
+00:00:00,000 --> 00:00:02,490
+>> A geography is a discrete market
+
+2
+00:00:02,490 --> 00:00:04,530
+typically containing
+two or more regions,
+
+3
+00:00:04,530 --> 00:00:07,725
+that preserves data residency
+and compliance boundaries.
+
+4
+00:00:07,725 --> 00:00:10,800
+Geographies allow customers with
+specific data residency and
+
+5
+00:00:10,800 --> 00:00:14,445
+compliance needs to keep
+their data and applications close.
+
+6
+00:00:14,445 --> 00:00:17,670
+Geographies ensured
+a data residency, sovereignty,
+
+7
+00:00:17,670 --> 00:00:20,085
+compliance, and
+resiliency requirements
+
+8
+00:00:20,085 --> 00:00:22,590
+are honored within
+geographical boundaries.
+
+9
+00:00:22,590 --> 00:00:24,510
+Geographies are fault tolerant to
+
+10
+00:00:24,510 --> 00:00:26,310
+withstand complete
+regional failure to
+
+11
+00:00:26,310 --> 00:00:27,735
+the connection to our dedicated,
+
+12
+00:00:27,735 --> 00:00:30,390
+high-capacity networking
+infrastructure.
+
+13
+00:00:30,390 --> 00:00:35,084
+Geographies are broken
+up into Americas,
+
+14
+00:00:35,084 --> 00:00:41,740
+Europe, Asia Pacific,
+Middle East, and Africa.
+

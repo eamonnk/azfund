@@ -1,0 +1,212 @@
+1
+00:00:00,000 --> 00:00:02,910
+>> Trust Center is
+a website resource containing
+
+2
+00:00:02,910 --> 00:00:04,260
+information and details about how
+
+3
+00:00:04,260 --> 00:00:06,615
+Microsoft implements
+and supports security,
+
+4
+00:00:06,615 --> 00:00:09,240
+privacy, compliance, and transparency
+
+5
+00:00:09,240 --> 00:00:11,625
+in all our cloud products
+and services.
+
+6
+00:00:11,625 --> 00:00:13,770
+The Trust Center is an important part
+
+7
+00:00:13,770 --> 00:00:15,630
+of the Microsoft
+Trusted Cloud Initiative,
+
+8
+00:00:15,630 --> 00:00:17,385
+and provide support and resources
+
+9
+00:00:17,385 --> 00:00:20,100
+for the legal and
+compliance community.
+
+10
+00:00:20,100 --> 00:00:22,635
+The Trust Center site provides:
+
+11
+00:00:22,635 --> 00:00:25,215
+In-depth information
+about security, privacy,
+
+12
+00:00:25,215 --> 00:00:28,065
+compliance offerings,
+policies, features,
+
+13
+00:00:28,065 --> 00:00:30,420
+and practices across
+our cloud products.
+
+14
+00:00:30,420 --> 00:00:33,530
+Recommended resources in
+the form of a curated list of
+
+15
+00:00:33,530 --> 00:00:36,885
+the most applicable and widely
+used resources for each topic.
+
+16
+00:00:36,885 --> 00:00:40,190
+Information specific to
+key organizational roles,
+
+17
+00:00:40,190 --> 00:00:41,705
+including business managers,
+
+18
+00:00:41,705 --> 00:00:44,270
+tenant admins or data security teams,
+
+19
+00:00:44,270 --> 00:00:46,280
+risk assessment and privacy offers,
+
+20
+00:00:46,280 --> 00:00:48,175
+and legal compliance teams.
+
+21
+00:00:48,175 --> 00:00:50,000
+Direct guidance and support for
+
+22
+00:00:50,000 --> 00:00:52,620
+when you can't find what
+you're looking for.
+
+23
+00:00:53,390 --> 00:00:57,270
+The Service Trust Portal hosts
+the Compliance Manager Service,
+
+24
+00:00:57,270 --> 00:00:58,850
+and is the Microsoft public site for
+
+25
+00:00:58,850 --> 00:01:00,560
+publishing audit reports on order
+
+26
+00:01:00,560 --> 00:01:02,120
+compliance-related information
+
+27
+00:01:02,120 --> 00:01:04,840
+related to Microsoft's
+cloud services.
+
+28
+00:01:04,840 --> 00:01:07,925
+STP users can download audit reports
+
+29
+00:01:07,925 --> 00:01:10,700
+produced by external auditors
+and gain insight from
+
+30
+00:01:10,700 --> 00:01:13,310
+Microsoft-authored reports
+that provide details on how
+
+31
+00:01:13,310 --> 00:01:17,140
+Microsoft builds and
+operates its cloud services.
+
+32
+00:01:17,140 --> 00:01:20,795
+STP is a companion feature
+to the Trust Center,
+
+33
+00:01:20,795 --> 00:01:23,270
+and allows you to:
+Access audit reports
+
+34
+00:01:23,270 --> 00:01:26,180
+across Microsoft Cloud services
+on a single page.
+
+35
+00:01:26,180 --> 00:01:29,480
+Access compliance guides to help
+you understand how you can use
+
+36
+00:01:29,480 --> 00:01:31,160
+Microsoft cloud services features
+
+37
+00:01:31,160 --> 00:01:34,050
+to manage compliance with
+various regulations.
+
+38
+00:01:34,050 --> 00:01:36,920
+Access trust documents to
+help you understand how
+
+39
+00:01:36,920 --> 00:01:40,285
+Microsoft cloud services
+help protect your data.
+
+40
+00:01:40,285 --> 00:01:43,080
+To access some STP materials,
+
+41
+00:01:43,080 --> 00:01:44,180
+you must sign in as
+
+42
+00:01:44,180 --> 00:01:47,450
+an authenticated user with your
+Microsoft cloud services account.
+
+43
+00:01:47,450 --> 00:01:51,145
+Either an Azure AD organization
+account or a Microsoft account.
+
+44
+00:01:51,145 --> 00:01:54,260
+Then review and accept the
+Microsoft Non-Disclosure Agreement
+
+45
+00:01:54,260 --> 00:01:56,550
+for Compliance Materials.
+
+46
+00:01:56,740 --> 00:02:05,000
+Existing customers can access
+the STP at the site, aka.ms/STP.
+

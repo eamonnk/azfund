@@ -1,0 +1,186 @@
+1
+00:00:00,000 --> 00:00:03,750
+>> Artificial intelligence, in
+the context of cloud computing,
+
+2
+00:00:03,750 --> 00:00:05,160
+is based around the broad range of
+
+3
+00:00:05,160 --> 00:00:08,160
+services the core of which
+is machine learning.
+
+4
+00:00:08,160 --> 00:00:10,665
+Machine learning is a
+data science technique
+
+5
+00:00:10,665 --> 00:00:11,940
+that allows computers to use
+
+6
+00:00:11,940 --> 00:00:16,365
+existing data to forecast future
+behaviors, outcomes, and trends.
+
+7
+00:00:16,365 --> 00:00:18,210
+Using machine learning, computers
+
+8
+00:00:18,210 --> 00:00:20,955
+learn without being
+explicitly programmed.
+
+9
+00:00:20,955 --> 00:00:22,940
+Forecasts or predictions for
+
+10
+00:00:22,940 --> 00:00:25,370
+machine learning can make
+apps and devices smarter.
+
+11
+00:00:25,370 --> 00:00:27,425
+For example, when you shop online,
+
+12
+00:00:27,425 --> 00:00:29,390
+machine learning helps
+recommend other products
+
+13
+00:00:29,390 --> 00:00:31,820
+you might like based on
+what you've purchased.
+
+14
+00:00:31,820 --> 00:00:33,680
+Or when your credit card is swiped,
+
+15
+00:00:33,680 --> 00:00:35,480
+machine learning compares
+the transaction to
+
+16
+00:00:35,480 --> 00:00:38,945
+a database of transactions
+and helps detect fraud.
+
+17
+00:00:38,945 --> 00:00:41,930
+When your robot vacuum cleaner
+vacuums the room,
+
+18
+00:00:41,930 --> 00:00:45,240
+machine learning helps to
+decide whether the job is done.
+
+19
+00:00:45,250 --> 00:00:47,720
+Some of the most common artificial
+
+20
+00:00:47,720 --> 00:00:50,690
+intelligence and machine
+learning service types in Azure are,
+
+21
+00:00:50,690 --> 00:00:52,970
+Azure Machine Learning Service,
+
+22
+00:00:52,970 --> 00:00:54,680
+Azure Machine Learning
+Service provides
+
+23
+00:00:54,680 --> 00:00:57,605
+a cloud-based environment you
+can use to develop, train,
+
+24
+00:00:57,605 --> 00:01:02,650
+test, deploy, manage, and
+track machine learning models.
+
+25
+00:01:02,650 --> 00:01:05,930
+It fully supports open source
+technologies so you can use
+
+26
+00:01:05,930 --> 00:01:08,340
+tens of thousands of
+open source Python packages
+
+27
+00:01:08,340 --> 00:01:10,440
+with machine learning components.
+
+28
+00:01:10,440 --> 00:01:12,350
+Azure Machine Learning Service can
+
+29
+00:01:12,350 --> 00:01:15,020
+auto-generate a model
+on auto-tune for you.
+
+30
+00:01:15,020 --> 00:01:16,430
+It'll let you start training on
+
+31
+00:01:16,430 --> 00:01:20,135
+your local machine and then
+you can scale up to the Cloud.
+
+32
+00:01:20,135 --> 00:01:22,735
+Azure Machine Learning Studio,
+
+33
+00:01:22,735 --> 00:01:25,460
+Azure Machine Learning Studio
+is a collaborative drag
+
+34
+00:01:25,460 --> 00:01:27,860
+and drop visual work space
+where you can build,
+
+35
+00:01:27,860 --> 00:01:30,410
+test and deploy
+machine learning solutions
+
+36
+00:01:30,410 --> 00:01:32,545
+without needing to write code.
+
+37
+00:01:32,545 --> 00:01:35,070
+It uses pre-built and pre-configured
+
+38
+00:01:35,070 --> 00:01:38,255
+machine learning algorithms
+on data handling modules.
+
+39
+00:01:38,255 --> 00:01:40,580
+Use Machine Learning Studio
+when you want to
+
+40
+00:01:40,580 --> 00:01:44,000
+experiment with machine
+learning models quickly and easily.
+

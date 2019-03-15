@@ -1,0 +1,81 @@
+1
+00:00:00,000 --> 00:00:02,820
+>> Azure Advisor is
+a free service built into Azure
+
+2
+00:00:02,820 --> 00:00:05,580
+that provides recommendations
+on high availability,
+
+3
+00:00:05,580 --> 00:00:09,030
+security, performance, and cost.
+
+4
+00:00:09,030 --> 00:00:12,120
+Advisor analyzes your deployed
+services and looks for
+
+5
+00:00:12,120 --> 00:00:15,570
+ways to improve your environment
+across those four areas.
+
+6
+00:00:15,570 --> 00:00:19,570
+With Azure Advisor, you can
+get proactive, actionable,
+
+7
+00:00:19,570 --> 00:00:21,380
+and personalized best practices and
+
+8
+00:00:21,380 --> 00:00:24,524
+recommendations,
+improved performance, security,
+
+9
+00:00:24,524 --> 00:00:26,595
+and high availability
+of your resources,
+
+10
+00:00:26,595 --> 00:00:30,175
+and identify opportunities to
+reduce your overall Azure costs,
+
+11
+00:00:30,175 --> 00:00:33,570
+and get recommendations with
+proposed actions inline.
+
+12
+00:00:33,570 --> 00:00:36,515
+You can access Azure Advisor
+through the Azure portal.
+
+13
+00:00:36,515 --> 00:00:38,165
+After you sign into the portal,
+
+14
+00:00:38,165 --> 00:00:39,770
+auto select "Advisor" from
+
+15
+00:00:39,770 --> 00:00:43,660
+the "Navigation" menu or search
+for it in the "All Services" menu.
+
+16
+00:00:43,660 --> 00:00:46,820
+You can download recommendations
+from Azure Advisor in
+
+17
+00:00:46,820 --> 00:00:50,200
+PDF or CSV format, which
+you can then share.
+

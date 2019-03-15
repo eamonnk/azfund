@@ -1,0 +1,168 @@
+1
+00:00:00,000 --> 00:00:02,820
+>> Infrastructure-as-a-Service
+is the most basic category
+
+2
+00:00:02,820 --> 00:00:04,485
+of Cloud computing services.
+
+3
+00:00:04,485 --> 00:00:06,015
+With IaaS, you rent
+
+4
+00:00:06,015 --> 00:00:08,595
+IT infrastructure servers,
+and virtual machines,
+
+5
+00:00:08,595 --> 00:00:11,010
+storage networks,
+operating systems from
+
+6
+00:00:11,010 --> 00:00:13,530
+a Cloud provider on a pay
+for what you use basis.
+
+7
+00:00:13,530 --> 00:00:15,959
+It is an instant
+computing infrastructure,
+
+8
+00:00:15,959 --> 00:00:19,175
+provisioned and managed over
+secure Internet connection.
+
+9
+00:00:19,175 --> 00:00:21,259
+Using a virtual machine servers,
+
+10
+00:00:21,259 --> 00:00:22,320
+to run an operating system in
+
+11
+00:00:22,320 --> 00:00:25,135
+the cloud will be an example of IaaS.
+
+12
+00:00:25,135 --> 00:00:28,610
+Platform-as-a-Service, provides
+an environment for building,
+
+13
+00:00:28,610 --> 00:00:31,085
+testing, and deploying
+software applications.
+
+14
+00:00:31,085 --> 00:00:33,080
+The goal of PaaS, is to help
+
+15
+00:00:33,080 --> 00:00:34,730
+you create an application
+as quickly as
+
+16
+00:00:34,730 --> 00:00:36,350
+possible without having to worry
+
+17
+00:00:36,350 --> 00:00:38,585
+about managing the
+underlying infrastructure.
+
+18
+00:00:38,585 --> 00:00:41,925
+For example, when deploying
+a Web application using PaaS,
+
+19
+00:00:41,925 --> 00:00:43,820
+you don't have to install
+an operating system,
+
+20
+00:00:43,820 --> 00:00:46,130
+Web server, or even system updates.
+
+21
+00:00:46,130 --> 00:00:48,440
+It's a complete development
+and deployment environment
+
+22
+00:00:48,440 --> 00:00:50,630
+into Cloud with resources that enable
+
+23
+00:00:50,630 --> 00:00:53,515
+you to deliver everything
+from simple Cloud-based apps
+
+24
+00:00:53,515 --> 00:00:57,595
+to sophisticated Cloud enabled
+enterprise applications.
+
+25
+00:00:57,595 --> 00:00:59,540
+Resources are purchased from
+
+26
+00:00:59,540 --> 00:01:01,490
+a Cloud service provider
+in a pay for what
+
+27
+00:01:01,490 --> 00:01:05,600
+you use basis and accessed over
+secure Internet connection.
+
+28
+00:01:05,600 --> 00:01:08,450
+Running a website and a platform such
+
+29
+00:01:08,450 --> 00:01:10,920
+as Azure Web Apps would
+be an example of PaaS.
+
+30
+00:01:10,920 --> 00:01:12,960
+Software-as-a-Service,
+is software that
+
+31
+00:01:12,960 --> 00:01:14,975
+is essentially hosted and
+managed for customers.
+
+32
+00:01:14,975 --> 00:01:16,610
+It allows users to connect to and
+
+33
+00:01:16,610 --> 00:01:18,950
+use Cloud-based apps
+over the Internet.
+
+34
+00:01:18,950 --> 00:01:21,590
+How many examples are
+email, calendaring,
+
+35
+00:01:21,590 --> 00:01:24,585
+Office tools, such as
+Microsoft Office 365.
+
+36
+00:01:24,585 --> 00:01:28,740
+It is typically licensed to a
+monthly or an annual subscription.
+

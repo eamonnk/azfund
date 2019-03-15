@@ -1,0 +1,381 @@
+1
+00:00:00,000 --> 00:00:01,980
+>> Azure Firewall is a managed
+
+2
+00:00:01,980 --> 00:00:03,420
+cloud-based network security service
+
+3
+00:00:03,420 --> 00:00:05,985
+that protects your Azure
+virtual network resources.
+
+4
+00:00:05,985 --> 00:00:08,100
+You can essentially create, enforce,
+
+5
+00:00:08,100 --> 00:00:10,500
+and log application and
+network connectivity policies
+
+6
+00:00:10,500 --> 00:00:12,900
+across subscriptions
+and virtual networks.
+
+7
+00:00:12,900 --> 00:00:14,940
+Azure Firewall includes many features
+
+8
+00:00:14,940 --> 00:00:17,445
+including; Built-in
+high availability,
+
+9
+00:00:17,445 --> 00:00:19,455
+Unrestricted cloud scalability,
+
+10
+00:00:19,455 --> 00:00:21,765
+Inbound and Outbound filtering rules,
+
+11
+00:00:21,765 --> 00:00:23,550
+and Azure Monitor logging.
+
+12
+00:00:23,550 --> 00:00:25,770
+Distributed denial of
+service attacks attempt to
+
+13
+00:00:25,770 --> 00:00:28,485
+overwhelm on exhausted
+applications resources,
+
+14
+00:00:28,485 --> 00:00:32,215
+making the application slow or
+unresponsive to legitimate users.
+
+15
+00:00:32,215 --> 00:00:34,130
+DDoS attacks can be targeted at
+
+16
+00:00:34,130 --> 00:00:37,190
+any endpoint that is publicly
+reachable through the internet.
+
+17
+00:00:37,190 --> 00:00:40,250
+DDoS results exposed to
+the internet such as a website,
+
+18
+00:00:40,250 --> 00:00:43,340
+is at risk of being attacked
+by a denial of service attack.
+
+19
+00:00:43,340 --> 00:00:46,070
+When you combine
+Azure DDoS Protection
+
+20
+00:00:46,070 --> 00:00:48,050
+with application design
+best practices,
+
+21
+00:00:48,050 --> 00:00:50,795
+you help provide defense
+against DDoS attacks.
+
+22
+00:00:50,795 --> 00:00:53,660
+DDoS Protection leverages
+the scale and elasticity of
+
+23
+00:00:53,660 --> 00:00:55,370
+Microsoft's global network to bring
+
+24
+00:00:55,370 --> 00:00:58,835
+DDoS mitigation capacity
+to every Azure region.
+
+25
+00:00:58,835 --> 00:01:01,970
+Network Security Groups allow
+you to filter network traffic
+
+26
+00:01:01,970 --> 00:01:04,805
+to and from Azure resources
+in an Azure virtual network.
+
+27
+00:01:04,805 --> 00:01:09,070
+An NSG can contain multiple inbound
+and outbound security rules,
+
+28
+00:01:09,070 --> 00:01:11,900
+that enabled it to filter
+traffic to and from resources by
+
+29
+00:01:11,900 --> 00:01:15,835
+source and destination IP
+Address, port, and protocol.
+
+30
+00:01:15,835 --> 00:01:17,920
+When you create a Nertwork
+Security Group,
+
+31
+00:01:17,920 --> 00:01:19,100
+Azure creates a series of
+
+32
+00:01:19,100 --> 00:01:21,965
+default rules to provide
+a baseline level of security.
+
+33
+00:01:21,965 --> 00:01:24,005
+You cannot remove the default rules,
+
+34
+00:01:24,005 --> 00:01:25,220
+which you can't override them,
+
+35
+00:01:25,220 --> 00:01:28,500
+by creating new rules
+but higher priorities.
+
+36
+00:01:28,840 --> 00:01:31,969
+When choosing an Azure
+network security solution,
+
+37
+00:01:31,969 --> 00:01:34,790
+it's not enough to simply focus
+on security within perimeter,
+
+38
+00:01:34,790 --> 00:01:38,575
+or our network security between
+services inside a network.
+
+39
+00:01:38,575 --> 00:01:41,690
+A layered approach provides
+multiple levels of protection,
+
+40
+00:01:41,690 --> 00:01:43,760
+so that if an attacker
+gets through one layer,
+
+41
+00:01:43,760 --> 00:01:45,545
+there are fraud protections in place.
+
+42
+00:01:45,545 --> 00:01:47,510
+A common security concept
+that is applied
+
+43
+00:01:47,510 --> 00:01:49,730
+to computing systems
+is Defense in Depth,
+
+44
+00:01:49,730 --> 00:01:53,215
+which is essentially a layered
+approach to providing security.
+
+45
+00:01:53,215 --> 00:01:56,240
+Perimeter Layer. The Network
+Perimeter Layers about
+
+46
+00:01:56,240 --> 00:01:57,650
+protecting organizations from
+
+47
+00:01:57,650 --> 00:01:59,840
+network-based attacks
+against your resources.
+
+48
+00:01:59,840 --> 00:02:01,970
+Identifying these
+attacks, alerting and
+
+49
+00:02:01,970 --> 00:02:04,760
+eliminating their impact is important
+to keep your network secure.
+
+50
+00:02:04,760 --> 00:02:08,000
+To do this, you can use Azure
+DDoS Protection to filter
+
+51
+00:02:08,000 --> 00:02:09,620
+large-scale attacks
+before they can cause
+
+52
+00:02:09,620 --> 00:02:12,215
+denial of service for end-users.
+
+53
+00:02:12,215 --> 00:02:15,020
+Use perimeter firewalls
+with Azure Firewall to
+
+54
+00:02:15,020 --> 00:02:18,605
+identify and alert on a malicious
+attacks against your network.
+
+55
+00:02:18,605 --> 00:02:22,370
+The Networking Layer, at
+this layer to focuses on limiting
+
+56
+00:02:22,370 --> 00:02:24,470
+network connectivity
+across all your resources
+
+57
+00:02:24,470 --> 00:02:26,240
+to only allow what is required.
+
+58
+00:02:26,240 --> 00:02:28,030
+As best practices, you should,
+
+59
+00:02:28,030 --> 00:02:30,050
+limit communication
+between resources through
+
+60
+00:02:30,050 --> 00:02:33,340
+segmenting your network and
+configuring access controls.
+
+61
+00:02:33,340 --> 00:02:35,870
+Deny be Default, restrict
+
+62
+00:02:35,870 --> 00:02:39,455
+inbound internet access
+intimate outbound where appropriate.
+
+63
+00:02:39,455 --> 00:02:43,460
+Implement secure connectivity
+to on-premises networks.
+
+64
+00:02:43,460 --> 00:02:46,190
+Combining services.
+You can also combine
+
+65
+00:02:46,190 --> 00:02:48,150
+multiple Azure networking and
+security services to manage
+
+66
+00:02:48,150 --> 00:02:51,560
+your network security and provide
+increased layered protection.
+
+67
+00:02:51,560 --> 00:02:55,495
+You can combine Network Security
+Groups and Azure Firewall.
+
+68
+00:02:55,495 --> 00:02:58,720
+Azure Firewall compliments Network
+Security Group functionality,
+
+69
+00:02:58,720 --> 00:03:00,350
+together they provide better defense
+
+70
+00:03:00,350 --> 00:03:02,375
+in depth and network security.
+
+71
+00:03:02,375 --> 00:03:05,015
+You can combine Application Gateway
+
+72
+00:03:05,015 --> 00:03:07,630
+WebApplication Firewall
+and Azure Firewall.
+
+73
+00:03:07,630 --> 00:03:10,700
+Web Application Firewall is
+a feature of application gateway,
+
+74
+00:03:10,700 --> 00:03:12,560
+that provides centralized
+inbound protection
+
+75
+00:03:12,560 --> 00:03:13,714
+of your web applications,
+
+76
+00:03:13,714 --> 00:03:16,805
+from common exploits
+and vulnerabilities.
+
+77
+00:03:16,805 --> 00:03:19,190
+As computing environments move from
+
+78
+00:03:19,190 --> 00:03:21,695
+customer controlled data centers
+to cloud datacenters,
+
+79
+00:03:21,695 --> 00:03:24,005
+the responsibility for
+security also shifts.
+
+80
+00:03:24,005 --> 00:03:26,090
+Security is now a concern shared by
+
+81
+00:03:26,090 --> 00:03:29,100
+both the cloud provider
+and the customers.
+

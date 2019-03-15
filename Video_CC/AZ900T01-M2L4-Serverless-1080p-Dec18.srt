@@ -1,0 +1,193 @@
+1
+00:00:00,000 --> 00:00:01,590
+>> Serverless computing is
+
+2
+00:00:01,590 --> 00:00:04,395
+a Cloud hosted execution environment
+that runs your code,
+
+3
+00:00:04,395 --> 00:00:06,945
+but obstructs the underlying
+hosting environment.
+
+4
+00:00:06,945 --> 00:00:09,765
+You create an instance of the
+service and you add your code.
+
+5
+00:00:09,765 --> 00:00:11,340
+No infrastructure configuration or
+
+6
+00:00:11,340 --> 00:00:13,320
+maintenance is required
+or even allowed.
+
+7
+00:00:13,320 --> 00:00:16,185
+You configure your serverless app
+to respond to events.
+
+8
+00:00:16,185 --> 00:00:18,645
+An event could be a REST endpoint,
+
+9
+00:00:18,645 --> 00:00:20,180
+a Periodic Timer, or
+
+10
+00:00:20,180 --> 00:00:22,670
+even a message received
+from another Azure service.
+
+11
+00:00:22,670 --> 00:00:25,835
+The serverless app runs only
+when it's triggered by an event.
+
+12
+00:00:25,835 --> 00:00:28,700
+Scaling and performance
+are handled automatically
+
+13
+00:00:28,700 --> 00:00:31,775
+and you're billed only for
+the exact resources you use.
+
+14
+00:00:31,775 --> 00:00:34,385
+You don't even need
+to reserve resources.
+
+15
+00:00:34,385 --> 00:00:37,070
+Some of the most common
+serverless service types
+
+16
+00:00:37,070 --> 00:00:39,325
+in Azure are Azure Functions.
+
+17
+00:00:39,325 --> 00:00:41,990
+Azure Functions are ideal when
+you're only concerned with the code
+
+18
+00:00:41,990 --> 00:00:43,070
+running your service and
+
+19
+00:00:43,070 --> 00:00:45,290
+not the underlying platform
+or infrastructure.
+
+20
+00:00:45,290 --> 00:00:47,210
+Azure Functions are commonly used
+
+21
+00:00:47,210 --> 00:00:48,740
+when you need to perform
+work in response to
+
+22
+00:00:48,740 --> 00:00:50,330
+an event and when that work can be
+
+23
+00:00:50,330 --> 00:00:53,095
+completed quickly
+within seconds or less.
+
+24
+00:00:53,095 --> 00:00:55,790
+Azure Functions scale
+automatically and charges
+
+25
+00:00:55,790 --> 00:00:57,830
+accrue only when
+a function is triggered.
+
+26
+00:00:57,830 --> 00:00:59,630
+So, there are solid choice
+when demand is
+
+27
+00:00:59,630 --> 00:01:03,785
+variable. Azure Logic Apps.
+
+28
+00:01:03,785 --> 00:01:06,110
+Azure Logic Apps is a Cloud
+service that helps you
+
+29
+00:01:06,110 --> 00:01:08,740
+automate and orchestrate
+tasks, business processes,
+
+30
+00:01:08,740 --> 00:01:11,450
+and workflows, when you need
+to integrate apps, data,
+
+31
+00:01:11,450 --> 00:01:15,260
+systems, and services across
+enterprises and organizations.
+
+32
+00:01:15,260 --> 00:01:19,630
+Logic Apps simplifies how you design
+and build scalable solutions,
+
+33
+00:01:19,630 --> 00:01:20,770
+whether in the Cloud,
+
+34
+00:01:20,770 --> 00:01:24,050
+on-premises, or both.
+Azure Event Grid.
+
+35
+00:01:24,050 --> 00:01:26,210
+Azure Event Grid allows
+you to easily build
+
+36
+00:01:26,210 --> 00:01:28,430
+applications with
+event-based architectures.
+
+37
+00:01:28,430 --> 00:01:31,550
+It's a fully managed intelligent
+event routing service that
+
+38
+00:01:31,550 --> 00:01:35,480
+uses a publish-subscribe model
+for uniform event consumption.
+
+39
+00:01:35,480 --> 00:01:37,640
+Event Grid has built-in support for
+
+40
+00:01:37,640 --> 00:01:39,440
+events coming from Azure services,
+
+41
+00:01:39,440 --> 00:01:42,200
+such as storage blobs
+and resource groups.
+

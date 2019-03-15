@@ -1,0 +1,81 @@
+1
+00:00:00,000 --> 00:00:02,880
+>> Azure Marketplace is
+a service on Azure that
+
+2
+00:00:02,880 --> 00:00:05,310
+helps connect end-users
+with Microsoft partners,
+
+3
+00:00:05,310 --> 00:00:08,370
+independent software vendors,
+and startups that are offering
+
+4
+00:00:08,370 --> 00:00:11,965
+their solutions and services which
+are optimized to run on Azure.
+
+5
+00:00:11,965 --> 00:00:14,460
+Azure Marketplace allows customers,
+
+6
+00:00:14,460 --> 00:00:18,180
+mostly IT professionals and
+cloud developers, to find, try,
+
+7
+00:00:18,180 --> 00:00:21,570
+purchase, and provision applications
+and services from hundreds of
+
+8
+00:00:21,570 --> 00:00:25,455
+leading service providers all
+certified to run an Azure.
+
+9
+00:00:25,455 --> 00:00:30,600
+This solution catalog spans several
+industry categories including,
+
+10
+00:00:30,600 --> 00:00:33,900
+but not limited to,
+open-source container platforms,
+
+11
+00:00:33,900 --> 00:00:36,330
+virtual machine images, databases,
+
+12
+00:00:36,330 --> 00:00:38,570
+application build and
+deployment software,
+
+13
+00:00:38,570 --> 00:00:40,980
+developer tools, track detection,
+
+14
+00:00:40,980 --> 00:00:43,380
+blockchain, and many more.
+
+15
+00:00:43,380 --> 00:00:46,850
+Using Azure Marketplace, you can
+provision end-to-end solutions
+
+16
+00:00:46,850 --> 00:00:50,830
+quickly and reliably hosted in
+your own Azure environment.
+
+17
+00:00:50,830 --> 00:00:55,130
+At the time of recording, this
+includes over 8,000 listings.
+

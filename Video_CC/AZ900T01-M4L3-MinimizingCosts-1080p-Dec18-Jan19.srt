@@ -1,0 +1,352 @@
+1
+00:00:00,470 --> 00:00:03,000
+>> The following best
+practice guidelines can
+
+2
+00:00:03,000 --> 00:00:04,905
+help minimize your Azure costs.
+
+3
+00:00:04,905 --> 00:00:07,200
+Perform cost analysis.
+
+4
+00:00:07,200 --> 00:00:09,720
+Plan your Azure solution wisely.
+
+5
+00:00:09,720 --> 00:00:11,190
+Carefully consider the products,
+
+6
+00:00:11,190 --> 00:00:12,720
+services, and resources you need,
+
+7
+00:00:12,720 --> 00:00:14,250
+and read the relevant
+documentation to
+
+8
+00:00:14,250 --> 00:00:17,445
+understand how each of your choices
+are metered and billed.
+
+9
+00:00:17,445 --> 00:00:20,490
+Additionally, you should calculate
+your projected costs by using
+
+10
+00:00:20,490 --> 00:00:23,625
+the Azure pricing and Total Cost
+of Ownership calculators,
+
+11
+00:00:23,625 --> 00:00:25,290
+only adding the products, services,
+
+12
+00:00:25,290 --> 00:00:27,340
+and resources you need.
+
+13
+00:00:27,410 --> 00:00:30,405
+Monitor usage with Azure Advisor.
+
+14
+00:00:30,405 --> 00:00:32,100
+In an efficient architecture,
+
+15
+00:00:32,100 --> 00:00:35,345
+provision resources much to
+demand for those resources.
+
+16
+00:00:35,345 --> 00:00:38,060
+Azure Advisor is a feature that
+
+17
+00:00:38,060 --> 00:00:41,185
+identifies unused or
+underutilized resources.
+
+18
+00:00:41,185 --> 00:00:43,580
+Enable Azure Advisor to implement
+
+19
+00:00:43,580 --> 00:00:46,100
+its recommendations by
+removing unused resources and
+
+20
+00:00:46,100 --> 00:00:47,860
+configuring your resources
+to match demand.
+
+21
+00:00:47,860 --> 00:00:51,410
+Your spending limits.
+
+22
+00:00:51,410 --> 00:00:52,760
+Free trial customers on
+
+23
+00:00:52,760 --> 00:00:55,990
+some credit-based Azure subscriptions
+can use spending limits,
+
+24
+00:00:55,990 --> 00:00:58,550
+which Azure provides to help
+prevent you from exhausting
+
+25
+00:00:58,550 --> 00:01:01,520
+the credit on your account
+within each billing period.
+
+26
+00:01:01,520 --> 00:01:03,500
+If you have a credit
+base subscription
+
+27
+00:01:03,500 --> 00:01:05,540
+and you reach your
+configured spending limit,
+
+28
+00:01:05,540 --> 00:01:07,130
+Azure suspends your subscription
+
+29
+00:01:07,130 --> 00:01:09,205
+until a new billing period begins.
+
+30
+00:01:09,205 --> 00:01:11,540
+A spending limit feature is not
+
+31
+00:01:11,540 --> 00:01:14,080
+available for customers who aren't
+using credit by subscriptions,
+
+32
+00:01:14,080 --> 00:01:15,955
+such as pay-as-you-go subscribers.
+
+33
+00:01:15,955 --> 00:01:17,860
+Use Azure reservations.
+
+34
+00:01:17,860 --> 00:01:20,060
+Azure reservations
+offer discounted prices
+
+35
+00:01:20,060 --> 00:01:22,160
+on certain Azure products
+and resources.
+
+36
+00:01:22,160 --> 00:01:23,600
+To get a discount, you reserved
+
+37
+00:01:23,600 --> 00:01:25,625
+products and resources
+by paying in advance.
+
+38
+00:01:25,625 --> 00:01:27,530
+You can pre-pay for one year or
+
+39
+00:01:27,530 --> 00:01:29,765
+three years of use
+of virtual machines,
+
+40
+00:01:29,765 --> 00:01:31,535
+SQL database compute capacity,
+
+41
+00:01:31,535 --> 00:01:33,260
+Azure Cosmos database throughput,
+
+42
+00:01:33,260 --> 00:01:35,075
+and other Azure resources.
+
+43
+00:01:35,075 --> 00:01:37,310
+Azure reservations
+are only available to
+
+44
+00:01:37,310 --> 00:01:39,200
+Enterprise, or CSP customers,
+
+45
+00:01:39,200 --> 00:01:41,045
+and for Pay-as-You-Go subscriptions.
+
+46
+00:01:41,045 --> 00:01:43,415
+Choose low cost locations in regions.
+
+47
+00:01:43,415 --> 00:01:45,180
+The cost of Azure products, services,
+
+48
+00:01:45,180 --> 00:01:47,600
+and resources can vary
+across locations,
+
+49
+00:01:47,600 --> 00:01:48,940
+regions, and if possible,
+
+50
+00:01:48,940 --> 00:01:50,600
+you should use them
+in those locations
+
+51
+00:01:50,600 --> 00:01:52,310
+and regions where they cost less.
+
+52
+00:01:52,310 --> 00:01:54,725
+Research available
+cost-saving offers.
+
+53
+00:01:54,725 --> 00:01:56,630
+Keep up to date with
+the latest Azure customer
+
+54
+00:01:56,630 --> 00:01:57,650
+and subscription offers,
+
+55
+00:01:57,650 --> 00:01:58,790
+and switch to the offers that
+
+56
+00:01:58,790 --> 00:02:01,500
+provide the greatest
+cost-saving benefit.
+
+57
+00:02:01,630 --> 00:02:04,980
+Apply tags to identify cost owners.
+
+58
+00:02:04,980 --> 00:02:07,220
+Tags help you manage
+costs associated with
+
+59
+00:02:07,220 --> 00:02:09,425
+the different groups of
+Azure products and resources.
+
+60
+00:02:09,425 --> 00:02:11,360
+You can apply tags to groups of
+
+61
+00:02:11,360 --> 00:02:14,405
+Azure products and resources
+to organize billing data.
+
+62
+00:02:14,405 --> 00:02:15,740
+For example, if you run
+
+63
+00:02:15,740 --> 00:02:17,780
+several virtual machines
+for different teams,
+
+64
+00:02:17,780 --> 00:02:20,420
+you can use tags to categorize
+costs by department,
+
+65
+00:02:20,420 --> 00:02:23,675
+such as human resources,
+marketing, or finance.
+
+66
+00:02:23,675 --> 00:02:25,730
+Tags make it easy to identify
+
+67
+00:02:25,730 --> 00:02:27,560
+groups that generate
+the biggest Azure costs,
+
+68
+00:02:27,560 --> 00:02:30,540
+so you can adjust
+your spending accordingly.
+
+69
+00:02:30,540 --> 00:02:33,475
+Azure Cost Management.
+
+70
+00:02:33,475 --> 00:02:36,050
+Cost Management is an Azure product
+
+71
+00:02:36,050 --> 00:02:38,045
+that provides a set of
+tools for monitoring,
+
+72
+00:02:38,045 --> 00:02:40,790
+allocating, and optimizing
+your Azure costs.
+
+73
+00:02:40,790 --> 00:02:43,310
+The main features of
+the Azure Cost Management tool
+
+74
+00:02:43,310 --> 00:02:46,509
+include Reporting,
+
+75
+00:02:46,509 --> 00:02:47,890
+Data enrichment,
+
+76
+00:02:47,890 --> 00:02:49,990
+Budgets,
+
+77
+00:02:49,990 --> 00:02:51,790
+Alerting,
+
+78
+00:02:51,790 --> 00:02:53,940
+Recommendations,
+
+79
+00:02:53,940 --> 00:02:56,200
+and Price.
+

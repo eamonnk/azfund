@@ -1,0 +1,170 @@
+1
+00:00:00,000 --> 00:00:03,060
+>> The pricing calculator tool
+helps you estimate the cost of
+
+2
+00:00:03,060 --> 00:00:06,320
+Azure products and organizes
+Azure products into categories,
+
+3
+00:00:06,320 --> 00:00:08,490
+and you choose the
+Azure products you need
+
+4
+00:00:08,490 --> 00:00:11,070
+and configured them according
+to your specific requirements.
+
+5
+00:00:11,070 --> 00:00:13,140
+Azure then provides
+a detailed estimate of
+
+6
+00:00:13,140 --> 00:00:16,815
+the costs associated with
+your selections and configurations.
+
+7
+00:00:16,815 --> 00:00:19,560
+The pricing calculator
+provides estimates,
+
+8
+00:00:19,560 --> 00:00:21,015
+not actual price quotes.
+
+9
+00:00:21,015 --> 00:00:24,060
+Actual prices may vary depending
+on the date of purchase,
+
+10
+00:00:24,060 --> 00:00:25,635
+the payment currency you are using,
+
+11
+00:00:25,635 --> 00:00:27,495
+your type of Azure customer you are.
+
+12
+00:00:27,495 --> 00:00:30,330
+Getting new estimates from
+the pricing calculator by adding,
+
+13
+00:00:30,330 --> 00:00:32,940
+removing, or reconfiguring
+your selected products.
+
+14
+00:00:32,940 --> 00:00:35,340
+You can also access pricing details,
+
+15
+00:00:35,340 --> 00:00:37,035
+product details, and documentation
+
+16
+00:00:37,035 --> 00:00:39,435
+for each product from
+the pricing calculator.
+
+17
+00:00:39,435 --> 00:00:41,220
+The options that you can configure in
+
+18
+00:00:41,220 --> 00:00:43,540
+the pricing calculator vary
+between products,
+
+19
+00:00:43,540 --> 00:00:47,045
+but basic configuration options
+include: region,
+
+20
+00:00:47,045 --> 00:00:53,640
+tier, billing options, support
+options, programs, and offers.
+
+21
+00:00:53,810 --> 00:00:56,500
+The total cost of
+ownership calculator,
+
+22
+00:00:56,500 --> 00:00:58,040
+is a tool that you use to estimate
+
+23
+00:00:58,040 --> 00:01:01,285
+cost savings you can realize
+by migrating to Azure.
+
+24
+00:01:01,285 --> 00:01:02,940
+To use the TCO Calculator,
+
+25
+00:01:02,940 --> 00:01:05,115
+you need to define your workloads.
+
+26
+00:01:05,115 --> 00:01:07,340
+Enter details about
+your on-premise infrastructure
+
+27
+00:01:07,340 --> 00:01:09,445
+into the TCO Calculator.
+
+28
+00:01:09,445 --> 00:01:12,630
+Adjust assumptions: adjust the values
+
+29
+00:01:12,630 --> 00:01:15,310
+of key assumptions that
+the TCO calculator makes,
+
+30
+00:01:15,310 --> 00:01:17,420
+which might vary between customers.
+
+31
+00:01:17,420 --> 00:01:20,780
+View the report:
+The TCO Calculator generates
+
+32
+00:01:20,780 --> 00:01:21,920
+a detailed report based on
+
+33
+00:01:21,920 --> 00:01:24,265
+the details you enter and
+the adjustments you make.
+
+34
+00:01:24,265 --> 00:01:25,880
+The report allows you to compare
+
+35
+00:01:25,880 --> 00:01:27,650
+the cost of your on-premises
+infrastructure with
+
+36
+00:01:27,650 --> 00:01:29,240
+the costs of using Azure products and
+
+37
+00:01:29,240 --> 00:01:31,800
+services to host your
+infrastructure in the Cloud.
+
