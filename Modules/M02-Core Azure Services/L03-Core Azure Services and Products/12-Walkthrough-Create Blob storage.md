@@ -90,7 +90,6 @@ You can complete this walkthrough task by completing the steps outlined below, o
 
    <p style="text-align:center;"><img src="../Linked_Image_Files/walkthrough-createblobportal13.png" alt="Screenshot of the Uploaded blob opened up in a browser where the content is visible."></p>
 
-
 Congratulations! You have created a storage account, created a blob storage container within that storage account, then uploaded a block bob, viewed and edited the block blob in the blob container and then downloaded the block blob.
 
-> **Note**: Remember to delete the resources you have just deployed if you are no longer using them to ensure you do not incur costs for running resources. You can delete all deployed resources by deleting the resource group in which they all reside.
+> **Note**: Remember to remove any newly created Azure resources that you no longer use. Removing unused resources ensures you will not incur unexpected costs. Remove unused resources by deleting the Resource Group that the unused resources belong to.

@@ -82,4 +82,4 @@ You can complete this walkthrough task by completing the steps outlined below, o
 
 Congratulations! You have created a SQL database in Azure and successfully queried the data in that database.
 
-> **Note**: Remember to delete the resources you have just deployed if you are no longer using them to ensure you do not incur costs for running resources. You can delete all deployed resources by deleting the resource group in which they all reside.
+> **Note**: Remember to remove any newly created Azure resources that you no longer use. Removing unused resources ensures you will not incur unexpected costs. Remove unused resources by deleting the Resource Group that the unused resources belong to.
