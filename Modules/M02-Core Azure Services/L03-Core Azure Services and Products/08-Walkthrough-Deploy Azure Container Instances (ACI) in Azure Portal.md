@@ -25,7 +25,7 @@ An active Azure subscription is required. If you do not have an Azure subscripti
 	- **Location**: Use the dropdown to choose the Azure region that is closest to you.
 	- Press the **OK** button.
 
-<p style="text-align:center;"><img src="../Linked_Image_Files/m02-l03-aci-02-basic.png" alt="Screenshot of the basic configuration pane of the create container instances blade, in Azure portal, with basic details entered."></p>
+	<p style="text-align:center;"><img src="../Linked_Image_Files/m02-l03-aci-02-basic.png" alt="Screenshot of the basic configuration pane of the create container instances blade, in Azure portal, with basic details entered."></p>
 
 3. Configure the new container instance as follows.
 
@@ -33,23 +33,23 @@ An active Azure subscription is required. If you do not have an Azure subscripti
 	- Leave all other settings in the **Configuration** pane at their default values.
 	- Select **OK** to start the automatic validation process.
 
-<p style="text-align:center;"><img src="../Linked_Image_Files/m02-l03-aci-03-configure.png" alt="Screenshot of the configuration pane of the create container instances blade, in Azure portal, with the DNS name label entered."></p>
+	<p style="text-align:center;"><img src="../Linked_Image_Files/m02-l03-aci-03-configure.png" alt="Screenshot of the configuration pane of the create container instances blade, in Azure portal, with the DNS name label entered."></p>
 
 4. When the validation process has passed, review the configuration summary, and select the **OK** button to begin deploying the container.
 
-<p style="text-align:center;"><img src="../Linked_Image_Files/m02-l03-aci-04-summary.png" alt="Screenshot of the summary pane of the create container instances blade, in Azure portal, with an overview of the container details."></p>
+	<p style="text-align:center;"><img src="../Linked_Image_Files/m02-l03-aci-04-summary.png" alt="Screenshot of the summary pane of the create container instances blade, in Azure portal, with an overview of the container details."></p>
 
 5. When the deployment starts, a notification appears in Azure Portal indicating the deployment is in progress. Another notification is displayed when the container deployment has completed successfully. Wait for the deployment succeeded notification *before* going to Step 6.
 
-<p style="text-align:center;"><img src="../Linked_Image_Files/m02-l03-aci-05-notifications.png" alt="Screenshot of the deployment in progress and the deployment succeeded notifications in Azure portal."></p>
+	<p style="text-align:center;"><img src="../Linked_Image_Files/m02-l03-aci-05-notifications.png" alt="Screenshot of the deployment in progress and the deployment succeeded notifications in Azure portal."></p>
 
 6. Obtain the Fully Qualified Domain Name (FQDN), in Azure Portal, by opening the **Overview** pane for the container group and navigating to **Resource Groups** > **myResourceGroup** > **mycontainer**. Make a note of the **FQDN** of the container instance, as well its **Status**.
 
-<p style="text-align:center;"><img src="../Linked_Image_Files/m02-l03-aci-06-fqdn.png" alt="Screenshot of the overview pane for the newly created container in Azure portal, with the FQDN highlighted."></p>
+	<p style="text-align:center;"><img src="../Linked_Image_Files/m02-l03-aci-06-fqdn.png" alt="Screenshot of the overview pane for the newly created container in Azure portal, with the FQDN highlighted."></p>
 
 7. When the **Status** value of the container instance is `Running`, navigate to the container's FQDN in a web browser.
 
-<p style="text-align:center;"><img src="../Linked_Image_Files/m02-l03-aci-01-welcome.png" alt="Screenshot of the ACI welcome message shown in a web browser."></p>
+	<p style="text-align:center;"><img src="../Linked_Image_Files/m02-l03-aci-01-welcome.png" alt="Screenshot of the ACI welcome message shown in a web browser."></p>
 
 > **Note**: You can also navigate to the container's IP address in your browser. You can obtain the IP address by following Step 6, and making a note of the **IP address** instead of the **FQDN**.
 
