@@ -2,12 +2,12 @@ In this walkthrough you write and run a local PowerShell script. The PowerShell 
 
 Finish this walkthrough by completing the steps that follow, or by reading through them.
 
-> **Note**: The screenshots throughout this walkthrough are Windows specific, but the PowerShell commands will run on any suitable Operating System platform within Azure PowerShell.
+> **Note**: The screenshots throughout this walkthrough are Windows specific, but the PowerShell commands will run on any suitable Operating System platform with Azure PowerShell.
 
 ### Prerequisites
 
 - An active Azure subscription is required. If you do not have an Azure subscription, create a <a href="https://azure.microsoft.com/free/" target="_blank"><span style="color: #0066cc;">free Azure account</span></a> before you begin.
-- The Azure PowerShell module requires *Windows PowerShell* 5.1 or higher on Windows, or *PowerShell Core* 6.0 on Windows, Linux, macOS and ARM. Follow these instructions for <a href="https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell?view=powershell-6" target="_blank"><span style="color: #0066cc;">Installing various versions of PowerShell</span></a> on your local machine.
+- Installing the Azure PowerShell module requires *Windows PowerShell* 5.1 or higher on Windows, or *PowerShell Core* 6.0 on Windows, Linux, macOS and ARM. Follow these instructions for <a href="https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell?view=powershell-6" target="_blank"><span style="color: #0066cc;">Installing various versions of PowerShell</span></a> on your local machine.
 - You must have a text editor installed to write a new PowerShell script.
 
 ### Steps
@@ -86,7 +86,7 @@ Finish this walkthrough by completing the steps that follow, or by reading throu
 
 <p style="text-align:center;"><img src="../Linked_Image_Files/m02-l05-azpowershell-07-az-login.png" alt="Screenshot of the Microsoft account sign in prompt in front of a Windows powershell session terminal running with administrator privileges. A username has been provided. The password entry field and sign in button are highlighted to demonstrate how to complete the sign in process."></p>
 
-> **Note**: The following Step 8 assumes that you have a single Azure subscription associated with your Azure account. If you have multiple subscriptions, you can get a list of your subscriptions using the command `Get-AzSubscription`. Specify which subscription to use with the command `Select-AzSubscription -Subscription "<Name of your subscription>"`. Substitute `<Name of your subscription>` with the actual name of the subscription you want to use.
+> **Note**: The following Step 8 assumes that you have a single Azure subscription associated with your Azure account. If you have multiple subscriptions, you can get a list of your subscriptions using the command `Get-AzSubscription`. Specify which subscription to use with the command `Select-AzSubscription -Subscription "<Name of your subscription>"`. Substitute the actual name of the subscription you want to use for `<Name of your subscription>`.
 
 8. Create a new resource group using the following command.
 
@@ -98,7 +98,7 @@ Finish this walkthrough by completing the steps that follow, or by reading throu
 
 <p style="text-align:center;"><img src="../Linked_Image_Files/m02-l05-azpowershell-08-az-resourcegroup.png" alt="Screenshot of a Windows powershell session terminal running with administrator privileges. The command to create a new resource group with a user specified name and location has run successfully."></p>
 
-9. Execute the `azdemo.ps1` script by running the following command. Substitute `<resource group name>` with the name of the resource group that you created in the previous Step 8.
+9. Execute the `azdemo.ps1` script by running the following command. Substitute the name of the resource group that you created in the previous Step 8 for `<resource group name>`.
 
     ```PowerShell
     .\azdemo.ps1 <resource group name>
@@ -106,13 +106,13 @@ Finish this walkthrough by completing the steps that follow, or by reading throu
 
 10. When prompted, provide a username and password for the VM administrator, and select **ok**. For example, for the **User name** enter `azdemoadmin` and for the **Password** enter `pa$$W0rd101`.
 
-<p style="text-align:center;"><img src="../Linked_Image_Files/m02-l05-azpowershell-10-az-admin-prompt.png" alt="Screenshot of the windows powershell credential request prompt in front of a Windows powershell session terminal running with administrator privileges. The user created script is running and a username and password for the vm administrator has been provided. The username and password entry fields and ok button are highlighted to demonstrate how to provide vm administrator credentials to azure from a powershell session."></p>
+<p style="text-align:center;"><img src="../Linked_Image_Files/m02-l05-azpowershell-10-az-admin-prompt.png" alt="Screenshot of the windows powershell credential request prompt in front of a Windows powershell session terminal running with administrator privileges. The user created script is running and a username and password for the vm administrator have been provided. The username and password entry fields and ok button are highlighted to demonstrate how to provide vm administrator credentials to azure from a powershell session."></p>
 
 11. The script will begin creating the Azure resources required by each VM, and may take several minutes to complete. Wait for the script to finish before you go to Step 12.
 
 <p style="text-align:center;"><img src="../Linked_Image_Files/m02-l05-azpowershell-11a-az-runscript.png" alt="Screenshot of a Windows powershell session terminal running with administrator privileges. The user created script is running. A message in the terminal indicates that azure is creating the resources required by the vms."></p>
 
-<p style="text-align:center;"><img src="../Linked_Image_Files/m02-l05-azpowershell-11b-az-script-finish.png" alt="Screenshot of a Windows powershell session terminal running with administrator privileges. The user created script has completed. The properties for each vm, such as vm name and location, are displayed in the terminal and indicate that azure has created the required resources successfully."></p>
+<p style="text-align:center;"><img src="../Linked_Image_Files/m02-l05-azpowershell-11b-az-script-finish.png" alt="Screenshot of a Windows powershell session terminal running with administrator privileges. The user created script has completed. The properties for each vm, such as vm name and location, are displayed and indicate that azure has created the required resources successfully."></p>
 
 12. When the script is finished, verify that it ran successfully by looking at the resources listed in the resource group that you created in Step 8. When you run the following command you should see three VMs, each with a unique name.
 
@@ -120,19 +120,31 @@ Finish this walkthrough by completing the steps that follow, or by reading throu
     Get-AzResource -ResourceType Microsoft.Compute/virtualMachines
     ```
 
-<p style="text-align:center;"><img src="../Linked_Image_Files/m02-l05-azpowershell-12-az-listvms.png" alt="Screenshot of a Windows powershell session terminal running with administrator privileges. The command to list resources within a resource group has run successfully. The output from the command shows properties of three vms, such as vm name and location, in the terminal. Each vm has a unique name which indicates that azure has created the vms successfully."></p>
+<p style="text-align:center;"><img src="../Linked_Image_Files/m02-l05-azpowershell-12-az-listvms.png" alt="Screenshot of a Windows powershell session terminal running with administrator privileges. The command to list resources within a resource group has run successfully. The output from the command shows properties of three vms, such as vm name and location. Each vm has a unique name which indicates that azure has created the vms successfully."></p>
 
-13. Use the following PowerShell command (`cmdlet`) to delete the resource group, and all related resources.
+13. The suffix `AzVM` is specific to VM-based commands in Azure PowerShell. The following are examples of other Azure PowerShell commands you can try with `AzVM`.
+
+    |Command|Description|
+    |:-|:-|
+    |`Stop-AzVM -ResourceGroupName <resource group name> -Name <vm name>`|Stop a running VM named `<vm name>` in the resource group named `<resource group name>`|
+    |`Start-AzVM -ResourceGroupName <resource group name> -Name <vm name>`|Start a stopped VM named `<vm name>` in the resource group named `<resource group name>`|
+    |`Restart-AzVM -ResourceGroupName <resource group name> -Name <vm name>`|Restart the VM named `<vm name>` in the resource group named `<resource group name>`|
+    |`Update-AzVM -ResourceGroupName <resource group name> -Name <vm name>`|Update the configuration for the VM named `<vm name>` in the resource group named `<resource group name>`|
+    |`Remove-AzVM -ResourceGroupName <resource group name> -Name <vm name>`|Delete the VM named `<vm name>` from the resource group named `<resource group name>`|
+
+    Substitute the name of the resource group that you created in Step 8 for `<resource group name>`. Replace `<vm name>` with the name of a VM you listed in Step 12.
+
+14. When you are finished, use the following Azure PowerShell command to delete the resource group and all the resources within it.
 
     ```PowerShell
     Remove-AzResourceGroup -Name <Resource group name>
     ```
 
-    Substitute `<resource group name>` with the name of the resource group you created in Step 8. When asked to confirm the deletion, answer **Yes**. The command may take several minutes to complete, and will return **True** when the resource group is deleted successfully.
+    Substitute the name of the resource group you created in Step 8 for `<resource group name>`. When asked to confirm the deletion, answer **Yes**. The command may take several minutes to complete, and will return **True** when the resource group is deleted successfully.
 
-<p style="text-align:center;"><img src="../Linked_Image_Files/m02-l05-azpowershell-13-az-delete-resources.png" alt="Screenshot of a Windows powershell session terminal running with administrator privileges. The command to delete a resource group from Azure is running and a prompt to confirm the deletion has been affirmed successfully."></p>
+<p style="text-align:center;"><img src="../Linked_Image_Files/m02-l05-azpowershell-13-az-delete-resources.png" alt="Screenshot of a Windows powershell session terminal running with administrator privileges. The command to delete a specified resource group from Azure is running and a prompt to confirm the deletion has been affirmed successfully."></p>
 
-14. Run the following command to disconnect the PowerShell session from your Azure account. Then, close the PowerShell terminal window.
+15. Run the following command to disconnect the PowerShell session from your Azure account. Then, `exit` or close the PowerShell terminal window.
 
     ```PowerShell
     disconnect-AzAccount
