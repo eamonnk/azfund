@@ -21,11 +21,11 @@ Finish this walkthrough by completing the steps that follow, or by reading throu
 4. Modify the default VM configuration to match the following VM details.
 
     |Region|Operating system|Type|
-    -------|----------------|-----
+    |------|----------------|----|
     |North Europe|Windows|(OS ony)|
 
     |Tier|Instance|
-    -----|---------
+    |----|--------|
     |Standard|A2: 2 Core(s), 3.5 GB RAM, 135 GB Temporary storage|
 
     <p style="text-align:center;"><img src="../Linked_Image_Files/m04-l03-pricing-04-vm-configuration.png" alt="Screenshot of the vm configuration area within the Azure pricing calculator estimate webpage. The highlighted examples of user inputted vm configuration property values indicate how to specify a vm configuration within an Azure pricing calculator estimate."></p>
@@ -45,7 +45,7 @@ Finish this walkthrough by completing the steps that follow, or by reading throu
 7. In the **Managed OS Disks** pane, modify the default VM storage configuration by adding the following details.
 
     |Tier|Disk size|Number of disks|Snapshot|Storage transactions|
-    -----|---------|---------------|--------|---------------------
+    |----|---------|---------------|--------|--------------------|
     |Standard HDD|S30: 1024 GiB|1|Off|10,000|
 
     <p style="text-align:center;"><img src="../Linked_Image_Files/m04-l03-pricing-07-vm-storage.png" alt="Screenshot of the managed os disks options area within the Azure pricing calculator estimate webpage. The highlighted tier type, disk size, number of disks, and number of storage transactions, options indicate how to specify a storage configuration for a vm within an Azure pricing calculator estimate."></p>
@@ -57,7 +57,7 @@ Finish this walkthrough by completing the steps that follow, or by reading throu
 9. Add a name for your VM bandwidth configuration. This walkthrough example uses the name **Bandwidth: Windows VM**. Modify the default bandwidth configuration by adding the following details.
 
     |Region|Zone 1 Outbound Data Transferer Amount|
-    -------|--------------------------------
+    |------|--------------------------------------|
     |North Europe|50 GB|
 
     <p style="text-align:center;"><img src="../Linked_Image_Files/m04-l03-pricing-09-network-config.png" alt="Screenshot of the network bandwidth configuration area within the Azure pricing calculator estimate webpage. The highlighted examples of user inputted bandwidth property values indicate how to specify a bandwidth configuration for a vm within an Azure pricing calculator estimate."></p>
@@ -69,19 +69,19 @@ Finish this walkthrough by completing the steps that follow, or by reading throu
 11. Add a name for your Application Gateway configuration. This walkthrough uses the name **App Gateway: Windows VM**. Modify the default Application Gateway configuration by adding the following details.
 
     |Region|Tier|Size|
-    -------|----|-----
+    |------|----|----|
     |North Europe|Basic|Small|
 
     |Instances|Hours|
-    --------|--------
+    |-------|-------|
     |1|365|
 
     |Data processed|
-    ----------------
+    |--------------|
     |25 GB|
 
     |Zone 1: North America, Europe|
-    -----------------------------
+    |-----------------------------|
     |50 GB|
 
     <p style="text-align:center;"><img src="../Linked_Image_Files/m04-l03-pricing-11-appgateway-config.png" alt="Screenshot of the application gateway configuration area within the Azure pricing calculator estimate webpage. The highlighted examples of user inputted application gateway property values indicate how to specify an application gateway configuration for a vm within an Azure pricing calculator estimate."></p>
