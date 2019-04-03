@@ -47,7 +47,9 @@ An active Azure subscription is required. If you do not have an Azure subscripti
 
     <p style="text-align:center;"><img src="../Linked_Image_Files/m02-l04-functions-07-test-function.png" alt="Screenshot of the get function URL pane inside the function editor in Azure portal. The display elements get function URL button, set key dropdown, and copy URL button are highlighted to indicate how to obtain and copy the function URL from the function editor."></p>
 
-8. Paste the copied function URL into your web browser's address bar. Append `&name=<yourname>` to the end of the URL. **Note**: Here, `<yourname>` refers to your given name. Navigate to the URL to see the "Hello" message, followed by the name you provided, displayed in your browser.
+8. Paste the copied function URL into your web browser's address bar. Append `&name=<yourname>` to the end of the URL. 
+
+    **Note**: Here, `<yourname>` refers to your given first name. Navigate to the URL to see the "Hello" message, followed by the name you provided, displayed in your browser. Then URL should look something like, 'https://azfuncek01.azurewebsites.net/api/HttpTrigger1?code=S3kn434OJPUYAKgQdNoYdWe8CbIgICMEDoK2dq6fb59D2ZjqAZWaIA==&name=glen'
 
     <p style="text-align:center;"><img src="../Linked_Image_Files/m02-l04-functions-08-browser-function.png" alt="Screenshot of a highlighted function URL and an appended example user name in the address bar of a web browser. The hello message and user name are also highlighted to illustrate the output of the function in the main browser window."></p>
 

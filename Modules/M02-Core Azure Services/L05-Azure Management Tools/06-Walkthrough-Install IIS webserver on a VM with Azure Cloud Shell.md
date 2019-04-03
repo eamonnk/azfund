@@ -45,11 +45,15 @@ An active Azure subscription is required. If you do not have an Azure subscripti
 	$cred = Get-Credential
 	```
 
-	When prompted, enter a username and password for the VM administrator. For example, **User**: `myVMAdmin` and **Password**: pa$$W0rd101
+	When prompted, enter a username and password for the VM administrator. For example, 
+    - **User**: `myVMAdmin` 
+    - **Password**: `pa$$W0rd101`
 
 	<p style="text-align:center;"><img src="../Linked_Image_Files/m02-l05-cloudshell-05-admin-credentials.png" alt="Screenshot of a powershell session terminal running in Azure cloud shell. The command to set a username and password for the vm administrator is running. A username and password are entered and assigned to a variable."></p>
 
 6. Create a VM with the `New-AzVM` command. The following example creates a VM named `myVM` in the `North Europe` location. If they do not exist, the resource group `myResourceGroup` and supporting network resources are created in Azure. To allow web traffic, the following command also opens port 80. Change these to more suitable settings, if you prefer.
+
+    > **Note**: Ensure you are signed into your Azure subscription. If you have multiple subscriptions, you can get a list of your subscriptions using the command `Get-AzSubscription`. Specify which subscription to use with the command `Select-AzSubscription -Subscription "<Name of your subscription>"`. Substitute the actual name of the subscription you want to use for `<Name of your subscription>`.
 
 	```PowerShell
 	New-AzVm `
@@ -97,7 +101,7 @@ An active Azure subscription is required. If you do not have an Azure subscripti
 
 	<p style="text-align:center;"><img src="../Linked_Image_Files/m02-l05-cloudshell-08-obtain-ip.png" alt="Screenshot of a powershell session terminal running in Azure cloud shell. The command for obtaining the public IP address of the load balancer has run. An ip address is highlighted which indicates that the command has completed successfully."></p>
 
-9. Use a web browser to navigate to the public IP address. The Windows server **ISS Welcome** page should be displayed in your browser.
+9. Use a web browser to navigate to the public IP address. The Windows server **IIS Welcome** page should be displayed in your browser.
 
 	<p style="text-align:center;"><img src="../Linked_Image_Files/m02-l05-cloudshell-09-iss-welcome.png" alt="Screenshot of the Windows webserver iis welcome page in a web browser. The page indicates that iis has been installed to the vm successfully."></p>
 

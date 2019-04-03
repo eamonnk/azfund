@@ -8,7 +8,7 @@ Finish this walkthrough by completing the steps that follow, or by reading throu
 
 - An active Azure subscription is required. If you do not have an Azure subscription, create a <a href="https://azure.microsoft.com/free/" target="_blank"><span style="color: #0066cc;">free Azure account</span></a> before you begin.
 - Installing the Azure PowerShell module requires *Windows PowerShell* 5.1 or higher on Windows, or *PowerShell Core* 6.0 on Windows, Linux, macOS and ARM. Follow these instructions for <a href="https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell?view=powershell-6" target="_blank"><span style="color: #0066cc;">Installing various versions of PowerShell</span></a> on your local machine.
-- You must have a text editor installed to write a new PowerShell script.
+- You must have a text editor installed to write a new PowerShell script. You could use the <a href="https://docs.microsoft.com/en-us/powershell/scripting/components/ise/windows-powershell-integrated-scripting-environment--ise-?view=powershell-6" target="_blank"><span style="color: #0066cc;">PowerShell Integrated Scripting Environment (ISE)</span></a> or another option could be to use <a href="https://visualstudio.microsoft.com/" target="_blank"><span style="color: #0066cc;">Visual Studio Code</span></a>.
 
 ### Steps
 
@@ -132,7 +132,7 @@ Finish this walkthrough by completing the steps that follow, or by reading throu
     |`Update-AzVM -ResourceGroupName <resource group name> -Name <vm name>`|Update the configuration for the VM named `<vm name>` in the resource group named `<resource group name>`|
     |`Remove-AzVM -ResourceGroupName <resource group name> -Name <vm name>`|Delete the VM named `<vm name>` from the resource group named `<resource group name>`|
 
-    Substitute the name of the resource group that you created in Step 8 for `<resource group name>`. Replace `<vm name>` with the name of a VM you listed in Step 12.
+    Substitute the name of the resource group that you created in Step 8 for `<resource group name>`. Replace `<vm name>` with the name of a VM you listed in Step 12. If you wish you can also have a look in the Azure Portal to verify the virtual machines are present in the GUI.
 
 14. When you are finished, use the following Azure PowerShell command to delete the resource group and all the resources within it.
 

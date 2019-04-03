@@ -36,7 +36,7 @@ Finish this walkthrough by completing the steps that follow, or by reading throu
 
     <p style="text-align:center;"><img src="../Linked_Image_Files/m04-l03-tco-05-storage.png" alt="Screenshot of the define storage infrastructure pane of the tco calculator in Azure. The highlighted and completed input fields indicate how to provide the Azure tco calculator with an on-premises storage infrastructure definition."></p>
 
-6. In the **Networking** pane of the TCO Calculator, provide a name for your networking infrastructure definition. Enter the following details, then select **Next**.
+6. In the **Networking** pane of the TCO Calculator, enter the following details, then select **Next**.
 
     |Outbound bandwidth|
     |------------------|

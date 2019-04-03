@@ -39,7 +39,7 @@ An active Azure subscription is required. If you do not have an Azure subscripti
 
 	<p style="text-align:center;"><img src="../Linked_Image_Files/m02-l04-iot-05-notify.png" alt="Screenshot of the deployment in progress and deployment succeeded notifications in Azure portal."></p>
 
-6. To add a a new IoT device, select **IoT Devices** from the **IoT Hub navigation** blade. Then, choose the **+ Add** button.
+6. To add a a new IoT device, select **Explorers** > **IoT Devices** from the **IoT Hub navigation** blade. Then, choose the **+ Add** button.
 
 	<p style="text-align:center;"><img src="../Linked_Image_Files/m02-l04-iot-06-add-device.png" alt="Screenshot of the IoT devices pane, highlighted within the IoT hub navigation blade, in Azure portal. The add button is highlighted to illustrate how to add a new IoT device identity to IoT hub."></p>
 
@@ -55,7 +55,7 @@ An active Azure subscription is required. If you do not have an Azure subscripti
 
 	<p style="text-align:center;"><img src="../Linked_Image_Files/m02-l04-iot-09-pi-sim.png" alt="Screenshot of the online overview of Raspberry Pi simulator window. The close window icon and next button are highlighted to indicate how to close the window or progress through the guide."></p>
 
-10. In the coding area, make sure that you are working on the default, Microsoft sample code. Replace the placeholder code on `Line 15` with the Azure IoT Hub connection string value that you copied from Step 8.
+10. In the coding area, make sure that you are working on the default, Microsoft sample code. Replace the placeholder code on `Line 15` with the Azure IoT Hub connection string value that you copied from Step 8. Copy over the text that is present, including the brackets.
 
 	<p style="text-align:center;"><img src="../Linked_Image_Files/m02-l04-iot-10-paste-string.png" alt="Screenshot of the coding area within the Raspberry Pi simulator. Line 15 is shown to indicate where to paste the connection string primary key value."></p>
 
