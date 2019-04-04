@@ -3,8 +3,9 @@
 The course structure is as follows:
 
 - **Module 0: Course Introduction**
-    - Course Overview
-    - Pre-Course Survey
+    - Lesson 1 - Course Overview
+    - Lesson 2 - About This Course
+    - Lesson 3 - Getting to Know You
 
 
 - **Module 1 - Cloud Concepts**
@@ -46,12 +47,10 @@ The course structure is as follows:
     - Lesson 7 - Module 4 Review Questions
     - Lesson 8 - Module 4 Summary
 
-- **Module 5 – Final Exam**
+- **Module 5 – Course Conclusion**
     - Lesson 1 - Graded Final Exam
-
-- **Module 6 – Course End**
-    - Lesson 1 - Course Complete
-    - Lesson 2 - Post – Course Survey
+    - Lesson 2 - Course Complete
+    - Lesson 3 - Post Course Survey
 
 
 

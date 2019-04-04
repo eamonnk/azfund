@@ -1,5 +1,5 @@
 
-<h1><strong><span style="color: #0000CD;">Grading</span></strong></h1>
+## Grading
 
 There are Module Review Questions at the end of each module. These are for learning purposes only and are not graded.
 

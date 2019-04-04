@@ -1,6 +1,6 @@
-<h1><strong><span style="color: #0000CD;">About This Course</span></strong></h1>
+## About This Course
 
-<h2><span style="color: #0000CD;">AZ900T01: Azure Fundamentals</span></h2>
+## AZ-900T01: Azure Fundamentals
 
 This course will provide foundational level knowledge of cloud services and how those services are provided with Microsoft Azure. The course can be taken as an optional first step in learning about cloud services and Microsoft Azure, before taking further Microsoft Azure or Microsoft cloud services courses. 
 

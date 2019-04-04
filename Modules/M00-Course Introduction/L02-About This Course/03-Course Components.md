@@ -1,6 +1,4 @@
-<h1><strong><span style="color: #0000CD;">Course Components</span></strong></h1> 
-
-
+## Course Components
 
 This course is composed of the following elements:
 

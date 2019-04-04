@@ -13,5 +13,5 @@ Thank you for your assistance!
 
  <h2><span style="color: #0000CD;">Pre-Course Survey</span></h2>
 
-<iframe title="Pre-course survey" src="https://wwlcoursesurveys.azurewebsites.net?surveyId=1783" marginwidth="0" marginheight="0" scrolling="yes" frameborder="0" width="100%" height="700">
+<iframe title="Pre-course survey" src="https://wwlcoursesurveys.azurewebsites.net?surveyId=2754" marginwidth="0" marginheight="0" scrolling="yes" frameborder="0" width="100%" height="700">
 </iframe>
