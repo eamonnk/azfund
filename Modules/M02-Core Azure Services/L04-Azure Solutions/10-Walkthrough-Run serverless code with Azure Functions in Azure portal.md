@@ -10,9 +10,10 @@ An active Azure subscription is required. If you do not have an Azure subscripti
 
 1. To create a new Azure Function App, select the **Deploy to Azure** button. Sign into Azure Portal, when prompted.
 
-    <a href="https://portal.azure.com/#create/Microsoft.FunctionApp" target="_blank"><img src="http://azuredeploy.net/deploybutton.png"/></a>
-    <a href="http://armviz.io/#/?load=https%3A%2F%2Fportal.azure.com%2F%23create%2FMicrosoft.FunctionApp" target="_blank"><img src="http://armviz.io/visualizebutton.png"/></a>
-
+    ![](../../Linked_Image_Files/deploybutton.png)[Deploy to Azure](https://portal.azure.com/#create/Microsoft.FunctionApp)
+    
+    ![](../../Linked_Image_Files/visualizebutton.png)[Visualize](http://armviz.io/#/?load=https%3A%2F%2Fportal.azure.com%2F%23create%2FMicrosoft.FunctionApp)
+   
 2. Fill in the Azure Function App settings fields with the following details.
 
     - **App name**: Provide a unique name that identifies your new Function App.

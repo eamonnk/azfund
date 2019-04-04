@@ -10,9 +10,10 @@ An active Azure subscription is required. If you do not have an Azure subscripti
 
 1. To create a new Azure IoT Hub, select the **Deploy to Azure** button. Sign into Azure Portal, when prompted.
 
-	<a href="https://portal.azure.com/#create/microsoft.iothub" target="_blank"><img src="http://azuredeploy.net/deploybutton.png"/></a>
-	<a href="http://armviz.io/#/?load=https%3A%2F%2Fportal.azure.com%2F%23create%2Fmicrosoft.iothub" target="_blank"><img src="http://armviz.io/visualizebutton.png"/></a>
-
+	![](../../Linked_Image_Files/deploybutton.png)[Deploy to Azure](https://portal.azure.com/#create/microsoft.iothub)
+	
+	![](../../Linked_Image_Files/visualizebutton.png)[Visualize](http://armviz.io/#/?load=https%3A%2F%2Fportal.azure.com%2F%23create%2Fmicrosoft.iothub)
+	
 2. Fill in the fields with the following details.
 
 	- **Subscription**: Select the subscription to use for your new Azure IoT Hub.
