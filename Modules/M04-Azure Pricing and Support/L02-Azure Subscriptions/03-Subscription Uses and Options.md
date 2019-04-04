@@ -6,7 +6,7 @@ You can use Azure subscriptions to define boundaries around Azure products, serv
 
 - *Access control boundary*. Azure will apply access-management policies at the subscription level, and you can create separate subscriptions to reflect different organizational structures. An example is that within a business, you have different departments to which you apply distinct Azure subscription policies. This allows you to manage and control access to the resources that users provision with specific subscriptions.
 
-> **Note**: For more information about grouping resources by subscription, refer to <a href="https://blogs.technet.microsoft.com/dsilva/2017/11/10/azure-subscription-governance-resource-group-and-naming-convention-strategies/" target="_blank"><span style="color: #0066cc;" color="#0066cc"> Azure Subscription Governance</span></a>.
+> **Note**: For more information about grouping resources by subscription, refer to the <a href="https://docs.microsoft.com/en-us/azure/azure-resource-manager/deploy-to-subscription" target="_blank"><span style="color: #0066cc;" color="#0066cc">Create resource groups and resources at the subscription level</span></a> page.
 
 ### Subscription options
 
