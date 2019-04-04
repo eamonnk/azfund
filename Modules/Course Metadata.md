@@ -88,10 +88,17 @@ GRADE_CUTOFFS: {
 GRADER: [
         {
             "drop_count": 0, 
+            "min_count": 4, 
+            "short_label": "Knowledge", 
+            "type": "Knowledge Check", 
+            "weight": 0.6
+        },
+        {
+            "drop_count": 0, 
             "min_count": 1, 
             "short_label": "Final", 
             "type": "Final Exam", 
-            "weight": 1
+            "weight": 0.4
         }
     ]
 ```
