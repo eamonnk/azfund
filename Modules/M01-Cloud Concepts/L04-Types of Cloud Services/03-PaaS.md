@@ -1,4 +1,4 @@
-<h1><strong><span style="color: #0000CD;">Platform as a Service (PaaS)</span></strong></h1>
+## Platform as a Service (PaaS)
 
 
 

@@ -1,7 +1,4 @@
-<h1><strong><span style="color: #0000CD;">Infrastructure as a service (IaaS)</span></strong></h1>
-
-
-
+## Infrastructure as a service (IaaS)
 
 
 IaaS is the most basic category of cloud computing services. With IaaS, you rent IT infrastructure servers and virtual machines (VMs), storage, networks, and operating systems from a cloud provider on a pay-as-you-go basis. It's an instant computing infrastructure, provisioned and managed over the internet.
