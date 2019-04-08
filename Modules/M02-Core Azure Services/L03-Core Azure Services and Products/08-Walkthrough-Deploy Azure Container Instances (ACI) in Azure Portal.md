@@ -12,9 +12,9 @@ An active Azure subscription is required. If you do not have an Azure subscripti
 
 1. Select the **Deploy to Azure** button below to create a new Azure Container Instance in Azure Portal. When prompted, sign into Azure Portal.
 
-	![](../../Linked_Image_Files/deploybutton.png)[Deploy to Azure](https://portal.azure.com/#create/microsoft.containerinstances)
+	[![Deploy to Azure button icon](../Linked_Image_Files/deploybutton.png)](https://portal.azure.com/#create/microsoft.containerinstances)
 	
-	![](../../Linked_Image_Files/visualizebutton.png)[Visualize](http://armviz.io/#/?load=https%3A%2F%2Fportal.azure.com%2F%23create%2Fmicrosoft.containerinstances)
+	[![Arm visualizer button icon](../Linked_Image_Files/visualizebutton.png)](http://armviz.io/#/?load=https%3A%2F%2Fportal.azure.com%2F%23create%2Fmicrosoft.containerinstances)
 
 2. Provide the following basic details for the new container instance.
 
