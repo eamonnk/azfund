@@ -10,10 +10,10 @@ An active Azure subscription is required. If you do not have an Azure subscripti
 
 1. Select the **Deploy to Azure** button to begin deploying a new VM to Azure from a template. Sign into Azure Portal, when prompted.
 
-	![](../../Linked_Image_Files/deploybutton.png)[Deploy to Azure](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fazure-quickstart-templates%2Fmaster%2F101-vm-simple-linux%2Fazuredeploy.json)
+	[![Deploy to Azure button icon](../Linked_Image_Files/deploybutton.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fazure-quickstart-templates%2Fmaster%2F101-vm-simple-linux%2Fazuredeploy.json)
 
-	![](../../Linked_Image_Files/visualizebutton.png)[Visualize](http://armviz.io/#/?load=https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fazure-quickstart-templates%2Fmaster%2F101-vm-simple-linux%2Fazuredeploy.json)
-	
+	[![Arm visualizer button icon](../Linked_Image_Files/visualizebutton.png)](http://armviz.io/#/?load=https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fazure-quickstart-templates%2Fmaster%2F101-vm-simple-linux%2Fazuredeploy.json)
+
 2. Enter the following details for the new VM.
 
 	- **Subscription**: Select your Azure subscription.
