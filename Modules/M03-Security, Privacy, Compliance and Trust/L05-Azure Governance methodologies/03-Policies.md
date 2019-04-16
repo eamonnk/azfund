@@ -21,7 +21,8 @@ The following list contains example policy definitions:
 - *Allowed Locations*. This policy enables you to restrict the locations that your organization can specify when deploying resources. Its effect is used to enforce your geographic compliance requirements.
 - *Allowed Virtual Machine SKUs*. This policy enables you to specify a set of VM SKUs that your organization can deploy.
 
-
+A List of sample policies is available on the <a href="https://docs.microsoft.com/en-us/azure/governance/policy/samples/
+" target="_blank"><span style="color: #0066cc;" color="#0066cc">Azure Policy Samples</span></a> page.
 
 ### Policy assignment
 To implement these policy definitions, whether custom or built-in, you will need to assign them. A *policy assignment* is a policy definition that has been assigned to take place within a specific scope. This scope could range from a management group to a resource group. Policy assignments are inherited by all child resources. This means that if a policy is applied to a resource group, it is applied to all the resources within that resource group. However, you can exclude a subscope from the policy assignment.

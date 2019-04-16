@@ -1,4 +1,4 @@
-In this walkthrough, you download a cost comparison report using the *Total Cost of Ownership* (TCO) *Calculator* in Azure. To create the report, the TCO Calculator uses information that you provide about your on-premises infrastructure and workloads to recommend cost savings that you can make with Azure.
+In this walkthrough, you will generate and then download a cost comparison report for infrastructure and resources running in an on-premises environment versus running in Azure, using the *Total Cost of Ownership* (TCO) *Calculator* in Azure. To create the report, the TCO Calculator uses information that you provide about your on-premises infrastructure and workloads to recommend cost savings that you can make with Azure.
 
 >**Note**: This walkthrough provides example definitions of on-premises infrastructure and workloads for a typical datacenter. To create a TCO Calculator report, use the example definitions or provide details of your *actual* on-premises infrastructure and workloads.
 

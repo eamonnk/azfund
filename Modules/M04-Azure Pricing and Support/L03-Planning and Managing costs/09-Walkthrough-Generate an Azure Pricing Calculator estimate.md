@@ -1,4 +1,4 @@
-In this walkthrough, you download an estimate from the Azure Pricing Calculator. The estimate describes the costs of running a Virtual Machine (VM) and related network resources in Azure.
+In this walkthrough, you will generate and then download a cost estimate for a specific resource configuration in Azure, using the Azure Pricing Calculator. The estimate will outline the costs of running a Virtual Machine (VM) and related network resources in Azure.
 
 Finish this walkthrough by completing the steps that follow, or by reading through them.
 

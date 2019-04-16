@@ -2,7 +2,7 @@
 
 
 
-<p style="text-align:left;"><img src="../Linked_Image_Files/azureactivedirectory.png" width="100" height="100" alt="Azure Active Directory icon"></p>
+<p style="text-align:left;"><img src="../Linked_Image_Files/azureactivedirectory1.png" width="100" height="100" alt="Azure Active Directory icon"></p>
 
 *Azure Active Directory* (Azure AD) is a Microsoft cloud-based identity and access management service. Azure AD helps employees of an organization sign in and access resources:
 
