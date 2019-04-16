@@ -10,9 +10,9 @@ An active Azure subscription is required. If you do not have an Azure subscripti
 
 1. To create a new Azure Function App, select the **Deploy to Azure** button. Sign into Azure Portal, when prompted.
 
-    ![](../../Linked_Image_Files/deploybutton.png)[Deploy to Azure](https://portal.azure.com/#create/Microsoft.FunctionApp)
+    [![Deploy to Azure button icon](../Linked_Image_Files/deploybutton.png)](https://portal.azure.com/#create/Microsoft.FunctionApp)
     
-    ![](../../Linked_Image_Files/visualizebutton.png)[Visualize](http://armviz.io/#/?load=https%3A%2F%2Fportal.azure.com%2F%23create%2FMicrosoft.FunctionApp)
+    [![Arm visualizer button icon](../Linked_Image_Files/visualizebutton.png)](http://armviz.io/#/?load=https%3A%2F%2Fportal.azure.com%2F%23create%2FMicrosoft.FunctionApp)
    
 2. Fill in the Azure Function App settings fields with the following details.
 
@@ -50,7 +50,7 @@ An active Azure subscription is required. If you do not have an Azure subscripti
 
 8. Paste the copied function URL into your web browser's address bar. Append `&name=<yourname>` to the end of the URL. 
 
-    **Note**: Here, `<yourname>` refers to your given first name. Navigate to the URL to see the "Hello" message, followed by the name you provided, displayed in your browser. Then URL should look something like, 'https://azfuncek01.azurewebsites.net/api/HttpTrigger1?code=S3kn434OJPUYAKgQdNoYdWe8CbIgICMEDoK2dq6fb59D2ZjqAZWaIA==&name=glen'
+    **Note**: Here, `<yourname>` refers to your given first name. Navigate to the URL to see the "Hello" message, followed by the name you provided, displayed in your browser. The URL should be similar to `https://azfuncek01.azurewebsites.net/api/HttpTrigger1?code=X9xx9999xXXXXX9x9xxxXX==&name=glen`
 
     <p style="text-align:center;"><img src="../Linked_Image_Files/m02-l04-functions-08-browser-function.png" alt="Screenshot of a highlighted function URL and an appended example user name in the address bar of a web browser. The hello message and user name are also highlighted to illustrate the output of the function in the main browser window."></p>
 
