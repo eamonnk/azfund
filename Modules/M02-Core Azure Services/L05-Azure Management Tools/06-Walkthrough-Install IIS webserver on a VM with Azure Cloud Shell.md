@@ -8,9 +8,8 @@ An active Azure subscription is required. If you do not have an Azure subscripti
 
 ### Steps
 
-1. To run Azure Cloud Shell from shell.azure.com, select the **Launch Azure Cloud Shell** icon and sign in with your Azure user login credentials.
+1. To access **Azure Cloud Shell** go to the location <a href="https://shell.azure.com" target="_blank"><span style="color: #0066cc;">https://shell.azure.com</span></a> and sign in with your Azure user login credentials.
 
-	[![Deploy to Azure button icon](../Linked_Image_Files/launchcloudshell.png)](https://shell.azure.com)
 
 	You can also run Azure Cloud Shell from within Azure Portal by using the Cloud Shell icon.
 

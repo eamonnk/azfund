@@ -1,4 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Artificial Intelligence</span></strong></h1>
 
 *Artificial Intelligence*, in the context of cloud computing, is based around a broad range of services, the core of which is *Machine Learning*. Machine Learning is a data science technique that allows computers to use existing data to forecast future behaviors, outcomes, and trends. Using machine learning, computers learn without being explicitly programmed.
 

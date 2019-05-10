@@ -1,4 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Purchasing Azure products and services</span></strong></h1>
 
 There are three main customer types on which the available purchasing options for Azure products and services is contingent, including:
 

@@ -1,4 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Azure Service Health</span></strong></h1>
 
 
 *Azure Service Health* is a suite of experiences that provide personalized guidance and support when issues with Azure services affect you. It can notify you, help you understand the impact of issues, and keep you updated as the issue is resolved. Azure Service Health can also help you prepare for planned maintenance and changes that could affect the availability of your resources.
@@ -21,4 +20,4 @@ In contrast to Azure Status, which informs you about service problems that affec
 
 Together, the Azure Service Health components provide you with a comprehensive view of the health status of Azure, at the level of granularity that is most relevant to you.
 
-> **Note**: You can read more about Azure Service Health on the <a href="https://azure.microsoft.com/en-us/features/service-health/" target="_blank"><span style="color: #0066cc;" color="#0066cc">Azure Service Health</span></a>webpage.
+> **Note**: You can read more about Azure Service Health on the <a href="https://azure.microsoft.com/en-us/features/service-health/" target="_blank"><span style="color: #0066cc;" color="#0066cc">Azure Service Health</span></a> webpage.

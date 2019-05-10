@@ -1,4 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Cloud service comparison</span></strong></h1>
 
 There are both advantages and disadvantages for IaaS, PaaS, and SaaS cloud services. 
 

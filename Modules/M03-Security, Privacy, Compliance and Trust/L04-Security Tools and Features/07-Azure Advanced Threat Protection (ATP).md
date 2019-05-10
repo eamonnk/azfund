@@ -1,4 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Azure Advanced Threat Protection</span></strong></h1>
 
 
 *Azure Advanced Threat Protection* (Azure ATP) is a cloud-based security solution that identifies, detects, and helps you investigate advanced threats, compromised identities, and malicious insider actions directed at your organization.

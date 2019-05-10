@@ -1,4 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Azure Germany services</span></strong></h1>
 
 
 Microsoft Azure Germany is built on the Microsoft trusted cloud principles of security, privacy, compliance, and transparency. It brings data residency in transit and at rest in Germany, and data replication across German datacenters for business continuity.

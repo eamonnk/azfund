@@ -1,4 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Consumption-based model</span></strong></h1> 
 
 Cloud service providers operate on a *consumption-based model*, which means that end users only pay for the resources that they use. Whatever they use is what they pay for.
 

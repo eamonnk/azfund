@@ -1,4 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Azure Advisor</span></strong></h1>
 
 
 *Azure Advisor* is a free service built into Azure that provides recommendations on high availability, security, performance, and cost. Advisor analyzes your deployed services and looks for ways to improve your environment across those four areas. 

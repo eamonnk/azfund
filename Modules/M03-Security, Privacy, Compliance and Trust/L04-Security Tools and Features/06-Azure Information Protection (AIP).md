@@ -1,5 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Azure Information Protection</span></strong></h1>
-
 
 
 *Microsoft Azure Information Protection* (MSIP) is a cloud-based solution that helps organizations classify and (optionally) protect its documents and emails by applying labels. Labels can be applied automatically (by administrators who define rules and conditions), manually (by users), or with a combination of both (where users are guided by recommendations).

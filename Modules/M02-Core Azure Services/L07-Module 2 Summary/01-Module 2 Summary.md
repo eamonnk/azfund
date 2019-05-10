@@ -1,4 +1,3 @@
-# Module 2 summary 
 
 In this module you've learned about core Microsoft Azure architectural components, core Azure services and solutions, and various management tools that are available to manage and configure Azure.
 

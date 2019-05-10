@@ -1,5 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Azure Security Center</span></strong></h1>
-
 
 
 *Azure Security Center* is a monitoring service that provides threat protection across all of your services both in Azure, and on-premises. Security Center can:

@@ -1,5 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Azure MFA</span></strong></h1>
-
 
 
 *Azure Multi-Factor Authentication* (MFA) provides additional security for your identities by requiring two or more elements for full authentication. These elements fall into three categories:

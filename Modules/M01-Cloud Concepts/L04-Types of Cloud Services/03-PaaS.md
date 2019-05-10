@@ -1,4 +1,4 @@
-## Platform as a Service (PaaS)
+
 
 
 
@@ -7,7 +7,7 @@ PaaS provides an environment for building, testing, and deploying software appli
 
 Resources are purchased from a cloud service provider on a pay-as-you-go basis and accessed over a secure Internet connection.
 
-<p style="text-align:center;"><img src="../Linked_Image_Files/paas1.png" alt="PaaS encompasses IaaS. The IaaS icons are Servers and Storage, Networking firewalls and security, and Datacenter physical plant and security. In addition to the IaaS icons, PaaS icons include an Operating systems icon, and a Development tools, database management, and business analytics icons."></p>
+<p style="text-align:center;"><img src="../Linked_Image_Files/paas3.png" alt="PaaS encompasses IaaS. The IaaS icons are Servers and Storage, Networking firewalls and security, and Datacenter physical plant and security. In addition to the IaaS icons, PaaS icons include an Operating systems icon, and a Development tools, database management, and business analytics icons."></p>
  
 
 PaaS has the following characteristics:

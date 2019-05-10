@@ -1,4 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Azure Cost Management</span></strong></h1>
 
 *Cost Management* is an Azure product that provides a set of tools for monitoring, allocating, and optimizing your Azure costs.
 

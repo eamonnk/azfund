@@ -1,4 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Azure management tools</span></strong></h1>
 
 
 You can configure and manage Azure using a broad range of tools and platforms. There are tools available for the command line, language-specific Software Development Kits (SDKs), developer tools, tools for migration, and many others. Tools that are commonly used for day-to-day management and interaction include: *Azure Portal*, for interacting with Azure via a Graphical User Interface (GUI); *Azure PowerShell*, *Azure Command-Line Interface* (CLI), and *Azure Cloud Shell*, for command line and automation-based interactions with Azure.

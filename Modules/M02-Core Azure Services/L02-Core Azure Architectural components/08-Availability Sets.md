@@ -1,4 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Availability sets</span></strong></h1>
 
 
 Availability sets are a way for you to ensure your application remains online if a high-impact maintenance event is required, or a hardware a failure occurs. Availability sets are made up of update domains and fault domains.

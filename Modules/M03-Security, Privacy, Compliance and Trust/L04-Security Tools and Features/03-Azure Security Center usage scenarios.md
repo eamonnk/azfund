@@ -1,5 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Azure Security Center usage scenarios</span></strong></h1>
-
 
 You can integrate Security Center into your workflows and use it in many ways. Here are two examples.
 

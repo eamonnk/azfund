@@ -1,5 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Choosing Azure network security solutions</span></strong></h1>
-
 
 It's not enough to simply focus on securing the network perimeter, or on network security between services inside a network. A layered approach provides multiple levels of protection so that if an attacker gets through one layer there are further protections in place. A common security concept that is applied to computing systems is *defense in depth*, which is essentially a layered approach to providing security.
 
@@ -39,4 +37,4 @@ You can also combine multiple Azure networking and security services to manage y
 
 As computing environments move from customer-controlled datacenters to cloud datacenters, the responsibility for security also shifts. Security is now a concern shared by both cloud providers and customers.
 
-<p style="text-align:center;"><img src="../Linked_Image_Files/shared_responsibilities.png" width="350" height="450" alt="Image representing the sharing of control over security between the cloud provider, Microsoft, and the customer across On-premises, IaaS, PaaS and SaaS."></p>
+<p style="text-align:center;"><img src="../Linked_Image_Files/shared_responsibilities_3.png" width="450" height="450" alt="Image representing the sharing of control over security between the cloud provider, Microsoft, and the customer across On-premises, IaaS, PaaS and SaaS."></p>

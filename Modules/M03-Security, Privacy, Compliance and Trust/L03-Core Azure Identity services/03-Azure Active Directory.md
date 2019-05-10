@@ -1,4 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Azure Active Directory</span></strong></h1>
 
 
 

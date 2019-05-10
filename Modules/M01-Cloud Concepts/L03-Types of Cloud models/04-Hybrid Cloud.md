@@ -1,4 +1,4 @@
-<h1><strong><span style="color: #0000CD;">Hybrid cloud</span></strong></h1>
+
 
 A hybrid cloud combines both public and private clouds, allowing you to run your applications in the most appropriate location.
 

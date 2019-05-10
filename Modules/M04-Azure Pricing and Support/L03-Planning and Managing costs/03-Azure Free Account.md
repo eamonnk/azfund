@@ -1,4 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Azure free account</span></strong></h1>
 
 An Azure free account provides subscribers with a $200 Azure credit that they can use for paid Azure products during a 30-day trial period. Once you use that $200 credit or reach your trial's end, Azure suspends your account unless you sign up for a paid account. 
 

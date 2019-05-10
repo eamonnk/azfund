@@ -2,21 +2,15 @@ In this walkthrough, you create, configure, and deploy a Docker container to *Az
 
 Finish this walkthrough by completing the steps that follow, or by reading through them.
 
-<p style="text-align:center;"><img src="../Linked_Image_Files/m02-l03-aci-01-welcome.png" alt="Screenshot of the ACI welcome message shown in a web browser."></p>
-
 ### Prerequisites
 
 An active Azure subscription is required. If you do not have an Azure subscription, create a <a href="https://azure.microsoft.com/free/" target="_blank"><span style="color: #0066cc;">free Azure account</span></a> before you begin.
 
 ### Steps
 
-1. Select the **Deploy to Azure** button below to create a new Azure Container Instance in Azure Portal. When prompted, sign into Azure Portal.
+1. To create a new Azure Container Instance, sign in to the Azure Portal and locate the *Azure Container Instance* service, then select **Create**, or alternatively, click on this <a href="https://portal.azure.com/#create/microsoft.containerinstances" target="_blank"><span style="color: #0066cc;" color="#0066cc">Create Container Instance</span></a> link and when prompted, sign into Azure Portal.
 
-	![](../../Linked_Image_Files/deploybutton.png)[Deploy to Azure](https://portal.azure.com/#create/microsoft.containerinstances)
-	
-	![](../../Linked_Image_Files/visualizebutton.png)[Visualize](http://armviz.io/#/?load=https%3A%2F%2Fportal.azure.com%2F%23create%2Fmicrosoft.containerinstances)
-
-2. Provide the following basic details for the new container instance.
+2. Provide the following basic details for the new container instance. The UI you encounter may be slightly different compared to the screenshots in this walkthrough, depending on if you accessed the Create New Container Instance via the *Azure portal* or via the *Deploy to Azure* button above, however the details provided will be the same.
 
 	- **Container name**: `mycontainer`
 	- **Container image type**: `Public`

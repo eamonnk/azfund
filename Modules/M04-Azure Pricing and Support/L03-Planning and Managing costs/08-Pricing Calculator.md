@@ -1,4 +1,3 @@
-<h1><strong><span style="color: #0000CD;">The pricing calculator tool</span></strong></h1>
 
 The *Pricing Calculator* is a tool that helps you estimate the cost of Azure products. It displays Azure products in categories, and you choose the Azure products you need and configure them according to your specific requirements.  Azure then provides a detailed estimate of the costs associated with your selections and configurations.
 

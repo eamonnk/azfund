@@ -1,4 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Azure Resource Manager</span></strong></h1>
 
 
 Azure Resource Manager is a management layer in which resource groups and all the resources within it are created, configured, managed, and deleted. It provides a consistent management layer which allows you automate the deployment and configuration of resources using different automation and scripting tools, such as Microsoft Azure PowerShell, Azure Command-Line Interface (Azure CLI), Azure portal, REST API, and client SDKs.

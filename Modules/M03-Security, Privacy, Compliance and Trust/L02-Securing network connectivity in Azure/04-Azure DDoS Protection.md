@@ -1,4 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Azure DDoS protection</span></strong></h1>
 
 
 *Distributed Denial of Service* (DDoS) attacks attempt to overwhelm and exhaust an application’s resources, making the application slow or unresponsive to legitimate users. DDoS attacks can be targeted at any endpoint that is publicly reachable through the internet. Thus, any resource exposed to the internet, such as a website, is potentially at risk from a DDoS attack.

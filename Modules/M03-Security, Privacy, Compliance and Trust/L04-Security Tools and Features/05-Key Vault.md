@@ -1,5 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Azure Key Vault</span></strong></h1>
-
 
 
 *Azure Key Vault* is a centralized cloud service for storing your applications' secrets. Key Vault helps you control your applications' secrets by keeping them in a single, central location and by providing secure access, permissions control, and access logging capabilities.

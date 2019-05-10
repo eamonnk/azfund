@@ -1,4 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Azure Policy</span></strong></h1>
 
 
 

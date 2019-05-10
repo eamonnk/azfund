@@ -1,4 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Knowledge Center</span></strong></h1>
 
 The Azure Knowledge Center is a searchable database that contains answers to common support questions, from a community of Azure experts, developers, customers, and users.
 

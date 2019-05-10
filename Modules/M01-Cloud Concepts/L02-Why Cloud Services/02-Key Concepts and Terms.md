@@ -1,4 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Key concepts and terms</span></strong></h1> 
 
 **What is cloud computing?**
 

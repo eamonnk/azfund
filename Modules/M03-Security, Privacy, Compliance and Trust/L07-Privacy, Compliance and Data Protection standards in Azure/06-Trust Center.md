@@ -1,4 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Trust Center</span></strong></h1>
 
 
 *Trust Center* is a website resource containing information and details about how Microsoft implements and supports security, privacy, compliance, and transparency in all Microsoft cloud products and services. The Trust Center is an important part of the Microsoft Trusted Cloud Initiative, and provides support and resources for the legal and compliance community.

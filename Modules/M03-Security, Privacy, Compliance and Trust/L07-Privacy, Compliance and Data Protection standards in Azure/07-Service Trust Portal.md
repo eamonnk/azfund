@@ -1,4 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Service Trust Portal</span></strong></h1>
 
 
 The *Service Trust Portal* (STP) hosts the Compliance Manager service, and is the Microsoft public site for publishing audit reports and other compliance-related information relevant to Microsoft’s cloud services. STP users can download audit reports produced by external auditors and gain insight from Microsoft-authored reports that provide details on how Microsoft builds and operates its cloud services.

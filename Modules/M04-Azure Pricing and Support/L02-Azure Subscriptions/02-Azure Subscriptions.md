@@ -1,4 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Azure subscriptions</span></strong></h1>
 
 Using Azure requires an Azure subscription, which provides you with authenticated and authorized access to Azure products and services, and allows you to provision resources. An Azure subscription is a logical unit of Azure services that links to an Azure account, which is an identity in Azure Active Directory (Azure AD) or in a directory that an Azure AD trusts.
 

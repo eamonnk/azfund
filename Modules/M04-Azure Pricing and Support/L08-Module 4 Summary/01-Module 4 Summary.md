@@ -1,4 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Module 4 summary</span></strong></h1>
 
 In this module, you learned about Azure Pricing and Support. We defined Azure subscriptions and detailed the various Azure subscription options and uses; explored purchasing Azure Products and Services; and examined factors that affect Azure costs and how you can minimize them. Additionally, we detailed Azure support plans and channels, and outlined Azure SLAs and how you can improve their application. Finally, we followed the service life cycle in Azure from the preview phase through general availability to update.
 

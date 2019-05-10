@@ -1,4 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Azure Firewall</span></strong></h1>
 
 
 A *Firewall* is a service that grants server access based on the originating IP address of each request. You create firewall rules that specify ranges of IP addresses. Only clients from these granted IP addresses will be allowed to access the server. Firewall rules, generally speaking, also include specific network protocol and port information.

@@ -1,4 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Monitoring applications and services</span></strong></h1>
 
 Data monitoring is only useful if it improves your visibility of the operations in your computing environment. *Azure Monitor* includes several features and tools that provide valuable insights into your applications, and the other resources they may depend on. Monitoring solutions and features, such as *Application Insights* and *Container Insights*, provide you with a deeper look into different aspects of your application and Azure services.
 

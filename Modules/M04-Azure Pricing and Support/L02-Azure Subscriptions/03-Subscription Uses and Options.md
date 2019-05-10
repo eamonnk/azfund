@@ -1,4 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Subscription uses and options</span></strong></h1>
 
 You can use Azure subscriptions to define boundaries around Azure products, services, and resources. There are two types of subscription boundaries that you can use, including:
 

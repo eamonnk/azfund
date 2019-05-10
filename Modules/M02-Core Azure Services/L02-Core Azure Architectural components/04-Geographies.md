@@ -1,4 +1,4 @@
-<h1><strong><span style="color: #0000CD;">Geographies</span></strong></h1>
+
 
 A *geography* is a discrete market typically containing two or more regions that preserves data residency and compliance boundaries.
 

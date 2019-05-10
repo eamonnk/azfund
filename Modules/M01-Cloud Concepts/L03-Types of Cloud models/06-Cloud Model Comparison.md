@@ -1,4 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Cloud model comparison</span></strong></h1>
 
 Below is an outline of some of the advantages and disadvantages for public, private, and hybrid clouds.
 

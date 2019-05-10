@@ -1,10 +1,9 @@
-<h1><strong><span style="color: #0000CD;">Azure Compute Services</span></strong></h1>
 
 
 
 *Azure compute* is an on-demand computing service for running cloud-based applications. It provides computing resources such as disks, processors, memory, networking and operating systems. The resources are available on-demand and can typically be made available in minutes or even seconds. You pay only for the resources you use and only for as long as you're using them.
 
-There are two common service types for performing compute in Azure: virtual machines, and containers.
+There are two common service types for performing compute in Azure: virtual machines and containers.
 
 ## What are virtual machines?
 

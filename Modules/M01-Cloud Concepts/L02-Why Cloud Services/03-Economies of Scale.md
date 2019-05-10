@@ -1,4 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Economies of scale</span></strong></h1> 
 
 The concept of *economies of scale* is the ability to do things more cheaply and more efficiently when operating at a larger scale in comparison to operating at a smaller scale.
 

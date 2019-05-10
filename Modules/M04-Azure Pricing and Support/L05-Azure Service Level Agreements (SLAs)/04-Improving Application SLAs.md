@@ -1,4 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Improving application SLAs</span></strong></h1>
 
 Azure customers can use SLAs to evaluate how their Azure solutions meet their business requirements and the needs of their clients and users. By creating your own SLAs, you can set performance targets to suit your specific Azure application.  This is an *Application SLA*.
 

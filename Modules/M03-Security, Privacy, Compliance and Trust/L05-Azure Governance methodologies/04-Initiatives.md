@@ -1,4 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Initiatives</span></strong></h1>
 
 
 Initiatives work alongside policies in Azure Policy. An *initiative definition* is a set of policy definitions to help track your compliance state for a larger goal.

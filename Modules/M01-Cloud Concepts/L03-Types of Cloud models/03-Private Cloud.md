@@ -1,4 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Private cloud</span></strong></h1>
 
 
 A private cloud is owned and operated by the organization that uses the resources from that cloud. They create a cloud environment in their own datacenter, and provide self-service access to compute resources to users within their organization. The organization remains the owner, entirely responsible for the operation of the services they provide.

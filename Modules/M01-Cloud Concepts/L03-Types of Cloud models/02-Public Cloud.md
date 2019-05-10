@@ -1,4 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Public cloud</span></strong></h1> 
 
 
 A public cloud is owned by the cloud services provider (also known as a *hosting provider*). It  provides resources and services to multiple organizations and users, who connect to the cloud service via a secure network connection, typically over the internet. 

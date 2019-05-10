@@ -1,4 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Role-based access control</span></strong></h1>
 
 Role-based access control (RBAC) provides fine-grained access management for Azure resources, enabling you to grant users only the rights they need to perform their jobs. RBAC is provided at no additional cost to all Azure subscribers.
 

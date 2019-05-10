@@ -1,4 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Minimizing costs</span></strong></h1>
 
 The following best practice guidelines can help minimize your Azure costs.
 

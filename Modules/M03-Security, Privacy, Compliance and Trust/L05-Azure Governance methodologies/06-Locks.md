@@ -1,4 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Locks</span></strong></h1>
 
 
 Locks help you prevent accidental deletion or modification of your Azure resources. You can manage these locks from within the Azure portal. To view, add, or delete locks, go to the **SETTINGS** section of any resource's settings blade.

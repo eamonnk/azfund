@@ -1,4 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Serverless computing</span></strong></h1>
 
 *Serverless computing* is a cloud-hosted execution environment that runs your code but abstracts the underlying hosting environment. You create an instance of the service and you add your code. No infrastructure configuration or maintenance is required, or even allowed. 
 

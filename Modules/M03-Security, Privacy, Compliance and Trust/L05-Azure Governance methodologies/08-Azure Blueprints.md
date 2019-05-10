@@ -1,4 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Azure Blueprints</span></strong></h1>
 
 
 Azure Blueprints enable cloud architects to define a repeatable set of Azure resources that implement and adhere to an organization's standards, patterns, and requirements. Azure Blueprint enables development teams to rapidly build and deploy new environments with the knowledge that they're building within organizational compliance with a set of built-in components that speed up development and delivery.

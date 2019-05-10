@@ -1,4 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Module 1 summary</span></strong></h1>
 
 In this module you've learned about cloud computing, what it is and what its key characteristics are. You learned about the different types of cloud models that are available and the considerations of using those different models. You also learned about the different  cloud services available, the benefits of using the different  types, and the management responsibilities under each service type.
 

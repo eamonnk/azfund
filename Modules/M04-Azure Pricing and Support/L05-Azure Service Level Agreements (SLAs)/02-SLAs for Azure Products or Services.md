@@ -1,4 +1,3 @@
-<h1><strong><span style="color: #0000CD;">SLAs for Azure products and services</span></strong></h1>
 
 There are three key characteristics of SLAs for Azure products and services, which the following sections detail.
 

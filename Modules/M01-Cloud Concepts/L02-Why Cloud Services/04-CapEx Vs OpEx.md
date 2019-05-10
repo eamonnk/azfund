@@ -1,4 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Capital expenditure (CapEx) versus operational expenditure (OpEx)</span></strong></h1> 
 
 In previous years, startup companies needed to acquire a physical premises and infrastructure to start their business and begin trading. Large amounts of money were need to get a new business up and running, or to grow an existing company. They would have to buy new datacenters or new servers to allow them build out new services, which they could then deliver to their customers. That is no longer the case. 
 

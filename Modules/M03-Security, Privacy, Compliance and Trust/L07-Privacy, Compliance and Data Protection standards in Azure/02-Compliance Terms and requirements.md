@@ -1,4 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Compliance terms and requirements</span></strong></h1>
 
 
 When selecting a cloud provider to host your solutions, you should understand how that provider can help you comply with regulations and standards. Some questions to ask about a potential provider include:

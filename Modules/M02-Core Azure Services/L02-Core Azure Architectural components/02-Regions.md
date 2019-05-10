@@ -1,4 +1,4 @@
-<h1><strong><span style="color: #0000CD;">Regions</span></strong></h1>
+
 
 Microsoft Azure is made up of datacenters located around the globe. These datacenters are organized and made available to end users by region.
 

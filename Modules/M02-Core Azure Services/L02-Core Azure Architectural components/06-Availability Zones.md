@@ -1,4 +1,4 @@
-<h1><strong><span style="color: #0000CD;">Availability Zones</span></strong></h1>
+
 
 *Availability zones* are physically separate locations within an Azure region. Each availability zone is made up of one or more datacenters equipped with independent power, cooling, and networking. It is set up to be an isolation boundary. If one availability zone goes down, the other continues working. The availability zones are typically connected to each other through very fast, private fiber-optic networks.
 

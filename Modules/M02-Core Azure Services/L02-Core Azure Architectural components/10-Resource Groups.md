@@ -1,4 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Resource groups</span></strong></h1>
 
 A *resource group* is a unit of management for your resources in Azure. You can think of your resource group as a container that allows you to aggregate and manage all the resources required for your application in a single manageable unit. This allows you to manage the application collectively over its life cycle, rather than manage components individually.
 

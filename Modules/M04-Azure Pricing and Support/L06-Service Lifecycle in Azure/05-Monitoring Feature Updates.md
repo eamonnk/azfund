@@ -1,4 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Monitoring feature updates</span></strong></h1>
 
 <p>Go to the <a href="https://azure.microsoft.com/en-us/updates/" target="_blank"><span style="color: #0066cc;" color="#0066cc">Azure Updates</span></a> page for information about the latest updates to Azure products, services, and features, as well as product roadmaps and announcements.</p>
 

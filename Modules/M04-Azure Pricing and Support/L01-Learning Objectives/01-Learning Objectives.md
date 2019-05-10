@@ -1,4 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Learning Objectives</span></strong></h1>
 
 After completing this module, you will be able to:
 

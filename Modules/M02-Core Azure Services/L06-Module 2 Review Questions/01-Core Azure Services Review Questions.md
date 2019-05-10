@@ -170,7 +170,7 @@ Azure PowerShell is a scripting language that allows you manage and configure Az
 
 ##Multiple choice##
 
-<<display_name:Review Question 10; weight:1; max_attempts:2; rerandomize:never; showanswer:finished; show_reset_button:false>>
+<<display_name:Review Question 9; weight:1; max_attempts:2; rerandomize:never; showanswer:finished; show_reset_button:false>>
 
 >> Which of the following services are part of the Artificial Intelligence service in Azure?<<
 

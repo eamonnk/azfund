@@ -62,7 +62,7 @@ display_coursenumber:""
 #### Course Visibility In Catalog
 ###### Defines the access permissions for showing the course in the course catalog. This can be set to one of three values: 'both' (show in catalog and allow access to about page), 'about' (only allow access to about page), 'none' (do not show in catalog and do not allow access to an about page).
 ```
-catalog_visibility:"none"
+catalog_visibility:"about"
 ```
 
 ---
@@ -86,19 +86,13 @@ GRADE_CUTOFFS: {
 #### GRADER
 ```
 GRADER: [
-        {
-            "drop_count": 0, 
-            "min_count": 4, 
-            "short_label": "Knowledge", 
-            "type": "Knowledge Check", 
-            "weight": 0.6
-        },
+    
         {
             "drop_count": 0, 
             "min_count": 1, 
             "short_label": "Final", 
             "type": "Final Exam", 
-            "weight": 0.4
+            "weight": 1
         }
     ]
 ```
@@ -115,3 +109,47 @@ GRADER: [
 ```
 self_paced:true
 ```
+```
+course_short_description:"This course will provide foundational level knowledge of cloud services, and how cloud services are provided with Microsoft Azure. The course can be taken as an optional first step in learning about cloud services and Microsoft Azure."
+```
+---
+
+
+#### Course Start Date
+###### First day the course begins
+###### Notice that the value of this property should be in a pair of quotes
+
+```
+start: "2019-04-12T00:00:00Z"
+```
+---
+
+#### Course End Date
+###### Last day your course is active
+###### Notice that the value of this property should be in a pair of quotes
+
+```
+end: "2019-07-01T00:00:00Z"
+```
+---
+
+
+#### Enrollment Start Date
+###### First day students can enroll
+###### Notice that the value of this property should be in a pair of quotes
+
+```
+enrollment_start: "2019-04-12T00:00:00Z"
+```
+---
+
+
+#### Enrollment End Date
+###### Last day students can enroll
+###### Notice that the value of this property should be in a pair of quotes
+
+```
+enrollment_end: "2019-07-01T00:00:00Z"
+```
+---
+

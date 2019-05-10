@@ -8,11 +8,7 @@ An active Azure subscription is required. If you do not have an Azure subscripti
 
 ### Steps
 
-1. To create a new Azure IoT Hub, select the **Deploy to Azure** button. Sign into Azure Portal, when prompted.
-
-	![](../../Linked_Image_Files/deploybutton.png)[Deploy to Azure](https://portal.azure.com/#create/microsoft.iothub)
-	
-	![](../../Linked_Image_Files/visualizebutton.png)[Visualize](http://armviz.io/#/?load=https%3A%2F%2Fportal.azure.com%2F%23create%2Fmicrosoft.iothub)
+1. To create a new IoT Hub, sign in to the Azure Portal and locate the *IoT Hub* service, then select **Create IoT Hub**, or alternatively, click on this <a href="https://portal.azure.com/#create/microsoft.iothub" target="_blank"><span style="color: #0066cc;" color="#0066cc">Create IoT Hub</span></a> link and when prompted, sign into Azure Portal.
 	
 2. Fill in the fields with the following details.
 
@@ -40,7 +36,7 @@ An active Azure subscription is required. If you do not have an Azure subscripti
 
 	<p style="text-align:center;"><img src="../Linked_Image_Files/m02-l04-iot-05-notify.png" alt="Screenshot of the deployment in progress and deployment succeeded notifications in Azure portal."></p>
 
-6. To add a a new IoT device, select **Explorers** > **IoT Devices** from the **IoT Hub navigation** blade. Then, choose the **+ Add** button.
+6. To add a new IoT device, select **Explorers** > **IoT Devices** from the **IoT Hub navigation** blade. Then, choose the **+ Add** button.
 
 	<p style="text-align:center;"><img src="../Linked_Image_Files/m02-l04-iot-06-add-device.png" alt="Screenshot of the IoT devices pane, highlighted within the IoT hub navigation blade, in Azure portal. The add button is highlighted to illustrate how to add a new IoT device identity to IoT hub."></p>
 

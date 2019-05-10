@@ -1,4 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Management groups</span></strong></h1>
 
 Azure Management Groups are containers for managing access, policies, and compliance across multiple Azure subscriptions. Management groups allow you to order your Azure resources hierarchically into collections, which provides a further level of classification that is above the level of subscriptions.
 

@@ -1,4 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Service-level agreements (SLAs)</span></strong></h1>
 
 Microsoft maintains its commitment to providing customers with high-quality products and services by adhering to comprehensive operational policies, standards, and practices. Formal documents known as *Service-Level Agreements* (SLAs) capture the specific terms that define the performance standards that apply to Azure.
 

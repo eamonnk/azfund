@@ -1,4 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Azure billing zones</span></strong></h1>
 
 
 Bandwidth refers to data moving in and out of Azure datacenters. Some inbound data transfers, such as data going into Azure datacenters, are free. For outbound data transfers, such as data going out of Azure datacenters, data transfer pricing is based on **Zones**.

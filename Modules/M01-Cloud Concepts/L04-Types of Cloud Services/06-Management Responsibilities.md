@@ -1,4 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Management responsibilities</span></strong></h1>
 
 
 The following list of cloud service types describes the management responsibilities for the user and the cloud provider as compared to on-premises systems:

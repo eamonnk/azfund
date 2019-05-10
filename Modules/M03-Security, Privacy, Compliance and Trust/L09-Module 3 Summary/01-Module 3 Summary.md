@@ -1,4 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Module 3 summary</span></strong></h1>
 
 In this module you've learned about securing network connectivity in Azure, core identity services, security tools and features, Azure governance methodologies, monitoring and reporting in Azure, and privacy, compliance, and data protection standards in Azure.
 

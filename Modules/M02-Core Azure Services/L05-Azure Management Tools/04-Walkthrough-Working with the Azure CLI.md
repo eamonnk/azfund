@@ -26,7 +26,7 @@ We will install Azure CLI on the Windows operating system using the MSI installe
 
 4. Once successfully installed, the Azure CLI is run by opening a Bash shell for Linux or macOS, or from the command prompt or PowerShell for Windows. Open a command prompt as administrator.
 
-5. Login to your Azure subscription by runnning the below command and following the prompts
+5. Login to your Azure subscription by running the below command and following the prompts
 
 ```azurecli
 az login

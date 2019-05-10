@@ -1,4 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Public and private preview features</span></strong></h1>
 
 Microsoft offer previews of Azure features for evaluation purposes.  With *Azure Preview Features*, you can test beta and other prerelease features, products, services, software, and regions.  Providing feedback on the features you preview also helps Microsoft improve Azure.
 

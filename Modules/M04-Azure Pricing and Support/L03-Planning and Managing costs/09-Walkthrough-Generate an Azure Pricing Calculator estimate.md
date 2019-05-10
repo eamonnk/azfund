@@ -2,8 +2,6 @@ In this walkthrough, you will generate and then download a cost estimate for a s
 
 Finish this walkthrough by completing the steps that follow, or by reading through them.
 
-<p style="text-align:center;"><img src="../Linked_Image_Files/m04-l03-pricing-13-offline-estimate.png" alt="Screenshot of an example Azure pricing calculator estimate in Microsoft excel."></p>
-
 >**Note**: To create an Azure Pricing Calculator estimate, this walkthrough provides example configurations for the VM and related resources. Use the example configurations or provide the Azure Pricing Calculator with details of your *actual* resource requirements instead.
 
 ### Steps
@@ -56,7 +54,7 @@ Finish this walkthrough by completing the steps that follow, or by reading throu
 
 9. Add a name for your VM bandwidth configuration. This walkthrough example uses the name **Bandwidth: Windows VM**. Modify the default bandwidth configuration by adding the following details.
 
-    |Region|Zone 1 Outbound Data Transferer Amount|
+    |Region|Zone 1 Outbound Data Transfer Amount|
     |------|--------------------------------------|
     |North Europe|50 GB|
 
@@ -78,7 +76,7 @@ Finish this walkthrough by completing the steps that follow, or by reading throu
 
     |Data processed|
     |--------------|
-    |25 GB|
+    |50 GB|
 
     |Zone 1: North America, Europe|
     |-----------------------------|
@@ -93,5 +91,7 @@ Finish this walkthrough by completing the steps that follow, or by reading throu
     Change the currency to Euro, then select **Export** to download a copy of the estimate for offline viewing in Microsoft Excel (`.xlsx`) format.
 
 <p style="text-align:center;"><img src="../Linked_Image_Files/m04-l03-pricing-12-save-estimate.png" alt="Screenshot of the total estimated monthly costs within the Azure pricing calculator estimate webpage. The highlighted euro currency option indicates how to modify the currency used in an Azure pricing calculator estimate. The highlighted export option illustrates how to download a copy of an estimate for offline viewing."></p>
+
+<p style="text-align:center;"><img src="../Linked_Image_Files/m04-l03-pricing-13-offline-estimate.png" alt="Screenshot of an example Azure pricing calculator estimate in Microsoft excel."></p>
 
 Congratulations! You downloaded an estimate from the Azure Pricing Calculator.

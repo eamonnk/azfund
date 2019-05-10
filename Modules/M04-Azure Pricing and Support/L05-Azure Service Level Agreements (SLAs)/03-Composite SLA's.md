@@ -1,4 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Composite SLAs</span></strong></h1>
 
 When combining SLAs across different service offerings, the resultant SLA is a called a *Composite SLA*. The resulting composite SLA can provide higher or lower uptime values, depending on your application architecture.
 
@@ -25,4 +24,4 @@ Therefore, the total composite SLA is:
 
 Web app *AND* database *OR* queue = `99.95 percent × 99.99999 percent = ~99.95 percent`
 
-However, there are tradeoffs to using this approach. The application logic is more complex, you are paying for the queue, and there may be data-consistency issues.
+However, there are tradeoffs to using this approach such as, the application logic is more complex, you are paying for the queue, and there may be data-consistency issues which you need to consider.

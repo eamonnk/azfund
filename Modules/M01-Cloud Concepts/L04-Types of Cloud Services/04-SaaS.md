@@ -1,4 +1,4 @@
-## Software as a Service (SaaS)
+
 
 
 
@@ -8,7 +8,7 @@ SaaS is software that is centrally hosted and managed for the end customer. It a
 SaaS is typically licensed through a monthly or annual subscription, and Office 365 is an example of SaaS software.
 
 
-<p style="text-align:center;"><img src="../Linked_Image_Files/saas1.png" alt="SaaS encompasses PaaS, which encompasses IaaS. The IaaS icons are Servers and Storage, Networking firewalls and security, and Datacenter physical plant and security. In addition to the IaaS icons, PaaS icons include an Operating systems icon, and a Development tools, database management, and business analytics icon. The SaaS icon includes all of the PaaS icon and a Hosted applications and apps icon."></p>
+<p style="text-align:center;"><img src="../Linked_Image_Files/saas3.png" alt="SaaS encompasses PaaS, which encompasses IaaS. The IaaS icons are Servers and Storage, Networking firewalls and security, and Datacenter physical plant and security. In addition to the IaaS icons, PaaS icons include an Operating systems icon, and a Development tools, database management, and business analytics icon. The SaaS icon includes all of the PaaS icon and a Hosted applications and apps icon."></p>
 
 
 SaaS has the following characteristics:

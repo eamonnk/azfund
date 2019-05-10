@@ -1,4 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Azure Storage services</span></strong></h1>
 
 
 *Azure Storage* is a service that you can use to store files, messages, tables, and other types of information. You can use Azure Storage on its own (for example as a file share), but developers also often use it as a store for working data. Such stores can be used by websites, mobile apps, desktop applications, and many other types of custom solutions. Azure Storage is also used by IaaS virtual machines, and PaaS cloud services. 

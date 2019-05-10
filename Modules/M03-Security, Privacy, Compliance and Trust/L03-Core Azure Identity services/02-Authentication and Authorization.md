@@ -1,4 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Authentication and authorization</span></strong></h1>
 
 Two fundamental concepts that need to be understood when talking about identity and access are authentication and authorization. They underpin everything else that happens and occur sequentially in any identity and access process:
 

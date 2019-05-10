@@ -1,4 +1,3 @@
-<h1><strong><span style="color: #0000CD;">How to access preview features</span></strong></h1>
 
 Go to the Azure <a href="https://azure.microsoft.com/en-us/services/preview/" target="_blank"><span style="color: #0066cc;" color="#0066cc">Preview Features</span></a> page to review a list of preview features that are available for evaluation. To preview a feature, select the **Try it** button for the applicable feature. Additionally, you can find out more information about an Azure preview feature before you try it by choosing **Learn more**.
 

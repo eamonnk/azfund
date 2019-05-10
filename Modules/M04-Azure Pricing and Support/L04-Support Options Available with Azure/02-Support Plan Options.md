@@ -1,4 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Support plan options</span></strong></h1>
 
 Every Azure subscription includes free access to the following basic support services:
 

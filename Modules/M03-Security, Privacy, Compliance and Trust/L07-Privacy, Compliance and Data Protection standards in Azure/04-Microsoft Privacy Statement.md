@@ -1,4 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Microsoft privacy statement</span></strong></h1>
 
 The Microsoft privacy statement explains what personal data Microsoft processes, how Microsoft processes it, and for what purposes.
 

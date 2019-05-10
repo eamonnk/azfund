@@ -114,7 +114,7 @@ Now we will create two virtual machines and place them in the two additional sub
 
 
 #### Deploy the Firewall into the VNET
-This will ake approx 5 mins to configure and deploy
+This will take approx 5 mins to configure and deploy
 
 1. From the portal home page, click **Create a resource** and in the **New** pane type **Firewall**, then click **Create**
 

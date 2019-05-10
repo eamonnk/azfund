@@ -1,4 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Total Cost of Ownership (TCO) Calculator</span></strong></h1>
 
 The *Total Cost of Ownership* (TCO) Calculator is a tool that you use to estimate cost savings you can realize by migrating to Azure. To use the TCO calculator, complete the three steps that the following sections explain.
 

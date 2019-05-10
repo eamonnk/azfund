@@ -1,4 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Azure network services</span></strong></h1>
 
 
 Networking on Azure allows you to connect cloud and on-premises infrastructure and services to provide your customers and users the best possible experience. Once the resources move to Azure, they require the same networking functionality as an on-premises deployment. In specific scenarios, they may require some level of network isolation. Azure networking components offer a range of functionality and services that can help organizations design and build cloud infrastructure services that meet their requirements. 

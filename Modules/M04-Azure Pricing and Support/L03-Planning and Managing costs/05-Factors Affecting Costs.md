@@ -1,4 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Factors affecting costs</span></strong></h1>
 
 The following sections describe the main factors that affect Azure costs, including resource type, services, and the user's location.
 

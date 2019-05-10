@@ -1,4 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Opening a support ticket</span></strong></h1>
 
 If you have an issue with Azure, you can request assistance from the Azure support team by creating a new *support ticket*.
 

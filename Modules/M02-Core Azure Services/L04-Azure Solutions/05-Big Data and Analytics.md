@@ -1,4 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Big Data and Analytics</span></strong></h1>
 
 Data comes in all types of forms and formats. When we talk about Big Data, we're referring to large volumes of data. Data from weather systems, communications systems, imaging platforms, and many other scenarios generate large amounts of data. This amount of data becomes increasingly hard to make sense of, and make decisions around. The volumes are so large that traditional forms of processing and analysis are no longer appropriate. 
 

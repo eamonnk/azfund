@@ -1,4 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Alternative support channels</span></strong></h1>
 
 There are several additional support channels that are available outside Azure's official support plans, and the following sections detail them.
 

@@ -1,5 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Network Security Groups</span></strong></h1>
-
 
 
 *Network Security Groups* (NSGs) allow you to filter network traffic to and from Azure resources in an Azure virtual network. An NSG can contain multiple inbound and outbound security rules that enable you to filter traffic to and from resources by source and destination IP address, port, and protocol.

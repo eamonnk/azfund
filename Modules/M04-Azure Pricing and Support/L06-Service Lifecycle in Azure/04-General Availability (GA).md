@@ -1,4 +1,3 @@
-<h1><strong><span style="color: #0000CD;">General Availability (GA)</span></strong></h1>
 
 
 Once a feature is evaluated and tested successfully, it may be released to customers as part of Azure's default product, service or feature set.

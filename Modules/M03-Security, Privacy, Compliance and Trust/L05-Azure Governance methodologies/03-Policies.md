@@ -1,5 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Policies</span></strong></h1>
-
 
 The journey of creating and implementing a policy in Azure Policy begins with creating a policy definition. Every policy definition has conditions under which it is enforced. And, it has an accompanying effect that takes place if the conditions are met.
 

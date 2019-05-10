@@ -27,7 +27,7 @@ You can complete this walkthrough task by completing the steps outlined below, o
     | --- | --- |
     | Subscription | < Select your subscription > |
     | Resource group | Select **Create new**, enter **strac-rg1**, then select **OK**. |
-    | Storage account name | < this must be be between 3-24 characters in length, can be numbers and lowercase only, and must be unique across Azure > |
+    | Storage account name | < this must be between 3-24 characters in length, can be numbers and lowercase only, and must be unique across Azure > |
     | Location | **East US**  |
     | Performance | **Standard** |
     | Account kind | Leave the default value **StorageV2 (general purpose v2)*** |

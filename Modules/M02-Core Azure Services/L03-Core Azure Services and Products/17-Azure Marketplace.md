@@ -1,4 +1,3 @@
-<h1><strong><span style="color: #0000CD;">Azure Marketplace</span></strong></h1>
 
 *Azure Marketplace* is a service on Azure that helps connect end users with Microsoft partners, independent software vendors (ISVs), and start-ups that are offering their solutions and services, which are optimized to run on Azure. Azure Marketplace allows customers—mostly IT professionals and cloud developers—to find, try, purchase, and provision applications and services from hundreds of leading service providers, all certified to run on Azure.
 
