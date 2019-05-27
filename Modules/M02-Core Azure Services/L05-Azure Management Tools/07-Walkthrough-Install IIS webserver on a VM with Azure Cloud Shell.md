@@ -1,6 +1,18 @@
 In this walkthrough, you use *Azure Cloud Shell* to automate the installation of the Windows *Internet Information Services* webserver (IIS) on a new virtual machine (VM). Azure Cloud Shell creates a VM and uses the *Custom Script Extension* to install IIS.
 
+
+With the Azure Cloud Shell it is possible to have either a **PowerShell** or **Bash** interface. In these interfaces you can use the following commands and script types:
+
+- **PowerShell interface**:  Powershell or Azure CLI 
+- **Bash interface**: Shell command and scripts or Azure CLI 
+
+The steps provided in this walkthrough are performed using a **PowerShell Interface** with **PowerShell** commands, however you could also use a **Bash interface** with **Azure CLI**. For specific steps on installing a Linux virtual machine using **Bash interface** and **Azure CLI** see the <a href="https://docs.microsoft.com/en-us/azure/cloud-shell/quickstart" target="_blank"><span style="color: #0066cc;">Quickstart for Bash in Azure Cloud Shell</span></a>
+
+Some other common and useful tools are pre-installed and available straight away to use such as **Docker**, **npm**, **pip**, **maven**, **some common linux text editors** as well as open source tools such as **Terraform**, **Ansible**, **Chef InSpec** and many more tools. For more details on tools  available see the <a href="https://docs.microsoft.com/en-us/azure/cloud-shell/features" target="_blank"><span style="color: #0066cc;">Features & tools for Azure Cloud Shell</span></a>
+
 Finish this walkthrough by completing the steps that follow, or by reading through them.
+
+
 
 ### Prerequisites
 
